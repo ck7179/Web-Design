@@ -77,8 +77,8 @@ h6{
 	z-index: 100;
 }
 #header_container{
-	height: 24px;
-	/*padding-top: 16px;
+	/*height: 24px;
+	padding-top: 16px;
 	padding-bottom: 16px;*/
 	padding-right: 42px;
 	padding-left: 42px;  
@@ -89,7 +89,7 @@ h6{
 	color:white;
 	font-weight: bold;
 	float: left;
-	line-height: 20px;
+	line-height: 60px;
 }
 #link{
 	float: right;
@@ -97,7 +97,7 @@ h6{
 #link>a{
 	padding-left:20px;
 	padding-right:20px;
-	line-height: 20px;
+	line-height: 60px;
 	display:block;
 	font-size: 100%;
 	float: left;
@@ -107,7 +107,7 @@ h6{
 	background:rgb(20,20,20);
 }		
 #container{
-	padding-top: 56px;
+	padding-top: 58px;
 	
 }
 #slider{
