@@ -1,4 +1,4 @@
-html, body, div, span, applet, object, iframe,
+﻿html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
@@ -79,6 +79,7 @@ body{
 	width: 100%;
 	min-width: 750px;
 	position: fixed;
+	z-index: 100;
 }
 #header_container{
 	height:100px;
@@ -137,7 +138,8 @@ body{
 	background: rgba(0,0,0,0.05);
 }	
 #main{
-	height: 700px;/***********僅方便展示，請記得刪除height: 700px;!!************/
+	padding-top: 100px;
+	min-height: 700px;/***********僅方便展示，請記得刪除min-height: 700px;!!************/
 }
 #footer{
 	height: 150px;
@@ -160,6 +162,7 @@ body{
 	color: rgb(140,140,140);
 	font-family: Microsoft JhengHei;
 	font-size: 80%;
+	text-align: justify;
 }
 #connect{
 	width: 35%;
