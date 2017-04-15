@@ -5,6 +5,7 @@
 	<title>寶癢美麗生活館</title>
 	<link rel="stylesheet" href="css/all.css">
 	<link rel="stylesheet" href="css/index.css">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<script type="text/javascript">
 		function socail_g_over(){document.getElementById('socail_g').src ="images/social_google.png"}
 		function socail_g_out(){document.getElementById('socail_g').src ="images/social_google2.png"}
@@ -12,6 +13,22 @@
 		function socail_t_out(){document.getElementById('socail_t').src ="images/social_twitter2.png"}
 		function socail_f_over(){document.getElementById('socail_f').src ="images/social_facebook.png"}
 		function socail_f_out(){document.getElementById('socail_f').src ="images/social_facebook2.png"}
+	</script>
+	<script language="javascript">
+	   $(document).ready(function(){
+		 var docw = $(document).width() - 600;
+		 $("#slider_arrow_right").click(function(){
+			$("#sidebar_box_wrapper").animate({
+				scrollLeft: $("#sidebar_box_wrapper").scrollLeft() + docw
+			}, 1000,function(){});   
+		 });
+		 $("#slider_arrow_left").click(function(){
+			$("#sidebar_box_wrapper").animate({
+				scrollLeft: $("#sidebar_box_wrapper").scrollLeft() - docw
+			}, 1000,function(){});   
+		 });
+
+	   });
 	</script>
 </head>
 <body>
@@ -46,7 +63,95 @@
 		<div id="container">
 			<div id="main">
 			<!--=======主要內容寫在這裡=======-->
-
+				<div id="slider"><!--活動促銷-->
+					<div id="slider_picture">
+						<img src="images/slider_img.png" alt="">
+					</div>
+					<div id="slider_info_wrapper">
+						<div id="slider_info">
+							<span>優惠活動</span>
+							<p>即日起，本館各式男女衣著全面85折起，歡迎進入選購，本優惠活動不得與其他折扣合併計算，髮飾配件、泳裝等不列入優惠範圍。</p>
+						</div>
+					</div>
+					<div id="clear"></div>
+				</div>
+				<div id="sidebar"><!--排行榜-->
+					<div id="sidebar_title">
+						<span>銷售推薦排行榜</span>
+					</div>
+					<div id="sidebar_content">
+						<div class="siderbar_arrow">
+							<!-- <a href="javascript: return false" onclick="left()"><img  id="siderbar_arrow_l" src="images/sidebar_arrow_left.png" alt=""></a> -->
+							<button id="slider_arrow_left" ></button>
+						</div>
+						<div id="sidebar_box_wrapper">
+						<div id="sidebar_box">
+							<div class="box">
+								<div class="box_img">
+									<p><a href="#"><img src="images/box1.jpg" alt=""></a></p>
+								</div>
+								<div class="box_info">
+									<p>香耐噁粉色彩妝餅粉</p>
+									<hr>
+									<span>＝銷售No.1＝</span>
+								</div>
+							</div>
+							<div class="box">
+								<div class="box_img">
+									<p><a href="#"><img src="images/box2.jpg" alt=""></a></p>
+								</div>
+								<div class="box_info">
+									<p>香耐噁誘惑香水</p>
+									<hr>
+									<span>＝銷售No.2＝</span>
+								</div>
+							</div><div class="box">
+								<div class="box_img">
+									<p><a href="#"><img src="images/box3.jpg" alt=""></a></p>
+								</div>
+								<div class="box_info">
+									<p>巴黎喇牙彩妝筆組</p>
+									<hr>
+									<span>＝銷售No.3＝</span>
+								</div>
+							</div><div class="box">
+								<div class="box_img">
+									<p><a href="#"><img src="images/box4.jpg" alt=""></a></p>
+								</div>
+								<div class="box_info">
+									<p>OLAV瘀青頰妝筆組</p>
+									<hr>
+									<span>＝銷售No.4＝</span>
+								</div>
+							</div><div class="box">
+								<div class="box_img">
+									<p><a href="#"><img src="images/box5.jpg" alt=""></a></p>
+								</div>
+								<div class="box_info">
+									<p>WinterLove冬之戀泳裝</p>
+									<hr>
+									<span>＝銷售No.5＝</span>
+								</div>
+							</div><div class="box">
+								<div class="box_img">
+									<p><a href="#"><img src="images/box6.jpg" alt=""></a></p>
+								</div>
+								<div class="box_info">
+									<p>鄰家女孩必備圍巾</p>
+									<hr>
+									<span>＝銷售No.6＝</span>
+								</div>
+							</div>
+							<div id="clear"></div>
+						</div>
+						</div>
+						<div class="siderbar_arrow">
+							<!-- <a href="javascript: return false" onclick="right()"><img  id="siderbar_arrow_r" src="images/sidebar_arrow_right.png" alt=""></a> -->
+							<button id="slider_arrow_right" ></button>
+						</div>
+						<div id="clear"></div>
+					</div>
+				</div>
 			<!--=======主要內容寫在這裡=======-->	
 			</div>
 			<div id="footer"><!--底部介紹-->
