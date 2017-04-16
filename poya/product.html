@@ -12,8 +12,9 @@
 	<meta property="og:description" content="寶癢生活館為個人美妝生活用品專賣，歐美、日韓流行彩妝、日韓流行少女襪及品牌化妝品、內睡衣等專櫃多達4萬個品項，提供消費者最方便、最齊全、最專業的購物選擇。" >
 	<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/ck7179/Web-Design/master/poya/images/favicon.png">
 	<title>寶癢美麗生活館</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="css/all.css">
-	<link rel="stylesheet" href="css/index.css">
+	<link rel="stylesheet" href="css/product.css">
 	<link rel="stylesheet" href="css/list.css">
 	<script type="text/javascript">
 		function socail_g_over(){document.getElementById('socail_g').src ="images/social_google.png"}
@@ -23,6 +24,16 @@
 		function socail_f_over(){document.getElementById('socail_f').src ="images/social_facebook.png"}
 		function socail_f_out(){document.getElementById('socail_f').src ="images/social_facebook2.png"}
 	</script>
+	<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+  	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+  	<script src="js/jquery-ui.js"></script>
+ 	<script>
+ 		$( function() {
+ 	   	$( "#tabs" ).tabs();
+ 	} );
+ 	</script>
+ 	<script src="js/myform.js"></script>
 </head>
 <body>
 	<div id="wrapper">
@@ -42,32 +53,25 @@
 				<div id="header_menu">
 					<ul>
 						<li><a href="index.html">最新消息</a></li>
-						<li><a href="list.html">商品列表</a></li>
+						<li><a href="product.html">商品列表</a></li>
 						<li><a href="#">分店資訊</a></li>
 						<li><a href="#">關於寶癢</a></li>
 						<li><a href="#">聯絡我們</a></li>
 					</ul>
 				</div>
 			</div>
-
 		</div>
 		<div id="container">
 			<div id="main">
 			<!--=======主要內容寫在這裡=======-->
-				
-				<!--=======搜尋欄位=======-->
-				<div class="search_bar">
-						<input id="searchBar" type="text" placeholder="搜尋商品">
-					  <a href="#"><img   id="searchImg" src="images/1492265907_search.png" alt=""></a>
+			<!-- 搜尋 -->
+				<div class="one">
+					<form>
+					 	 <input type="text" name="search" placeholder="Search..">
+					</form>
 				</div>
-				<div class="current_type">
-					<a href="#"><span>流行彩妝</span></a>
-					<span>></span>
-					<a href="#"><span>主打商品</span></a>
-					<span>></span>
-				</div>
-				<div id="clear"></div>
-				<!--=======左側欄分類=======-->
+				<div class="clear"></div>
+			<!--=======左側欄分類=======-->
 				<div  id="left_side_wrapper" >
 					<div class="left_side">
 						<div id="classification">流行彩妝</div>
@@ -82,7 +86,7 @@
 						<div id="classification">文具市集</div>
 							<div id="type">
 								<ul>
-									<a href="list_office.html"><li>辦公文具</li></a>
+									<a href="#"><li>辦公文具</li></a>
 									<a href="#"><li>禮品雜貨</li></a>
 									<a href="#"><li>文具休閒</li></a>
 								</ul>
@@ -111,66 +115,104 @@
 							</div>
 					</div>
 				</div>
-			<!--=======右邊商品列表=======-->
-				<div  id="right_side_content_rwapper" >
-					<div class="right_side_content">
-						<div class="product">
-							<a href="">
-							<div id="pro_pic"><img src="images/product/p9.jpg"  alt="">
-							</div>
-							</a>
-							<div id="pro_intro">
-								<a href=""><p id="title">KissMe花漾美姬瞬翹自然捲纖長睫毛膏</p></a>
-								<p id="price">NT. <span style="color:#c00">$200</span></p>
-								<a href="#"><img src="images/addtobag.jpg" alt="" ></a>
-							</div>
-						</div>
-						<div class="product">
-							<a href="">
-							<div id="pro_pic"><img src="images/product/p10.jpg"  alt="">
-							</div>
-							</a>
-							<div id="pro_intro">
-								<a href=""><p id="title">KissMe花漾美姬瞬翹自然捲纖長睫毛膏</p></a>
-								<p id="price">NT. <span style="color:#c00">$200</span></p>
-								<a href="#"><img src="images/addtobag.jpg" alt="" ></a>
-							</div>
-						</div>
-						<div class="product">
-							<a href="">
-							<div id="pro_pic"><img src="images/product/p5.jpg"  alt="">
-							</div>
-							</a>
-							<div id="pro_intro">
-								<a href=""><p id="title">KissMe花漾美姬瞬翹自然捲纖長睫毛膏</p></a>
-								<p id="price">NT. <span style="color:#c00">$200</span></p>
-								<a href="#"><img src="images/addtobag.jpg" alt="" ></a>
-							</div>
-						</div>
-						<div class="product">
-							<a href="">
-							<div id="pro_pic"><img src="images/product/p7.jpg"  alt="">
-							</div>
-							</a>
-							<div id="pro_intro">
-								<a href=""><p id="title">KissMe花漾美姬瞬翹自然捲纖長睫毛膏</p></a>
-								<p id="price">NT. <span style="color:#c00">$200</span></p>
-								<a href="#"><img src="images/addtobag.jpg" alt="" ></a>
-							</div>
-						</div>
-						
-						
-						
-						
-						
-						
-						
-					</div>
+				
+			<!-- 商品圖片 -->
+				<div id="img">
+					<img src="images/product/1.jpg">
+					<ul>
+						<li><a href="#"><img src="images/product/1.jpg"></a></li>
+			            <li><a href="#"><img src="images/product/2.jpg"></a></li>
+			            <li><a href="#"><img src="images/product/3.jpg"></a></li>
+			            <li><a href="#"><img src="images/product/4.jpg"></a></li>
+			            <li><a href="#"><img src="images/product/5.jpg"></a></li>
+			            <li><a href="#"><img src="images/product/6.jpg"></a></li>
+			            <li><a href="#"><img src="images/product/7.jpg"></a></li>
+			            <li><a href="#"><img src="images/product/8.jpg"></a></li>
+					</ul>
+
+			<!-- 評分的星星 -->
+					<div id="starBg" class="star_bg"></div>
 				</div>
 
+			<!-- 簡介 -->
+				<div id="intro">
+					<h1>XXXXX</h1>
+					<h6>商品編號：0987654321</h6>
+					<span id="price">888</span>
+					<span id="NT">NT$</span>
+					<div class="clear"></div>
+					<hr/>
+					<div id="text">
+						<h3>簡介：</h3>
+						<p>
+							國際通用電壓<br>
+							2段噴射水流清潔力強<br>
+							200ml超大儲水容量<br>
+							可重複充電使用
+						</p>
+					</div>
+					<hr/>
+			<!-- 商品數量、購物車 -->
+					<form id='myform' method='POST' action='#'>
+					<table border="1">
+						<tr>
+							<td></td>
+							<td>
+								<span style="color: gray;font-size: 14px;">數量  </span>
+							    <input type='button' value='-' class='qtyminus' field='quantity' />
+							    <input type='text' name='quantity' value='0' class='qty' />
+							    <input type='button' value='+' class='qtyplus' field='quantity' />
+						    </td>
+						</tr>
+						<tr>
+							<td>
+								<input type="submit" value="加入購物車" class="button">
+
+							</td>
+							<td>
+								<input type="button" value="立即購買" class="button">
+							</td>
+						</tr>
+					</table>
+					</form>
+				</div>
+				<div class="clear"></div>
+
+			<!-- 詳細介紹、產品評論TAB -->
+				<div id="tabs" class="jquery_tab">
+					<ul>
+				    	<li><a href="#tabs-1">詳細介紹</a></li>
+				    	<li><a href="#tabs-2">產品評價</a></li>
+					</ul>
+					<div id="tab_text">
+					  	<div id="tabs-1">
+					  		<p>Aliquam nulla. Duis aliquam molestie erat. Ut et mauris vel pede varius sollicitudin. Sed ut dolor nec orci tincidunt interdum. Phasellus ipsum. Nunc tristique tempus lectus. </p>
+						    <img src="images/product/1.jpg" style="width: 95%; height: 95%">
+						   	<p>Proin elit arcu, rutrum commodo, vehicula tempus, commodo a, risus. Curabitur nec arcu. Donec sollicitudin mi sit amet mauris. Nam elementum quam ullamcorper ante.</p>
+						   	<img src="images/product/2.jpg" style="width: 45%; height: 45%">
+						   	<img src="images/product/3.jpg" style="width: 45%; height: 45%">
+						   	<p> Etiam aliquet massa et lorem. Mauris dapibus lacus auctor risus. Aenean tempor ullamcorper leo. Vivamus sed magna quis ligula eleifend adipiscing. Duis orci. Aliquam sodales tortor vitae ipsum. </p>
+						</div>
+						<div id="tabs-2">
+							<div  class="comment">
+								<img src="images/product/1.jpg">
+								<h3>username</h3>
+								<p>comment_text</p>
+							</div>
+
+							<div  class="comment">
+								<img src="images/product/2.jpg" alt="">
+								<h3>username</h3>
+								<p>comment_text：Etiam aliquet massa et lorem. Mauris dapibus lacus auctor risus. Aenean tempor ullamcorper leo. Vivamus sed magna quis ligula eleifend adipiscing. Duis orci. Aliquam sodales tortor vitae ipsum.</p>
+							</div>
+
+						</div>
+					</div>
+				</div>
+				<div id="clear"></div>
+				
 			<!--=======主要內容寫在這裡=======-->	
 			</div>
-			<div id="clear"></div>
 			<div id="footer"><!--底部介紹-->
 				<div id="about">
 				<h5>ABOUT US</h5>
