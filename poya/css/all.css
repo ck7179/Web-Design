@@ -140,7 +140,6 @@ body{
 }	
 #main{
 	padding-top: 100px;
-	min-height: 700px;/***********僅方便展示，請記得刪除min-height: 700px;!!************/
 }
 #footer{
 	height: 150px;
