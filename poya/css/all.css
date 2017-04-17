@@ -402,7 +402,7 @@ body{
 	width: 80%;
 	float: left;
 }
-#classification{
+.classification{
 	height: 23px;
 	width: 110px;
 	background-color: rgb(75,75,75);
