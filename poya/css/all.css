@@ -215,7 +215,6 @@ body{
 	height: 50px;
 	font-size: 150%;
 	letter-spacing: 5px;
-	/*text-align: center;*/
 	color:rgb(147,126,99);
 	display: block;
 }
@@ -384,7 +383,6 @@ body{
 }
 .current_type a{
 	color: #2f3030;
-
 }
 .left_side{
 	margin: 0px 5% 0px 5%;
@@ -425,6 +423,7 @@ body{
 	padding-top: 15px;
 	margin-bottom: 20px;
 }
+
 .right_side_content{
 	background-color: rgb(250,250,250);
 }
