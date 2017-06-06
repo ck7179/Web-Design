@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>pra_4</title>
+	<link rel="stylesheet" href="css/all.css">
+	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTc9Wqj4Bi5DVvh2ngGiinVcsVUagG9fY&callback=initMap"></script>
+</head>
+<body>
+<h1>多地標顯示+資訊視窗+顯示數字</h1>
+	<div id="map"></div>
+</body>
+</html>
+<script>
+function initMap(){
+	var center = {lat: 22.734225, lng: 120.283528};
+	var map = new google.maps.Map(document.getElementById('map'), {
+			zoom: 13,
+			center: center
+	});
+	var xhr = new XMLHttpRequest();
+	xhr.open('get','https://raw.githubusercontent.com/ck7179/Web-Design/master/final/resource/od.txt');
+	xhr.send(null);
+	xhr.onload = function(){
+		var data = JSON.parse(xhr.responseText);
+		data = data.result.records;
+		var marker_loc = [];
+		var markers = [];
+		var infoWindows = [];
+		for(var i=1;data.length>i;i++){	
+			marker_loc[i-1] = {lat: parseFloat(data[i].Latitude), lng: parseFloat(data[i].Longitude)};
+   			var marker = new google.maps.Marker({
+				position: marker_loc[i-1],
+				map: map,
+				//label跟title兩個參數會相牴觸
+				label: data[i].limit
+			});
+			markers.push(marker);
+			var message = '<span class="show">測速照相機</span><p>位置:'+data[i].Address+'</p><p>方向:'+data[i].direct+'</p>';
+			addInfoWindow(marker,message);			
+		}
+		function addInfoWindow(marker, message) {
+            var infoWindow = new google.maps.InfoWindow({
+                content: message
+            });
+            infoWindows.push(infoWindow);
+            google.maps.event.addListener(marker, 'click', function () {
+            	hideAllInfoWindows(map);
+            	infoWindow.open(map, marker);
+            });
+        }
+        function hideAllInfoWindows(map) {
+   			infoWindows.forEach(function(infoWindow) {
+     		infoWindow.close();
+  			});
+  		} 
+	}
+	
+}
+
+</script>

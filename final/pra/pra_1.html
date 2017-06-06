@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>pra_1</title>
+	<link rel="stylesheet" href="css/all.css">
+	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTc9Wqj4Bi5DVvh2ngGiinVcsVUagG9fY&callback=initMap"></script>
+</head>
+<body>
+<h1>多地標顯示</h1>
+	<div id="map"></div>
+</body>
+</html>
+<script>
+function initMap(){
+	//宣告地圖
+	var center = {lat: 22.734225, lng: 120.283528};
+	var map = new google.maps.Map(document.getElementById('map'), {
+			zoom: 13,//放大層級
+			center: center//設定地圖中心
+	});
+	//ajax
+	var xhr = new XMLHttpRequest();
+	xhr.open('get','https://raw.githubusercontent.com/ck7179/Web-Design/master/final/resource/od.txt');
+	xhr.send(null);
+	xhr.onload = function(){
+		//console.log("done!");
+		var data = JSON.parse(xhr.responseText);
+		data = data.result.records;
+		//console.log(data);
+		var marker_loc = [];
+		var marker = [];
+		//console.log(data.length);
+		for(var i=1;data.length>i;i++){	
+			//console.log("here2!");
+			//console.log(parseFloat(data[i].Latitude));
+			marker_loc[i-1] = {lat: parseFloat(data[i].Latitude), lng: parseFloat(data[i].Longitude)};
+   			marker[i-1] = new google.maps.Marker({
+				position: marker_loc[i-1],
+				map: map,
+				title: data[i].Address
+			});
+		}
+	}
+	
+}
+
+</script>

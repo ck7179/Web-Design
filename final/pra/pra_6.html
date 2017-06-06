@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>pra_6</title>
+	<link rel="stylesheet" href="css/all.css">
+	<!--熱度圖圖層是 google.maps.visualization 程式庫的一部分，因此網址中需引入"&libraries=visualization"-->
+	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTc9Wqj4Bi5DVvh2ngGiinVcsVUagG9fY&libraries=visualization&callback=initMap"></script>
+</head>
+<body>
+<h1>熱度圖</h1>
+	<div id="map"></div>
+</body>
+</html>
+<script>
+function initMap(){
+	var center = {lat: 22.734225, lng: 120.283528};
+	var map = new google.maps.Map(document.getElementById('map'), {
+			zoom: 13,
+			center: center
+	});
+	var xhr = new XMLHttpRequest();
+	xhr.open('get','https://raw.githubusercontent.com/ck7179/Web-Design/master/final/resource/od.txt');
+	xhr.send(null);
+	xhr.onload = function(){
+		var data = JSON.parse(xhr.responseText);
+		data = data.result.records;
+		var marker_locs = [];
+		var markers = [];
+		var infoWindows = [];
+		//確認是否已載入地址
+		if(addMarker(data)){
+			//印出熱度圖
+			addHeatMap(marker_locs,map);
+		}
+
+		function addMarker(data){
+			for(var i=1;data.length>i;i++){	
+				//new google.maps.LatLng()函數 == {lat:,lng:}
+				var marker_loc =  new google.maps.LatLng(parseFloat(data[i].Latitude),parseFloat(data[i].Longitude));
+				//weight是指權重
+				marker_locs.push({location:marker_loc,weight:1});
+	   			/*var marker = new google.maps.Marker({
+					position: marker_loc,
+					map: map,
+					label: data[i].limit
+				});
+				markers.push(marker);
+				var message = '<span class="show">測速照相機</span><p>位置:'+data[i].Address+'</p><p>方向:'+data[i].direct+'</p>';
+				addInfoWindow(marker,message);*/
+			}
+			return true;
+		}	
+
+		function addInfoWindow(marker, message) {
+            var infoWindow = new google.maps.InfoWindow({
+                content: message
+            });
+            infoWindows.push(infoWindow);
+            google.maps.event.addListener(marker, 'click', function () {
+            	hideAllInfoWindows(map);
+            	infoWindow.open(map, marker);
+            });
+        }
+
+        function hideAllInfoWindows(map) {
+   			infoWindows.forEach(function(infoWindow) {
+     		infoWindow.close();
+  			});
+  		}
+  		//熱度圖函數
+  		function addHeatMap(heatmapData,map){
+  			var heatmap = new google.maps.visualization.HeatmapLayer({
+				data: heatmapData,
+				dissipating:true,
+				radius:10,
+				maxIntensity:1.5
+				/*=====參數定義=====
+				//dissipating：指定熱度圖是否在縮放時消散。當「dissipating」為「false」時，影響的半徑會隨著縮放層級擴大，以確保任何指定的地理位置仍維持相同的色彩強度。預設為「false」。
+				//gradient：熱度圖的色彩漸層，指定為 CSS 色彩字串陣列。支援所有 CSS3 色彩 （包括 RGBA），除了延伸的具名色彩和 HSL(A) 值以外。
+				//maxIntensity：熱度圖的最大強度。根據預設，熱度圖色彩會根據地圖上位於任何特定像素之最大濃度的點來動態調整。此屬性可讓您指定固定的最大值。如果您的資料集包含擁有特別高強度的少量極端值時，設定最大強度會非常有用。
+				//radius：個別資料點的影響半徑，以像素為單位。
+				//opacity：熱度圖的不透明度，以介於 0 到 1 之間的數字表示
+				===================*/
+			});
+			heatmap.setMap(map);
+  		} 
+	}
+	
+}
+
+</script>

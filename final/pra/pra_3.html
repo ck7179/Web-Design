@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>pra_3</title>
+	<link rel="stylesheet" href="css/all.css">
+	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTc9Wqj4Bi5DVvh2ngGiinVcsVUagG9fY&callback=initMap"></script>
+</head>
+<body>
+<h1>多地標顯示+資訊視窗</h1>
+	<div id="map"></div>
+</body>
+</html>
+<script>
+function initMap(){
+	//宣告地圖
+	var center = {lat: 22.734225, lng: 120.283528};
+	var map = new google.maps.Map(document.getElementById('map'), {
+			zoom: 13,//放大層級
+			center: center//設定地圖中心
+	});
+	//ajax
+	var xhr = new XMLHttpRequest();
+	xhr.open('get','https://raw.githubusercontent.com/ck7179/Web-Design/master/final/resource/od.txt');
+	xhr.send(null);
+	xhr.onload = function(){
+		var data = JSON.parse(xhr.responseText);
+		data = data.result.records;
+		var marker_loc = [];
+		var markers = [];//將所有地標儲存在此陣列
+		var infoWindows = [];//將所有資訊視窗儲存在此陣列
+		for(var i=1;data.length>i;i++){	
+			marker_loc[i-1] = {lat: parseFloat(data[i].Latitude), lng: parseFloat(data[i].Longitude)};
+   			var marker = new google.maps.Marker({
+				position: marker_loc[i-1],
+				map: map,
+				title: data[i].Address
+			});
+			markers.push(marker);//將地標物件丟進markers裡
+			var message = '<li>位置:'+data[i].Address+'</li><li>方向:'+data[i].direct+'</li>';
+			addInfoWindow(marker,message);
+			
+		}
+		//新增資訊視窗的函數
+		function addInfoWindow(marker, message) {
+			//宣告一個資訊視窗物件
+            var infoWindow = new google.maps.InfoWindow({
+                content: message
+            });
+            infoWindows.push(infoWindow);//將資訊視窗物件丟進infoWindows裡
+            //監聽地標的click事件，觸發則...
+            google.maps.event.addListener(marker, 'click', function () {
+            	hideAllInfoWindows(map);//先關掉所有資訊視窗
+            	infoWindow.open(map, marker);//打開該資訊視窗
+            });
+        }
+        //隱藏所有資訊視窗的函數
+        function hideAllInfoWindows(map) {
+        	//將infoWindows陣列裡的所有資訊視窗物件通通抓出來，然後全部close()
+   			infoWindows.forEach(function(infoWindow) {
+     		infoWindow.close();
+  			});
+  		} 
+	}
+	
+}
+
+</script>

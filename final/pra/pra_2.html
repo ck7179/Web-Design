@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>pra_2</title>
+	<link rel="stylesheet" href="css/all.css">
+	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTc9Wqj4Bi5DVvh2ngGiinVcsVUagG9fY&callback=initMap"></script>
+	<script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">
+    </script>
+</head>
+<body>
+<h1>群集標記功能</h1>
+	<div id="map"></div>
+</body>
+</html>
+<script>
+function initMap(){
+	//宣告地圖
+	var center = {lat: 22.734225, lng: 120.283528};
+	var map = new google.maps.Map(document.getElementById('map'), {
+			zoom: 13,//放大層級
+			center: center//設定地圖中心
+	});
+	//ajax
+	var xhr = new XMLHttpRequest();
+	xhr.open('get','https://raw.githubusercontent.com/ck7179/Web-Design/master/final/resource/od.txt');
+	xhr.send(null);
+	xhr.onload = function(){
+		var data = JSON.parse(xhr.responseText);
+		data = data.result.records;
+		var marker_loc = [];
+		var marker = [];
+		for(var i=1;data.length>i;i++){	
+			marker_loc[i-1] = {lat: parseFloat(data[i].Latitude), lng: parseFloat(data[i].Longitude)};
+   			marker[i-1] = new google.maps.Marker({
+				position: marker_loc[i-1],
+				map: map,
+				title: data[i].Address
+			});
+		}
+		//增加群集功能
+		var markerCluster = new MarkerClusterer(map, marker,
+            {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
+	}
+	
+}
+
+</script>

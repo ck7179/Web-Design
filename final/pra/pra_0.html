@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>pra_0</title>
+	<link rel="stylesheet" href="css/all.css">
+</head>
+<body>
+	<h1>單一地標顯示</h1>
+	<div id="map"></div>
+	<script>
+	//設定地圖
+	function initMap() {
+		//位置物件
+		var center = {lat: 22.734225, lng: 120.283528};
+		var marker1 = {lat: 22.754396, lng: 120.332916};
+		//宣告地圖
+		var map = new google.maps.Map(document.getElementById('map'), {
+			zoom: 13,//放大層級
+			center: center//設定地圖中心
+		});
+		//宣告一個地標
+		var marker = new google.maps.Marker({
+			position: marker1,//地標位置
+			map: map,//地標所在地圖
+			title: '國立高雄第一科技大學'
+		});
+		//宣告一個資訊視窗
+		var infowindow = new google.maps.InfoWindow({
+			content: 'Hello!'//顯示內容(可以是字串、html、DOM...)
+		});
+		//設定點擊觸發
+		marker.addListener('click', function() {
+			infowindow.open(map, marker);//展開資訊視窗(在哪個地圖，哪個地標)
+		});
+	}
+</script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTc9Wqj4Bi5DVvh2ngGiinVcsVUagG9fY&callback=initMap"></script>
+</body>
+</html>
