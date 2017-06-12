@@ -2,18 +2,114 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<title>高雄 Easy Drive</title>
 	<link rel="stylesheet" href="css/all.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"/>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="https://gromo.github.io/jquery.scrollbar/jquery.scrollbar.js"></script>
 	<script src="js/all.js"></script>
+	<!-- <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTc9Wqj4Bi5DVvh2ngGiinVcsVUagG9fY&callback=initMap"></script> -->
+	
 </head>
 <body>
 <div id="wrapper">
-	<div id="title"></div>
-	<div id="main"></div>
-	<div id="footer"></div>
+	<div id="header">
+		<div id="title" class="animated fadeInDown">
+			<h1>高雄 Easy Drive</h1>
+		</div>	
+	</div>
+	<div id="middle">
+		<div id="box" class="animated flipInX">
+			<div id="box_content">
+				<h2>讓你簡單駕駛<br/>不被塞車及罰單影響心情</h2>
+			</div>
+			<div id="box_arrow" class="animated infinite fadeOutRight">
+				<img src="images/right_arrow.png" alt="">
+			</div>
+			<div id="clear"></div>
+		</div>
+	</div>
+	
+	<div id="footer"  class="animated fadeInUp">
+		<div id="about">
+			<div id="about_content">
+				<h5>ABOUT US</h5>
+				<p>在行車前先行規劃路程，避開車流量多的地區以及避開測速照相機的區域，讓您行車時能夠更簡單。</p>
+			</div>
+		</div>
+		<div id="connect">
+			<div id="connect_content">
+				<h5>CONTACT US</h5>
+				<ul>
+					<li>高雄市楠梓區高雄大學路700號</li>
+					<li>07-591 9000</li>
+					<li>poyang@nuk.edu.tw</li>
+				</ul>
+			</div>
+		</div>
+		<div id="social_link">
+			<!--社群連結-->
+			<a href="#" onmouseover="socail_g_over()" onmouseout="socail_g_out()">
+				<img id="socail_g" src="images/social_google2.png" alt="">
+			</a>
+			<a href="#" onmouseover="socail_t_over()" onmouseout="socail_t_out()">
+				<img id="socail_t" src="images/social_twitter2.png" alt="">
+			</a>
+			<a href="#" onmouseover="socail_f_over()" onmouseout="socail_f_out()">
+				<img id="socail_f" src="images/social_facebook2.png" alt="">
+			</a>
+		</div>
+		<div id="clear"></div>
+	</div>	
+	<div id="main" class="main_z-index">
+		<div id="sidebar_wrapper">
+			<div id="sidebar_ctrl">
+				<img id="sidebar_ctrl_img" src="images/left_arrow.png" alt="">
+			</div>
+			<div id="sidebar" class="sidebar_position">
+				<div id="t_1" class="tab t_select">
+					<span>測速相機</span>
+				</div>
+				<div id="t_2" class="tab">
+					<span>車流量</span>
+				</div>
+				<div id="tab_bottom"></div>
+				<div id="control_panel">
+				<!-- 抽換卡片 -->
+					<div id="t_1_1">
+						<div id="t_1_1_show_methed">
+							<span>顯示方式</span>
+							<img id="t_button" src="images/button_left.png" alt="">
+						</div>
+						<div id="t_1_1_range_choose">	
+							<span class="t_1_1_range_choose_title">方圓範圍</span>
+							<hr/>
+							<span>選擇方圓</span>
+							<form>
+								<select name="s_range">
+　									<option value="100">100KM</option>
+									<option value="200">200KM</option>
+									<option value="300">300KM</option>
+									<option value="400">400KM</option>
+								</select>
+							</form>
+							<span>測速相機</span>
+							<span class="highlight">12</span>
+							<span>個</span>
+							<hr/>
+						</div>	
+					</div>
+				<!--===-->
+				</div>
+				<div id="clear"></div>
+			</div>			
+		</div>	
+		<div id="map"></div>
+	</div>
+	<div id="clear"></div>
 </div>
-	
-	
 </body>
+
 </html>
+
