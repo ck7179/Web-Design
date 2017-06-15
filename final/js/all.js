@@ -7,7 +7,6 @@ function socail_f_over(){document.getElementById('socail_f').src ="images/social
 function socail_f_out(){document.getElementById('socail_f').src ="images/social_facebook2.png"}
 /*=====wrapper_js=====*/
 $(document).ready(function(){
-	$('.scrollbar-macosx').scrollbar();
 	var box = document.getElementById('box');
 	var sidebar_ctrl = document.getElementById('sidebar_ctrl');
 	var tab;
