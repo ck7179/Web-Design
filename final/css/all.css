@@ -183,13 +183,13 @@ body{
 	position: absolute;
 	top:0px;
 	left: 0px;
-	background: white;	
+	background: white;
 }
 .main_z-index{
-	/**/z-index: -10;
+	/**/visibility:hidden;
 }
 .hide{ /*js*/
-	z-index: 100;
+	visibility: visible;
 }
 #sidebar_wrapper{
 	width: 320px;
