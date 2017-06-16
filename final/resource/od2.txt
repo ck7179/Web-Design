@@ -1,0 +1,2883 @@
+{
+  "XML_Head": {
+    "-version": "1.1",
+    "-listname": "CCTV靜態資訊",
+    "-updatetime": "2017/06/16 00:00:00",
+    "-interval": "86400",
+    "Infos": {
+      "Info": [
+        {
+          "-cctvid": "64000C000001",
+          "-roadsection": "大中路(高雄)(大中二路/華夏路到大中二路/翠華路)",
+          "-locationpath": "2084",
+          "-startlocationpoint": "2091",
+          "-endlocationpoint": "2093",
+          "-px": "120.30497",
+          "-py": "22.68577"
+        },
+        {
+          "-cctvid": "64000C000002",
+          "-roadsection": "中華路(中華二路/同盟二路到中華三路/建國三路)",
+          "-locationpath": "2132",
+          "-startlocationpoint": "2137",
+          "-endlocationpoint": "2139",
+          "-px": "120.29132",
+          "-py": "22.64191"
+        },
+        {
+          "-cctvid": "64000C000003",
+          "-roadsection": "中華路(中華二路/同盟二路到中華三路/建國三路)",
+          "-locationpath": "2132",
+          "-startlocationpoint": "2137",
+          "-endlocationpoint": "2139",
+          "-px": "120.29183",
+          "-py": "22.64189"
+        },
+        {
+          "-cctvid": "64000C000004",
+          "-roadsection": "中華路(中華二路/九如二路到中華三路/八德二路)",
+          "-locationpath": "2132",
+          "-startlocationpoint": "2138",
+          "-endlocationpoint": "2140",
+          "-px": "120.29296",
+          "-py": "22.63687"
+        },
+        {
+          "-cctvid": "64000C000005",
+          "-roadsection": "中華路(中華三路/八德二路到中華三路/六合二路)",
+          "-locationpath": "2132",
+          "-startlocationpoint": "2140",
+          "-endlocationpoint": "2142",
+          "-px": "120.29457",
+          "-py": "22.63275"
+        },
+        {
+          "-cctvid": "64000C000006",
+          "-roadsection": "中華路(中華三路/民生二路到中華四路/新田路)",
+          "-locationpath": "2132",
+          "-startlocationpoint": "2144",
+          "-endlocationpoint": "2146",
+          "-px": "120.29905",
+          "-py": "22.62101"
+        },
+        {
+          "-cctvid": "64000C000007",
+          "-roadsection": "九如路(九如一路/水源路到九如一路/澄清路)",
+          "-locationpath": "2203",
+          "-startlocationpoint": "2220",
+          "-endlocationpoint": "2221",
+          "-px": "120.34445",
+          "-py": "22.63626"
+        },
+        {
+          "-cctvid": "64000C000008",
+          "-roadsection": "中華路(中華一路/明誠三路到中華二路/同盟二路)",
+          "-locationpath": "2132",
+          "-startlocationpoint": "2135",
+          "-endlocationpoint": "2137",
+          "-px": "120.29219",
+          "-py": "22.65310"
+        },
+        {
+          "-cctvid": "64000C000009",
+          "-roadsection": "楠陽/鳳楠路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.33031",
+          "-py": "22.72414"
+        },
+        {
+          "-cctvid": "64000C000010",
+          "-roadsection": "博愛路(博愛四路/重愛路到博愛三路/曾子路)",
+          "-locationpath": "1993",
+          "-startlocationpoint": "1996",
+          "-endlocationpoint": "1998",
+          "-px": "120.31049",
+          "-py": "22.68129"
+        },
+        {
+          "-cctvid": "64000C000011",
+          "-roadsection": "中正路(中正一路/福德三路到中正路/三多一路)",
+          "-locationpath": "2271",
+          "-startlocationpoint": "2285",
+          "-endlocationpoint": "2287",
+          "-px": "120.33580",
+          "-py": "22.62693"
+        },
+        {
+          "-cctvid": "64000C000012",
+          "-roadsection": "中正路(中正一路/福德三路到中正路/三多一路)",
+          "-locationpath": "2271",
+          "-startlocationpoint": "2285",
+          "-endlocationpoint": "2287",
+          "-px": "120.33662",
+          "-py": "22.62668"
+        },
+        {
+          "-cctvid": "64000C000013",
+          "-roadsection": "民族路(高雄)(民族一路(高雄)/華夏路到民族一路(高雄)/重愛路)",
+          "-locationpath": "2053",
+          "-startlocationpoint": "2054",
+          "-endlocationpoint": "2055",
+          "-px": "120.32091",
+          "-py": "22.68789"
+        },
+        {
+          "-cctvid": "64000C000014",
+          "-roadsection": "民族路(高雄)(明誠一路(高雄)/民族一路到民族一路(高雄)/同盟一路)",
+          "-locationpath": "2053",
+          "-startlocationpoint": "2059",
+          "-endlocationpoint": "2061",
+          "-px": "120.31554",
+          "-py": "22.65543"
+        },
+        {
+          "-cctvid": "64000C000015",
+          "-roadsection": "民族路(高雄)(民族一路(高雄)/大順一路到民族一路(高雄)/十全一路)",
+          "-locationpath": "2053",
+          "-startlocationpoint": "2060",
+          "-endlocationpoint": "2062",
+          "-px": "120.31482",
+          "-py": "22.64767"
+        },
+        {
+          "-cctvid": "64000C000016",
+          "-roadsection": "民族路(高雄)(民族一路(高雄)/大順一路到民族一路(高雄)/十全一路)",
+          "-locationpath": "2053",
+          "-startlocationpoint": "2060",
+          "-endlocationpoint": "2062",
+          "-px": "120.31474",
+          "-py": "22.64735"
+        },
+        {
+          "-cctvid": "64000C000017",
+          "-roadsection": "民族路(高雄)(民族一路(高雄)/九如二路到民族二路(高雄)/八德一路)",
+          "-locationpath": "2053",
+          "-startlocationpoint": "2063",
+          "-endlocationpoint": "2065",
+          "-px": "120.31374",
+          "-py": "22.63649"
+        },
+        {
+          "-cctvid": "64000C000018",
+          "-roadsection": "民族路(高雄)(民族二路(高雄)/建國一路到民族二路(高雄)/七賢一路)",
+          "-locationpath": "2053",
+          "-startlocationpoint": "2064",
+          "-endlocationpoint": "2066",
+          "-px": "120.31368",
+          "-py": "22.63528"
+        },
+        {
+          "-cctvid": "64000C000019",
+          "-roadsection": "五福路(五福二路/民權一路到五福一路/和平一路)",
+          "-locationpath": "2401",
+          "-startlocationpoint": "2415",
+          "-endlocationpoint": "2417",
+          "-px": "120.31423",
+          "-py": "22.62754"
+        },
+        {
+          "-cctvid": "64000C000020",
+          "-roadsection": "五福路(五福四路/河西路到五福三路/成功一路)",
+          "-locationpath": "2401",
+          "-startlocationpoint": "2407",
+          "-endlocationpoint": "2409",
+          "-px": "120.29095",
+          "-py": "22.62069"
+        },
+        {
+          "-cctvid": "64000C000021",
+          "-roadsection": "中山路(高雄)(中山四路/金福路到中山四路/大業北路)",
+          "-locationpath": "2013",
+          "-startlocationpoint": "2031",
+          "-endlocationpoint": "2033",
+          "-px": "120.33828",
+          "-py": "22.56998"
+        },
+        {
+          "-cctvid": "64000C000022",
+          "-roadsection": "三多路(三多一路/武慶三路到三多一路/自由路)",
+          "-locationpath": "2454",
+          "-startlocationpoint": "2469",
+          "-endlocationpoint": "2471",
+          "-px": "120.33590",
+          "-py": "22.62398"
+        },
+        {
+          "-cctvid": "64000C000023",
+          "-roadsection": "成功路(成功二路/復興三路到成功二路/擴建路)",
+          "-locationpath": "2303",
+          "-startlocationpoint": "2313",
+          "-endlocationpoint": "2314",
+          "-px": "120.30639",
+          "-py": "22.59191"
+        },
+        {
+          "-cctvid": "64000C000024",
+          "-roadsection": "中華路(中華一路/大順一路到中華二路/九如二路)",
+          "-locationpath": "2132",
+          "-startlocationpoint": "2136",
+          "-endlocationpoint": "2138",
+          "-px": "120.29196",
+          "-py": "22.64915"
+        },
+        {
+          "-cctvid": "64000C000025",
+          "-roadsection": "中華路(中華三路/中正四路-中華三路圓環到中華三路/五福三路-中華四路-中華三路圓環)",
+          "-locationpath": "2132",
+          "-startlocationpoint": "2143",
+          "-endlocationpoint": "2145",
+          "-px": "120.29713",
+          "-py": "22.62598"
+        },
+        {
+          "-cctvid": "64000C000026",
+          "-roadsection": "中華路(中華三路/中正四路-中華三路圓環到中華三路/五福三路-中華四路-中華三路圓環)",
+          "-locationpath": "2132",
+          "-startlocationpoint": "2143",
+          "-endlocationpoint": "2145",
+          "-px": "120.29739",
+          "-py": "22.62578"
+        },
+        {
+          "-cctvid": "64000C000027",
+          "-roadsection": "中山路(高雄)(中山一路/五福三路到中山二路/青年二路)",
+          "-locationpath": "2013",
+          "-startlocationpoint": "2020",
+          "-endlocationpoint": "2022",
+          "-px": "120.30160",
+          "-py": "22.62158"
+        },
+        {
+          "-cctvid": "64000C000028",
+          "-roadsection": "中華路(中華四路/四維四路到中華五路/復興三路)",
+          "-locationpath": "2132",
+          "-startlocationpoint": "2148",
+          "-endlocationpoint": "2150",
+          "-px": "120.30213",
+          "-py": "22.61325"
+        },
+        {
+          "-cctvid": "64000C000029",
+          "-roadsection": "旗津路(旗津三路/發祥街到旗津三路/復興三巷)",
+          "-locationpath": "2524",
+          "-startlocationpoint": "2530",
+          "-endlocationpoint": "2529",
+          "-px": "120.26900",
+          "-py": "22.60913"
+        },
+        {
+          "-cctvid": "64000C000030",
+          "-roadsection": "旗津路(旗津三路/發祥街到旗津三路/復興三巷)",
+          "-locationpath": "2524",
+          "-startlocationpoint": "2530",
+          "-endlocationpoint": "2529",
+          "-px": "120.27720",
+          "-py": "22.59925"
+        },
+        {
+          "-cctvid": "64000C000031",
+          "-roadsection": "旗津路(旗津三路/發祥街到旗津三路/復興三巷)",
+          "-locationpath": "2524",
+          "-startlocationpoint": "2530",
+          "-endlocationpoint": "2529",
+          "-px": "120.27535",
+          "-py": "22.60149"
+        },
+        {
+          "-cctvid": "64000C000032",
+          "-roadsection": "旗津路(旗津三路/旗津二路到旗津二路/敦和街)",
+          "-locationpath": "2524",
+          "-startlocationpoint": "2528",
+          "-endlocationpoint": "2527",
+          "-px": "120.28484",
+          "-py": "22.58963"
+        },
+        {
+          "-cctvid": "64000C000033",
+          "-roadsection": "大中路(高雄)(大中一路/鼎中路到大中二路/自由四路)",
+          "-locationpath": "2084",
+          "-startlocationpoint": "2086",
+          "-endlocationpoint": "2088",
+          "-px": "120.31905",
+          "-py": "22.67892"
+        },
+        {
+          "-cctvid": "64000C000034",
+          "-roadsection": "大中路(高雄)(大中二路/華夏路到大中二路/翠華路)",
+          "-locationpath": "2084",
+          "-startlocationpoint": "2091",
+          "-endlocationpoint": "2093",
+          "-px": "120.30704",
+          "-py": "22.68403"
+        },
+        {
+          "-cctvid": "64000C000035",
+          "-roadsection": "台 17(翠華路/菜公路到翠華路/新莊仔路)",
+          "-locationpath": "4432",
+          "-startlocationpoint": "4472",
+          "-endlocationpoint": "4474",
+          "-px": "120.29771",
+          "-py": "22.67865"
+        },
+        {
+          "-cctvid": "64000C000036",
+          "-roadsection": "中華路(中華五路/復興三路到中華五路/凱旋四路)",
+          "-locationpath": "2132",
+          "-startlocationpoint": "2150",
+          "-endlocationpoint": "2151",
+          "-px": "120.30979",
+          "-py": "22.59366"
+        },
+        {
+          "-cctvid": "64000C000037",
+          "-roadsection": "中華路(中華四路/青年二路到中華四路/三多四路)",
+          "-locationpath": "2132",
+          "-startlocationpoint": "2147",
+          "-endlocationpoint": "2149",
+          "-px": "120.30098",
+          "-py": "22.61623"
+        },
+        {
+          "-cctvid": "64000C000038",
+          "-roadsection": "大中路(高雄)(大中一路/鼎中路到大中二路/民族一路)",
+          "-locationpath": "2084",
+          "-startlocationpoint": "2086",
+          "-endlocationpoint": "2087",
+          "-px": "120.32181",
+          "-py": "22.67751"
+        },
+        {
+          "-cctvid": "64000C000039",
+          "-roadsection": "民族路(高雄)(民族一路(高雄)/裕誠路到民族一路(高雄)/大順一路)",
+          "-locationpath": "2053",
+          "-startlocationpoint": "2058",
+          "-endlocationpoint": "2060",
+          "-px": "120.31557",
+          "-py": "22.65972"
+        },
+        {
+          "-cctvid": "64000C000040",
+          "-roadsection": "中山路(高雄)(中山四路/平和東路到中山四路/大業北路)",
+          "-locationpath": "2013",
+          "-startlocationpoint": "2032",
+          "-endlocationpoint": "2033",
+          "-px": "120.34947",
+          "-py": "22.56935"
+        },
+        {
+          "-cctvid": "64000C000041",
+          "-roadsection": "新生路(新生路/新衙路到新生路/中興路)",
+          "-locationpath": "2514",
+          "-startlocationpoint": "2517",
+          "-endlocationpoint": "2532",
+          "-px": "120.31580",
+          "-py": "22.57671"
+        },
+        {
+          "-cctvid": "64000C000042",
+          "-roadsection": "凱旋路(凱旋三路/二聖一路到凱旋四路/中山三路)",
+          "-locationpath": "2366",
+          "-startlocationpoint": "2374",
+          "-endlocationpoint": "2376",
+          "-px": "120.32462",
+          "-py": "22.60513"
+        },
+        {
+          "-cctvid": "64000C000043",
+          "-roadsection": "民族路(高雄)(民族一路(高雄)/十全一路到民族二路(高雄)/建國一路)",
+          "-locationpath": "2053",
+          "-startlocationpoint": "2062",
+          "-endlocationpoint": "2064",
+          "-px": "120.31427",
+          "-py": "22.64044"
+        },
+        {
+          "-cctvid": "64000C000044",
+          "-roadsection": "台 17(中華一路/慶豐街到中華一路/大順一路)",
+          "-locationpath": "4432",
+          "-startlocationpoint": "4477",
+          "-endlocationpoint": "4479",
+          "-px": "120.29225",
+          "-py": "22.66121"
+        },
+        {
+          "-cctvid": "64000C000045",
+          "-roadsection": "台 17(翠華路/菜公路到翠華路/新莊仔路)",
+          "-locationpath": "4432",
+          "-startlocationpoint": "4472",
+          "-endlocationpoint": "4474",
+          "-px": "120.30290",
+          "-py": "22.68569"
+        },
+        {
+          "-cctvid": "64000C000046",
+          "-roadsection": "九如路(九如一路/堯山街到高雄交流道(九如一路))",
+          "-locationpath": "2203",
+          "-startlocationpoint": "2215",
+          "-endlocationpoint": "2219",
+          "-px": "120.32793",
+          "-py": "22.63909"
+        },
+        {
+          "-cctvid": "64000C000047",
+          "-roadsection": "九如路(九如一路/大順二路到九如一路/水源路)",
+          "-locationpath": "2203",
+          "-startlocationpoint": "2216",
+          "-endlocationpoint": "2220",
+          "-px": "120.33673",
+          "-py": "22.63753"
+        },
+        {
+          "-cctvid": "64000C000048",
+          "-roadsection": "翠華路(翠華路/菜公路到翠華路/大中二路)",
+          "-locationpath": "1954",
+          "-startlocationpoint": "1957",
+          "-endlocationpoint": "1958",
+          "-px": "120.30283",
+          "-py": "22.68886"
+        },
+        {
+          "-cctvid": "64000C000049",
+          "-roadsection": "台 17(蓮海路/茂大街到東林路/沿海三路)",
+          "-locationpath": "4432",
+          "-startlocationpoint": "4508",
+          "-endlocationpoint": "4509",
+          "-px": "120.37202",
+          "-py": "22.54111"
+        },
+        {
+          "-cctvid": "64000C000050",
+          "-roadsection": "台 17(蓮海路/沿海一路到東林路/沿海三路)",
+          "-locationpath": "4432",
+          "-startlocationpoint": "4507",
+          "-endlocationpoint": "4509",
+          "-px": "120.36297",
+          "-py": "22.55366"
+        },
+        {
+          "-cctvid": "64000C000051",
+          "-roadsection": "高楠公路(高楠公路/加昌路到高楠公路/水管路)",
+          "-locationpath": "1948",
+          "-startlocationpoint": "1950",
+          "-endlocationpoint": "1952",
+          "-px": "120.32488",
+          "-py": "22.72172"
+        },
+        {
+          "-cctvid": "64000C000052",
+          "-roadsection": "高楠公路(縱貫公路/高楠公路到高楠公路/民族一路)",
+          "-locationpath": "1948",
+          "-startlocationpoint": "1951",
+          "-endlocationpoint": "1953",
+          "-px": "120.32451",
+          "-py": "22.70666"
+        },
+        {
+          "-cctvid": "64000C000053",
+          "-roadsection": "高楠公路(高楠公路/德民路到縱貫公路/高楠公路)",
+          "-locationpath": "1948",
+          "-startlocationpoint": "1949",
+          "-endlocationpoint": "1951",
+          "-px": "120.32207",
+          "-py": "22.72572"
+        },
+        {
+          "-cctvid": "64000C000054",
+          "-roadsection": "民族路(高雄)(民族一路(高雄)/大中二路到民族一路(高雄)/裕誠路)",
+          "-locationpath": "2053",
+          "-startlocationpoint": "2056",
+          "-endlocationpoint": "2058",
+          "-px": "120.31705",
+          "-py": "22.66824"
+        },
+        {
+          "-cctvid": "64000C000055",
+          "-roadsection": "民族路(高雄)(民族一路(高雄)/九如二路到民族二路(高雄)/八德一路)",
+          "-locationpath": "2053",
+          "-startlocationpoint": "2063",
+          "-endlocationpoint": "2065",
+          "-px": "120.30876",
+          "-py": "22.64504"
+        },
+        {
+          "-cctvid": "64000C000056",
+          "-roadsection": "左楠路(左楠路/加昌路到左楠路/左營大路)",
+          "-locationpath": "1929",
+          "-startlocationpoint": "1930",
+          "-endlocationpoint": "1932",
+          "-px": "120.30239",
+          "-py": "22.70792"
+        },
+        {
+          "-cctvid": "64000C000057",
+          "-roadsection": "左楠路(左楠路/後昌路到左楠路/左營大路)",
+          "-locationpath": "1929",
+          "-startlocationpoint": "1931",
+          "-endlocationpoint": "1932",
+          "-px": "120.30262",
+          "-py": "22.69937"
+        },
+        {
+          "-cctvid": "64000C000058",
+          "-roadsection": "自由路(高雄)(自由四路/重信路到自由三路/曾子路)",
+          "-locationpath": "2040",
+          "-startlocationpoint": "2043",
+          "-endlocationpoint": "2045",
+          "-px": "120.31370",
+          "-py": "22.67928"
+        },
+        {
+          "-cctvid": "64000C000059",
+          "-roadsection": "自由路(高雄)(自由三路/曾子路到自由二路/裕誠路)",
+          "-locationpath": "2040",
+          "-startlocationpoint": "2045",
+          "-endlocationpoint": "2047",
+          "-px": "120.30973",
+          "-py": "22.66871"
+        },
+        {
+          "-cctvid": "64000C000060",
+          "-roadsection": "自由路(高雄)(自由二路/明誠二路到自由一路/同盟一路)",
+          "-locationpath": "2040",
+          "-startlocationpoint": "2048",
+          "-endlocationpoint": "2050",
+          "-px": "120.30885",
+          "-py": "22.65663"
+        },
+        {
+          "-cctvid": "64000C000061",
+          "-roadsection": "自由路(高雄)(自由二路/大順一路到自由一路/十全一路)",
+          "-locationpath": "2040",
+          "-startlocationpoint": "2049",
+          "-endlocationpoint": "2051",
+          "-px": "120.30911",
+          "-py": "22.65002"
+        },
+        {
+          "-cctvid": "64000C000062",
+          "-roadsection": "民權路(民權一路/民生一路到民權一路/五福二路)",
+          "-locationpath": "2419",
+          "-startlocationpoint": "2420",
+          "-endlocationpoint": "2421",
+          "-px": "120.31046",
+          "-py": "22.62761"
+        },
+        {
+          "-cctvid": "64000C000063",
+          "-roadsection": "民權路(民權一路/五福二路到民權一路/青年一路)",
+          "-locationpath": "2419",
+          "-startlocationpoint": "2421",
+          "-endlocationpoint": "2422",
+          "-px": "120.31087",
+          "-py": "22.62646"
+        },
+        {
+          "-cctvid": "64000C000064",
+          "-roadsection": "民權路(民權一路/四維三路到民權二路/二聖二路)",
+          "-locationpath": "2419",
+          "-startlocationpoint": "2423",
+          "-endlocationpoint": "2425",
+          "-px": "120.31433",
+          "-py": "22.61730"
+        },
+        {
+          "-cctvid": "64000C000065",
+          "-roadsection": "民權路(民權二路/二聖二路到民權二路/中山三路)",
+          "-locationpath": "2419",
+          "-startlocationpoint": "2425",
+          "-endlocationpoint": "2427",
+          "-px": "120.31325",
+          "-py": "22.61014"
+        },
+        {
+          "-cctvid": "64000C000066",
+          "-roadsection": "成功路(成功一路/四維四路到成功二路/復興三路)",
+          "-locationpath": "2303",
+          "-startlocationpoint": "2311",
+          "-endlocationpoint": "2313",
+          "-px": "120.31436",
+          "-py": "22.64443"
+        },
+        {
+          "-cctvid": "64000C000067",
+          "-roadsection": "一心路(一心一路/民權二路到一心一路/和平二路)",
+          "-locationpath": "2486",
+          "-startlocationpoint": "2490",
+          "-endlocationpoint": "2492",
+          "-px": "120.31667",
+          "-py": "22.60870"
+        },
+        {
+          "-cctvid": "64000C000068",
+          "-roadsection": "台 17(漢民路/沿海一路到蓮海路/沿海一路)",
+          "-locationpath": "4432",
+          "-startlocationpoint": "4506",
+          "-endlocationpoint": "4507",
+          "-px": "120.35241",
+          "-py": "22.56645"
+        },
+        {
+          "-cctvid": "64000C000069",
+          "-roadsection": "新生路(新生路/漁港路到新生路/中興路)",
+          "-locationpath": "2514",
+          "-startlocationpoint": "2518",
+          "-endlocationpoint": "2532",
+          "-px": "120.32006",
+          "-py": "22.57175"
+        },
+        {
+          "-cctvid": "64000C000070",
+          "-roadsection": "大順路(大順二路/鼎山街到大順二路/建德路)",
+          "-locationpath": "2153",
+          "-startlocationpoint": "2158",
+          "-endlocationpoint": "2160",
+          "-px": "120.32419",
+          "-py": "22.64982"
+        },
+        {
+          "-cctvid": "64000C000071",
+          "-roadsection": "大順路(大順二路/九如一路到大順三路/河北路)",
+          "-locationpath": "2153",
+          "-startlocationpoint": "2161",
+          "-endlocationpoint": "2163",
+          "-px": "120.30318",
+          "-py": "22.67037"
+        },
+        {
+          "-cctvid": "64000C000072",
+          "-roadsection": "三多路(三多一路/武慶三路到三多一路/自由路)",
+          "-locationpath": "2454",
+          "-startlocationpoint": "2469",
+          "-endlocationpoint": "2471",
+          "-px": "120.33676",
+          "-py": "22.62401"
+        },
+        {
+          "-cctvid": "64000C000073",
+          "-roadsection": "新生路(新生路/凱旋路到新生路/鎮港路)",
+          "-locationpath": "2514",
+          "-startlocationpoint": "2515",
+          "-endlocationpoint": "2516",
+          "-px": "120.30371",
+          "-py": "22.59090"
+        },
+        {
+          "-cctvid": "64000C000074",
+          "-roadsection": "新生路(新生路/中興路到新生路/金福路)",
+          "-locationpath": "2514",
+          "-startlocationpoint": "2532",
+          "-endlocationpoint": "2519",
+          "-px": "120.32347",
+          "-py": "22.56782"
+        },
+        {
+          "-cctvid": "64000C000075",
+          "-roadsection": "建國路(建國四路/新興街到建國三路/北瑞街)",
+          "-locationpath": "2224",
+          "-startlocationpoint": "2388",
+          "-endlocationpoint": "2227",
+          "-px": "120.28412",
+          "-py": "22.63395"
+        },
+        {
+          "-cctvid": "64000C000076",
+          "-roadsection": "高鳳路/高松路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.37106",
+          "-py": "22.57275"
+        },
+        {
+          "-cctvid": "64000C000077",
+          "-roadsection": "博愛路(博愛二路/明誠二路到博愛一路/同盟一路)",
+          "-locationpath": "1993",
+          "-startlocationpoint": "2003",
+          "-endlocationpoint": "2005",
+          "-px": "120.30329",
+          "-py": "22.65620"
+        },
+        {
+          "-cctvid": "64000C000078",
+          "-roadsection": "台 17(漢民路/沿海一路到蓮海路/茂大街)",
+          "-locationpath": "4432",
+          "-startlocationpoint": "4506",
+          "-endlocationpoint": "4508",
+          "-px": "120.35723",
+          "-py": "22.56074"
+        },
+        {
+          "-cctvid": "64000C000079",
+          "-roadsection": "建國路(建國三路/中華三路到建國二路)",
+          "-locationpath": "2224",
+          "-startlocationpoint": "2230",
+          "-endlocationpoint": "2232",
+          "-px": "120.29647",
+          "-py": "22.63792"
+        },
+        {
+          "-cctvid": "64000C000080",
+          "-roadsection": "三多路(三多二路/和平一路到三多二路/福德三路)",
+          "-locationpath": "2454",
+          "-startlocationpoint": "2466",
+          "-endlocationpoint": "2468",
+          "-px": "120.32526",
+          "-py": "22.62072"
+        },
+        {
+          "-cctvid": "64000C000081",
+          "-roadsection": "中山路(高雄)(中山三路/復興三路到中山三路/光華三路)",
+          "-locationpath": "2013",
+          "-startlocationpoint": "2025",
+          "-endlocationpoint": "2079",
+          "-px": "120.30894",
+          "-py": "22.60501"
+        },
+        {
+          "-cctvid": "64000C000082",
+          "-roadsection": "中山路(高雄)(中山三路/光華三路到中山四路/五甲三路)",
+          "-locationpath": "2013",
+          "-startlocationpoint": "2079",
+          "-endlocationpoint": "2028",
+          "-px": "120.31642",
+          "-py": "22.59628"
+        },
+        {
+          "-cctvid": "64000C000083",
+          "-roadsection": "(新生路-中興路)(新生路/中興路到新生路/旗津一路)",
+          "-locationpath": "2520",
+          "-startlocationpoint": "2521",
+          "-endlocationpoint": "2523",
+          "-px": "120.35025",
+          "-py": "22.52492"
+        },
+        {
+          "-cctvid": "64000C000084",
+          "-roadsection": "左楠路(左楠路/加昌路到左楠路/後昌路)",
+          "-locationpath": "1929",
+          "-startlocationpoint": "1930",
+          "-endlocationpoint": "1931",
+          "-px": "120.30463",
+          "-py": "22.71780"
+        },
+        {
+          "-cctvid": "64000C000085",
+          "-roadsection": "中正路(高雄交流道(中正1路)到中正路/三多一路)",
+          "-locationpath": "2271",
+          "-startlocationpoint": "2286",
+          "-endlocationpoint": "2287",
+          "-px": "120.34235",
+          "-py": "22.62474"
+        },
+        {
+          "-cctvid": "64000C000086",
+          "-roadsection": "中正路(中正三路/復興一路到中正二路/和平一路)",
+          "-locationpath": "2271",
+          "-startlocationpoint": "2280",
+          "-endlocationpoint": "2282",
+          "-px": "120.31328",
+          "-py": "22.63063"
+        },
+        {
+          "-cctvid": "64000C000087",
+          "-roadsection": "中山路(高雄)(中山一路/六合一路到中山一路/中山一路-民生一路-民生二路圓環)",
+          "-locationpath": "2013",
+          "-startlocationpoint": "2017",
+          "-endlocationpoint": "2019",
+          "-px": "120.30191",
+          "-py": "22.63136"
+        },
+        {
+          "-cctvid": "64000C000088",
+          "-roadsection": "加昌路(加昌路/後昌路到加昌路/右昌街)",
+          "-locationpath": "1912",
+          "-startlocationpoint": "1917",
+          "-endlocationpoint": "1919",
+          "-px": "120.29143",
+          "-py": "22.71319"
+        },
+        {
+          "-cctvid": "64000C000089",
+          "-roadsection": "左營大路(左營大路/必勝路到左營大路/中華路-鼓山三路圓環)",
+          "-locationpath": "1940",
+          "-startlocationpoint": "1946",
+          "-endlocationpoint": "1947",
+          "-px": "120.28659",
+          "-py": "22.67219"
+        },
+        {
+          "-cctvid": "64000C000090",
+          "-roadsection": "中山路(高雄)(中山三路/光華三路到中山三路/凱旋四路)",
+          "-locationpath": "2013",
+          "-startlocationpoint": "2079",
+          "-endlocationpoint": "2027",
+          "-px": "120.31384",
+          "-py": "22.59870"
+        },
+        {
+          "-cctvid": "64000C000091",
+          "-roadsection": "中山路(高雄)(中山二路/四維四路到中山三路/復興三路)",
+          "-locationpath": "2013",
+          "-startlocationpoint": "2023",
+          "-endlocationpoint": "2025",
+          "-px": "120.30458",
+          "-py": "22.61394"
+        },
+        {
+          "-cctvid": "64000C000092",
+          "-roadsection": "中山路(高雄)(中山三路/凱旋四路到高雄端)",
+          "-locationpath": "2013",
+          "-startlocationpoint": "2027",
+          "-endlocationpoint": "2029",
+          "-px": "120.32231",
+          "-py": "22.58855"
+        },
+        {
+          "-cctvid": "64000C000093",
+          "-roadsection": "左楠路(左楠路/後昌路到左楠路/左營大路)",
+          "-locationpath": "1929",
+          "-startlocationpoint": "1931",
+          "-endlocationpoint": "1932",
+          "-px": "120.30254",
+          "-py": "22.70087"
+        },
+        {
+          "-cctvid": "64000C000094",
+          "-roadsection": "九如路(九如一路/大順二路到九如一路/水源路)",
+          "-locationpath": "2203",
+          "-startlocationpoint": "2216",
+          "-endlocationpoint": "2220",
+          "-px": "120.33758",
+          "-py": "22.63750"
+        },
+        {
+          "-cctvid": "64000C000095",
+          "-roadsection": "瑞隆路(瑞隆路/武營路到瑞隆路/保泰路)",
+          "-locationpath": "2495",
+          "-startlocationpoint": "2499",
+          "-endlocationpoint": "2500",
+          "-px": "120.33907",
+          "-py": "22.60611"
+        },
+        {
+          "-cctvid": "64000C000096",
+          "-roadsection": "中山路(高雄)(中山三路/光華三路到中山四路/五甲三路)",
+          "-locationpath": "2013",
+          "-startlocationpoint": "2079",
+          "-endlocationpoint": "2028",
+          "-px": "120.31567",
+          "-py": "22.59579"
+        },
+        {
+          "-cctvid": "64000C000097",
+          "-roadsection": "中正路(中正二路/和平一路到中正路/大順三路)",
+          "-locationpath": "2271",
+          "-startlocationpoint": "2282",
+          "-endlocationpoint": "2284",
+          "-px": "120.32166",
+          "-py": "22.62998"
+        },
+        {
+          "-cctvid": "64000C000098",
+          "-roadsection": "中山路(高雄)(中山四路/中安路到中山四路/平和東路)",
+          "-locationpath": "2013",
+          "-startlocationpoint": "2030",
+          "-endlocationpoint": "2032",
+          "-px": "120.33208",
+          "-py": "22.57667"
+        },
+        {
+          "-cctvid": "64000C000099",
+          "-roadsection": "中正路(中正四路/自強二路到中正四路/自立二路)",
+          "-locationpath": "2271",
+          "-startlocationpoint": "2275",
+          "-endlocationpoint": "2277",
+          "-px": "120.29585",
+          "-py": "22.62942"
+        },
+        {
+          "-cctvid": "64000C000100",
+          "-roadsection": "青年路(青年二路/海邊路到青年二路/永明街)",
+          "-locationpath": "2428",
+          "-startlocationpoint": "2429",
+          "-endlocationpoint": "2430",
+          "-px": "120.29354",
+          "-py": "22.61723"
+        },
+        {
+          "-cctvid": "64000C000101",
+          "-roadsection": "博愛路(博愛三路/孟子路到博愛三路/新莊一路)",
+          "-locationpath": "1993",
+          "-startlocationpoint": "1999",
+          "-endlocationpoint": "2001",
+          "-px": "120.30371",
+          "-py": "22.67069"
+        },
+        {
+          "-cctvid": "64000C000102",
+          "-roadsection": "博愛路(博愛三路/新莊一路到博愛二路/明誠二路)",
+          "-locationpath": "1993",
+          "-startlocationpoint": "2001",
+          "-endlocationpoint": "2003",
+          "-px": "120.30326",
+          "-py": "22.66590"
+        },
+        {
+          "-cctvid": "64000C000103",
+          "-roadsection": "中山路(高雄)(中山路/建國二路到中山一路/七賢二路)",
+          "-locationpath": "2013",
+          "-startlocationpoint": "2014",
+          "-endlocationpoint": "2016",
+          "-px": "120.30235",
+          "-py": "22.63600"
+        },
+        {
+          "-cctvid": "64000C000104",
+          "-roadsection": "博愛路(博愛一路/十全一路到博愛一路/九如二路)",
+          "-locationpath": "1993",
+          "-startlocationpoint": "2006",
+          "-endlocationpoint": "2007",
+          "-px": "120.30299",
+          "-py": "22.64406"
+        },
+        {
+          "-cctvid": "64000C000105",
+          "-roadsection": "中山路(高雄)(中山一路/中山一路-民生一路-民生二路圓環到中山二路/新田路)",
+          "-locationpath": "2013",
+          "-startlocationpoint": "2019",
+          "-endlocationpoint": "2021",
+          "-px": "120.30101",
+          "-py": "22.62314"
+        },
+        {
+          "-cctvid": "64000C000106",
+          "-roadsection": "中海路(中海路/軍校路到中海路/中正路)",
+          "-locationpath": "1933",
+          "-startlocationpoint": "1934",
+          "-endlocationpoint": "1935",
+          "-px": "120.29255",
+          "-py": "22.70068"
+        },
+        {
+          "-cctvid": "64000C000107",
+          "-roadsection": "中山路(高雄)(中山三路/中山四路到中山一路/五福三路)",
+          "-locationpath": "2013",
+          "-startlocationpoint": "2018",
+          "-endlocationpoint": "2020",
+          "-px": "120.30150",
+          "-py": "22.62732"
+        },
+        {
+          "-cctvid": "64000C000108",
+          "-roadsection": "大順路(大順二路/九如一路到大順三路/河北路)",
+          "-locationpath": "2153",
+          "-startlocationpoint": "2161",
+          "-endlocationpoint": "2163",
+          "-px": "120.32570",
+          "-py": "22.63285"
+        },
+        {
+          "-cctvid": "64000C000109",
+          "-roadsection": "中正路(中正五路/大公路到中正四路/成功一路)",
+          "-locationpath": "2271",
+          "-startlocationpoint": "2272",
+          "-endlocationpoint": "2274",
+          "-px": "120.28885",
+          "-py": "22.62703"
+        },
+        {
+          "-cctvid": "64000C000110",
+          "-roadsection": "建工路(建工路/大順二路到建工路/建德路)",
+          "-locationpath": "2164",
+          "-startlocationpoint": "2167",
+          "-endlocationpoint": "2166",
+          "-px": "120.32935",
+          "-py": "22.65230"
+        },
+        {
+          "-cctvid": "64000C000111",
+          "-roadsection": "中山路(高雄)(中山路/建國二路到中山一路/中博車行地下道)",
+          "-locationpath": "2013",
+          "-startlocationpoint": "2014",
+          "-endlocationpoint": "2015",
+          "-px": "120.30249",
+          "-py": "22.63780"
+        },
+        {
+          "-cctvid": "64000C000112",
+          "-roadsection": "博愛路(博愛二路/裕誠路到博愛二路/大順一路)",
+          "-locationpath": "1993",
+          "-startlocationpoint": "2002",
+          "-endlocationpoint": "2004",
+          "-px": "120.29786",
+          "-py": "22.61853"
+        },
+        {
+          "-cctvid": "64000C000113",
+          "-roadsection": "成功路(成功一路/民生二路到成功一路/新田路)",
+          "-locationpath": "2303",
+          "-startlocationpoint": "2307",
+          "-endlocationpoint": "2309",
+          "-px": "120.29504",
+          "-py": "22.62115"
+        },
+        {
+          "-cctvid": "64000C000114",
+          "-roadsection": "七賢路(七賢一路/民族二路到七賢一路/和平一路)",
+          "-locationpath": "2246",
+          "-startlocationpoint": "2255",
+          "-endlocationpoint": "2256",
+          "-px": "120.31669",
+          "-py": "22.63365"
+        },
+        {
+          "-cctvid": "64000C000115",
+          "-roadsection": "九如路(九如二路/中華二路到九如二路/博愛一路)",
+          "-locationpath": "2203",
+          "-startlocationpoint": "2210",
+          "-endlocationpoint": "2212",
+          "-px": "120.29617",
+          "-py": "22.64182"
+        },
+        {
+          "-cctvid": "64000C000116",
+          "-roadsection": "博愛路(博愛一路/中博車行地下道到博愛一路/九如二路)",
+          "-locationpath": "1993",
+          "-startlocationpoint": "2008",
+          "-endlocationpoint": "2007",
+          "-px": "120.30279",
+          "-py": "22.64137"
+        },
+        {
+          "-cctvid": "64000C000117",
+          "-roadsection": "左營大路(左營大路/店仔頂路到左營大路/介壽路)",
+          "-locationpath": "1940",
+          "-startlocationpoint": "1944",
+          "-endlocationpoint": "1945",
+          "-px": "120.28807",
+          "-py": "22.68181"
+        },
+        {
+          "-cctvid": "64000C000118",
+          "-roadsection": "建國路(建國一路/民族二路到建國一路/六合路)",
+          "-locationpath": "2224",
+          "-startlocationpoint": "2234",
+          "-endlocationpoint": "2267",
+          "-px": "120.31684",
+          "-py": "22.63493"
+        },
+        {
+          "-cctvid": "64000C000119",
+          "-roadsection": "美術館路/美術東二路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.28818",
+          "-py": "22.65494"
+        },
+        {
+          "-cctvid": "64000C000120",
+          "-roadsection": "海功路/軍校路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.29246",
+          "-py": "22.69369"
+        },
+        {
+          "-cctvid": "64000C000121",
+          "-roadsection": "翠華路(翠華路/東門路到翠華路/中華一路)",
+          "-locationpath": "1954",
+          "-startlocationpoint": "1960",
+          "-endlocationpoint": "1961",
+          "-px": "120.29112",
+          "-py": "22.67207"
+        },
+        {
+          "-cctvid": "64000C000122",
+          "-roadsection": "哨船街/臨海二路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.26951",
+          "-py": "22.62447"
+        },
+        {
+          "-cctvid": "64000C000123",
+          "-roadsection": "蓮海路-中山大學大門停車場出口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.26682",
+          "-py": "22.61774"
+        },
+        {
+          "-cctvid": "64000C000124",
+          "-roadsection": "鼓山渡輪站",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.27016",
+          "-py": "22.61977"
+        },
+        {
+          "-cctvid": "64000C000125",
+          "-roadsection": "鼓山路(鼓山三路/五福四路到鼓山三路/濱海一路)",
+          "-locationpath": "1965",
+          "-startlocationpoint": "1974",
+          "-endlocationpoint": "1975",
+          "-px": "120.27501",
+          "-py": "22.62128"
+        },
+        {
+          "-cctvid": "64000C000126",
+          "-roadsection": "五福路(五福四路/鼓山三路到五福四路/建國四路)",
+          "-locationpath": "2401",
+          "-startlocationpoint": "2402",
+          "-endlocationpoint": "2405",
+          "-px": "120.27809",
+          "-py": "22.62638"
+        },
+        {
+          "-cctvid": "64000C000127",
+          "-roadsection": "中正路(中正五路/大公路到中正四路/成功一路)",
+          "-locationpath": "2271",
+          "-startlocationpoint": "2272",
+          "-endlocationpoint": "2274",
+          "-px": "120.28781",
+          "-py": "22.62670"
+        },
+        {
+          "-cctvid": "64000C000128",
+          "-roadsection": "公園路/七賢路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.28026",
+          "-py": "22.62283"
+        },
+        {
+          "-cctvid": "64000C000129",
+          "-roadsection": "五福路(五福四路/建國四路到五福四路/河西路)",
+          "-locationpath": "2401",
+          "-startlocationpoint": "2405",
+          "-endlocationpoint": "2407",
+          "-px": "120.28136",
+          "-py": "22.62478"
+        },
+        {
+          "-cctvid": "64000C000130",
+          "-roadsection": "五福路(五福四路/七賢三路到五福四路/海邊路)",
+          "-locationpath": "2401",
+          "-startlocationpoint": "2406",
+          "-endlocationpoint": "2408",
+          "-px": "120.28948",
+          "-py": "22.62079"
+        },
+        {
+          "-cctvid": "64000C000131",
+          "-roadsection": "建國路(建國二路/復興一路到建國一路/和平一路)",
+          "-locationpath": "2224",
+          "-startlocationpoint": "2270",
+          "-endlocationpoint": "2235",
+          "-px": "120.31368",
+          "-py": "22.63732"
+        },
+        {
+          "-cctvid": "64000C000132",
+          "-roadsection": "建國路(建國一路/福德二路到建國一路/正義路)",
+          "-locationpath": "2224",
+          "-startlocationpoint": "2238",
+          "-endlocationpoint": "2239",
+          "-px": "120.33726",
+          "-py": "22.63028"
+        },
+        {
+          "-cctvid": "64000C000133",
+          "-roadsection": "建國路(建國一路/福德二路到建國一路/正義路)",
+          "-locationpath": "2224",
+          "-startlocationpoint": "2238",
+          "-endlocationpoint": "2239",
+          "-px": "120.33558",
+          "-py": "22.63080"
+        },
+        {
+          "-cctvid": "64000C000134",
+          "-roadsection": "大業北路(大業北路/中山四路到大業北路/小港路)",
+          "-locationpath": "2580",
+          "-startlocationpoint": "2581",
+          "-endlocationpoint": "2582",
+          "-px": "120.34297",
+          "-py": "22.56965"
+        },
+        {
+          "-cctvid": "64000C000135",
+          "-roadsection": "大業北路(大業北路/漢民路到大業北路/中鋼路)",
+          "-locationpath": "2580",
+          "-startlocationpoint": "2583",
+          "-endlocationpoint": "2584",
+          "-px": "120.35267",
+          "-py": "22.55786"
+        },
+        {
+          "-cctvid": "64000C000136",
+          "-roadsection": "旗津渡輪站",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.26909",
+          "-py": "22.61412"
+        },
+        {
+          "-cctvid": "64000C000137",
+          "-roadsection": "中華路(中華五路/復興三路到中華五路/凱旋四路)",
+          "-locationpath": "2132",
+          "-startlocationpoint": "2150",
+          "-endlocationpoint": "2151",
+          "-px": "120.30844",
+          "-py": "22.59689"
+        },
+        {
+          "-cctvid": "64000C000138",
+          "-roadsection": "成功路(成功二路/復興三路到成功二路/擴建路)",
+          "-locationpath": "2303",
+          "-startlocationpoint": "2313",
+          "-endlocationpoint": "2314",
+          "-px": "120.30485",
+          "-py": "22.59571"
+        },
+        {
+          "-cctvid": "64000C000139",
+          "-roadsection": "成功路(成功一路/三多四路到成功二路/復興三路)",
+          "-locationpath": "2303",
+          "-startlocationpoint": "2312",
+          "-endlocationpoint": "2313",
+          "-px": "120.29913",
+          "-py": "22.61055"
+        },
+        {
+          "-cctvid": "64000C000140",
+          "-roadsection": "成功路(成功一路/三多四路到成功二路/擴建路)",
+          "-locationpath": "2303",
+          "-startlocationpoint": "2312",
+          "-endlocationpoint": "2314",
+          "-px": "120.30120",
+          "-py": "22.60529"
+        },
+        {
+          "-cctvid": "64000C000141",
+          "-roadsection": "台 17(東林路/沿海三路到下厝路/中門路)",
+          "-locationpath": "4432",
+          "-startlocationpoint": "4509",
+          "-endlocationpoint": "9146",
+          "-px": "120.36248",
+          "-py": "22.51065"
+        },
+        {
+          "-cctvid": "64000C000142",
+          "-roadsection": "金福路(金福路/新生路到金福路/港壽街)",
+          "-locationpath": "2533",
+          "-startlocationpoint": "2534",
+          "-endlocationpoint": "2536",
+          "-px": "120.32853",
+          "-py": "22.57106"
+        },
+        {
+          "-cctvid": "64000C000143",
+          "-roadsection": "新生路(新生路/鎮港路到新生路/漁港路)",
+          "-locationpath": "2514",
+          "-startlocationpoint": "2516",
+          "-endlocationpoint": "2518",
+          "-px": "120.31229",
+          "-py": "22.58072"
+        },
+        {
+          "-cctvid": "64000C000144",
+          "-roadsection": "旗津路(旗津二路/敦和街到旗津一路/廣澤街)",
+          "-locationpath": "2524",
+          "-startlocationpoint": "2527",
+          "-endlocationpoint": "2526",
+          "-px": "120.29915",
+          "-py": "22.57064"
+        },
+        {
+          "-cctvid": "64000C000145",
+          "-roadsection": "漁港路(漁港路/德昌路到漁港路/翠亨北路)",
+          "-locationpath": "2543",
+          "-startlocationpoint": "2545",
+          "-endlocationpoint": "2547",
+          "-px": "120.32290",
+          "-py": "22.58181"
+        },
+        {
+          "-cctvid": "64000C000146",
+          "-roadsection": "民權路(民權一路/青年一路到民權二路/三多三路)",
+          "-locationpath": "2419",
+          "-startlocationpoint": "2422",
+          "-endlocationpoint": "2424",
+          "-px": "120.31330",
+          "-py": "22.62032"
+        },
+        {
+          "-cctvid": "64000C000147",
+          "-roadsection": "明誠路/金鼎路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.33052",
+          "-py": "22.66013"
+        },
+        {
+          "-cctvid": "64000C000148",
+          "-roadsection": "大中路(高雄)(大中二路/澄觀路到大中二路/民族一路)",
+          "-locationpath": "2084",
+          "-startlocationpoint": "2085",
+          "-endlocationpoint": "2087",
+          "-px": "120.32319",
+          "-py": "22.67656"
+        },
+        {
+          "-cctvid": "64000C000149",
+          "-roadsection": "旗楠路(旗楠路/立民路到旗楠路/楠梓新路)",
+          "-locationpath": "2618",
+          "-startlocationpoint": "2619",
+          "-endlocationpoint": "2620",
+          "-px": "120.33497",
+          "-py": "22.73781"
+        },
+        {
+          "-cctvid": "64000C000150",
+          "-roadsection": "台 22(旗楠路/楠梓新路到旗楠路/立民路)",
+          "-locationpath": "4797",
+          "-startlocationpoint": "4799",
+          "-endlocationpoint": "4801",
+          "-px": "120.32250",
+          "-py": "22.60165"
+        },
+        {
+          "-cctvid": "64000C000151",
+          "-roadsection": "台 1戊(建國一路/正義路到台 1戊/台 25)",
+          "-locationpath": "4625",
+          "-startlocationpoint": "4634",
+          "-endlocationpoint": "4636",
+          "-px": "120.36191",
+          "-py": "22.62554"
+        },
+        {
+          "-cctvid": "64000C000152",
+          "-roadsection": "瑞隆東路出口閘道南向路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.34096",
+          "-py": "22.60619"
+        },
+        {
+          "-cctvid": "64000C000153",
+          "-roadsection": "台88鳳山交流道東向",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.35889",
+          "-py": "22.59011"
+        },
+        {
+          "-cctvid": "64000C000154",
+          "-roadsection": "台88鳳山交流道西向",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.35888",
+          "-py": "22.59042"
+        },
+        {
+          "-cctvid": "64000C000155",
+          "-roadsection": "自由路(高雄)(自由一路/三多一路到自由路/澄清路)",
+          "-locationpath": "2472",
+          "-startlocationpoint": "2473",
+          "-endlocationpoint": "2474",
+          "-px": "120.34434",
+          "-py": "22.62487"
+        },
+        {
+          "-cctvid": "64000C000156",
+          "-roadsection": "台 1戊(建國一路/正義路到台 1戊/台 25)",
+          "-locationpath": "4625",
+          "-startlocationpoint": "4634",
+          "-endlocationpoint": "4635",
+          "-px": "120.33954",
+          "-py": "22.62949"
+        },
+        {
+          "-cctvid": "64000C000157",
+          "-roadsection": "台 1戊(建國一路/正義路到台 1戊/台 25)",
+          "-locationpath": "4625",
+          "-startlocationpoint": "4634",
+          "-endlocationpoint": "4635",
+          "-px": "120.35660",
+          "-py": "22.62604"
+        },
+        {
+          "-cctvid": "64000C000158",
+          "-roadsection": "縣 181(八德路433巷/青年路二段到八德路433巷/青年路二段)",
+          "-locationpath": "9432",
+          "-startlocationpoint": "9436",
+          "-endlocationpoint": "9436",
+          "-px": "120.34664",
+          "-py": "22.64785"
+        },
+        {
+          "-cctvid": "64000C000159",
+          "-roadsection": "台 1(鳳松路/建國路二段到鳳仁路/建國路一段)",
+          "-locationpath": "2623",
+          "-startlocationpoint": "9294",
+          "-endlocationpoint": "9237",
+          "-px": "120.36385",
+          "-py": "22.63518"
+        },
+        {
+          "-cctvid": "64000C000160",
+          "-roadsection": "自由路(高雄)(自由二路/裕誠路到自由二路/大順一路)",
+          "-locationpath": "2040",
+          "-startlocationpoint": "2047",
+          "-endlocationpoint": "2049",
+          "-px": "120.30904",
+          "-py": "22.66108"
+        },
+        {
+          "-cctvid": "64000C000161",
+          "-roadsection": "縣 186(介壽東路/中山南路到岡山路/介壽路)",
+          "-locationpath": "9330",
+          "-startlocationpoint": "9342",
+          "-endlocationpoint": "9341",
+          "-px": "120.29709",
+          "-py": "22.78457"
+        },
+        {
+          "-cctvid": "64000C000162",
+          "-roadsection": "台 1(台 1/台 19甲到中山北路/大德一路)",
+          "-locationpath": "2623",
+          "-startlocationpoint": "2692",
+          "-endlocationpoint": "9223",
+          "-px": "120.29460",
+          "-py": "22.79966"
+        },
+        {
+          "-cctvid": "64000C000163",
+          "-roadsection": "台 19甲(台 19甲/台 1到成功路/嘉新東路)",
+          "-locationpath": "4571",
+          "-startlocationpoint": "4577",
+          "-endlocationpoint": "9196",
+          "-px": "120.29851",
+          "-py": "22.80743"
+        },
+        {
+          "-cctvid": "64000C000164",
+          "-roadsection": "阿公店路2段/溪西路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.29053",
+          "-py": "22.78766"
+        },
+        {
+          "-cctvid": "64000C000165",
+          "-roadsection": "台 19甲(中華路/柳橋西路到大義一路/仁壽路)",
+          "-locationpath": "4571",
+          "-startlocationpoint": "9200",
+          "-endlocationpoint": "9201",
+          "-px": "120.28850",
+          "-py": "22.79069"
+        },
+        {
+          "-cctvid": "64000C000166",
+          "-roadsection": "台 19甲(大義一路/仁壽路到介壽路/介壽西路)",
+          "-locationpath": "4571",
+          "-startlocationpoint": "9201",
+          "-endlocationpoint": "9202",
+          "-px": "120.28486",
+          "-py": "22.78439"
+        },
+        {
+          "-cctvid": "64000C000167",
+          "-roadsection": "台 1(大德三路/中山南路到中山北路/大德一路)",
+          "-locationpath": "2623",
+          "-startlocationpoint": "9225",
+          "-endlocationpoint": "9223",
+          "-px": "120.29908",
+          "-py": "22.79236"
+        },
+        {
+          "-cctvid": "64000C000168",
+          "-roadsection": "台 1(介壽東路/中山南路到岡山南路/成功北路)",
+          "-locationpath": "2623",
+          "-startlocationpoint": "9226",
+          "-endlocationpoint": "9227",
+          "-px": "120.29881",
+          "-py": "22.78001"
+        },
+        {
+          "-cctvid": "64000C000169",
+          "-roadsection": "鳳山區-國泰路二段、南京路西南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.34454",
+          "-py": "22.62140"
+        },
+        {
+          "-cctvid": "64000C000170",
+          "-roadsection": "鳳山區-國泰路二段、青年路一段東北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.34922",
+          "-py": "22.61884"
+        },
+        {
+          "-cctvid": "64000C000171",
+          "-roadsection": "鳳山區-國泰路二段、五甲二路西北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.35338",
+          "-py": "22.61655"
+        },
+        {
+          "-cctvid": "64000C000172",
+          "-roadsection": "鳳山區-國泰路一段、鳳頂路東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.36205",
+          "-py": "22.61409"
+        },
+        {
+          "-cctvid": "64000C000173",
+          "-roadsection": "鳳山區-鳳頂路、保生路東北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.35917",
+          "-py": "22.59309"
+        },
+        {
+          "-cctvid": "64000C000174",
+          "-roadsection": "鳳山區-縣188、內坑路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.38467",
+          "-py": "22.58957"
+        },
+        {
+          "-cctvid": "64000C000175",
+          "-roadsection": "鳳山區-縣188、鳳林路北側",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.40492",
+          "-py": "22.58703"
+        },
+        {
+          "-cctvid": "64000C000176",
+          "-roadsection": "鳳山區-縣188、鳳林路南側",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.40535",
+          "-py": "22.58612"
+        },
+        {
+          "-cctvid": "64000C000177",
+          "-roadsection": "鳳山區-縣188、光明路西側",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.41981",
+          "-py": "22.58889"
+        },
+        {
+          "-cctvid": "64000C000178",
+          "-roadsection": "鳳山區-縣188、光明路東側",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.42016",
+          "-py": "22.58925"
+        },
+        {
+          "-cctvid": "64000C000179",
+          "-roadsection": "鳳山區-縣188、華中路東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.42895",
+          "-py": "22.59163"
+        },
+        {
+          "-cctvid": "64000C000180",
+          "-roadsection": "鳳山區-縣188、華中路西北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.42835",
+          "-py": "22.59230"
+        },
+        {
+          "-cctvid": "64000C000181",
+          "-roadsection": "鳳山區-五甲一路、瑞隆東路西北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.34647",
+          "-py": "22.60688"
+        },
+        {
+          "-cctvid": "64000C000182",
+          "-roadsection": "鳳山區-五甲一路、南京路東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.34578",
+          "-py": "22.60470"
+        },
+        {
+          "-cctvid": "64000C000183",
+          "-roadsection": "鳳山區-九如一路、澄清路西南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.34424",
+          "-py": "22.63596"
+        },
+        {
+          "-cctvid": "64000C000184",
+          "-roadsection": "鳳山區-建國路三段、青年路二段東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.35076",
+          "-py": "22.63726"
+        },
+        {
+          "-cctvid": "64000C000185",
+          "-roadsection": "鳳山區-中山東路、光遠東路西南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.36789",
+          "-py": "22.62277"
+        },
+        {
+          "-cctvid": "64000C000186",
+          "-roadsection": "鳳山區-鳳屏一路、大漢路路口東側",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.38934",
+          "-py": "22.63398"
+        },
+        {
+          "-cctvid": "64000C000187",
+          "-roadsection": "鳳山區-鳳屏一路、光明路三段西南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.40114",
+          "-py": "22.63920"
+        },
+        {
+          "-cctvid": "64000C000188",
+          "-roadsection": "鳳山區-鳳屏一路、光明路三段東北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.40183",
+          "-py": "22.63964"
+        },
+        {
+          "-cctvid": "64000C000189",
+          "-roadsection": "鳳山區-鳳屏一路、九和路西側",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.41707",
+          "-py": "22.64186"
+        },
+        {
+          "-cctvid": "64000C000190",
+          "-roadsection": "鳳山區-鳳屏一路、九和路西北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.41822",
+          "-py": "22.64206"
+        },
+        {
+          "-cctvid": "64000C000191",
+          "-roadsection": "鳳山區-光明路三段、江山路南側",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.40243",
+          "-py": "22.63594"
+        },
+        {
+          "-cctvid": "64000C000192",
+          "-roadsection": "鳳山區-光明路二段、琉球路南側",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.41342",
+          "-py": "22.61147"
+        },
+        {
+          "-cctvid": "64000C000193",
+          "-roadsection": "高屏大橋往西下橋匝道口(北側)",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.42822",
+          "-py": "22.64519"
+        },
+        {
+          "-cctvid": "64000C000194",
+          "-roadsection": "高屏大橋往東上橋匝道口(南側)",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.42882",
+          "-py": "22.64483"
+        },
+        {
+          "-cctvid": "64000C000195",
+          "-roadsection": "萬大大橋往西下橋匝道口(北側)",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.43309",
+          "-py": "22.59282"
+        },
+        {
+          "-cctvid": "64000C000196",
+          "-roadsection": "萬大大橋往東上橋匝道口(南側)",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.43312",
+          "-py": "22.59214"
+        },
+        {
+          "-cctvid": "64000C000197",
+          "-roadsection": "雙園大橋西向下橋(北側)",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.41267",
+          "-py": "22.49777"
+        },
+        {
+          "-cctvid": "64000C000198",
+          "-roadsection": "台29、斜張橋南側",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.44715",
+          "-py": "22.76494"
+        },
+        {
+          "-cctvid": "64000C000199",
+          "-roadsection": "台29、溪埔路西北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.44498",
+          "-py": "22.72828"
+        },
+        {
+          "-cctvid": "64000C000200",
+          "-roadsection": "台29、縣186(中興東路)東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.43524",
+          "-py": "22.69162"
+        },
+        {
+          "-cctvid": "64000C000201",
+          "-roadsection": "水管三路、義大二路(林山巷)東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.37947",
+          "-py": "22.70054"
+        },
+        {
+          "-cctvid": "64000C000202",
+          "-roadsection": "大中二路、自由三路東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.31364",
+          "-py": "22.67908"
+        },
+        {
+          "-cctvid": "64000C000203",
+          "-roadsection": "大中二路、民族一路西北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.31875",
+          "-py": "22.67932"
+        },
+        {
+          "-cctvid": "64000C000204",
+          "-roadsection": "大中一路、鼎中路北側",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32325",
+          "-py": "22.67703"
+        },
+        {
+          "-cctvid": "64000C000205",
+          "-roadsection": "台29(統嶺路)、台22(里嶺大橋)東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.44947",
+          "-py": "22.77120"
+        },
+        {
+          "-cctvid": "64000C000206",
+          "-roadsection": "高速公路(南下交流道)、鳳楠路西南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.33201",
+          "-py": "22.72101"
+        },
+        {
+          "-cctvid": "64000C000207",
+          "-roadsection": "高速公路(興西路)、鳳仁路東北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.33317",
+          "-py": "22.72064"
+        },
+        {
+          "-cctvid": "64000C000208",
+          "-roadsection": "加昌路、海專路西北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.31709",
+          "-py": "22.72275"
+        },
+        {
+          "-cctvid": "64000C000209",
+          "-roadsection": "仁雄路、鼎力路(路橋北側)",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.33229",
+          "-py": "22.67289"
+        },
+        {
+          "-cctvid": "64000C000210",
+          "-roadsection": "本館路、球場路東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.33615",
+          "-py": "22.65544"
+        },
+        {
+          "-cctvid": "64000C000211",
+          "-roadsection": "博愛三路、曾子路西南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30772",
+          "-py": "22.67881"
+        },
+        {
+          "-cctvid": "64000C000212",
+          "-roadsection": "博愛一路、龍德路西南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30334",
+          "-py": "22.65427"
+        },
+        {
+          "-cctvid": "64000C000213",
+          "-roadsection": "博愛一路、同盟二路西南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30328",
+          "-py": "22.65166"
+        },
+        {
+          "-cctvid": "64000C000214",
+          "-roadsection": "博愛一路、十全二路西北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30291",
+          "-py": "22.64540"
+        },
+        {
+          "-cctvid": "64000C000215",
+          "-roadsection": "博愛三路、大中二路西南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30984",
+          "-py": "22.68108"
+        },
+        {
+          "-cctvid": "64000C000216",
+          "-roadsection": "博愛二路、立信街266巷西北角(漢神巨蛋對面)",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30332",
+          "-py": "22.66828"
+        },
+        {
+          "-cctvid": "64000C000217",
+          "-roadsection": "中山一路、七賢一路東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30237",
+          "-py": "22.63435"
+        },
+        {
+          "-cctvid": "64000C000218",
+          "-roadsection": "中山二路、四維四路東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30364",
+          "-py": "22.61684"
+        },
+        {
+          "-cctvid": "64000C000219",
+          "-roadsection": "中山二路、復興三路西北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30692",
+          "-py": "22.60733"
+        },
+        {
+          "-cctvid": "64000C000220",
+          "-roadsection": "中山二路、新光路東北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30534",
+          "-py": "22.61247"
+        },
+        {
+          "-cctvid": "64000C000221",
+          "-roadsection": "中山四路、中平路西北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32866",
+          "-py": "22.58041"
+        },
+        {
+          "-cctvid": "64000C000222",
+          "-roadsection": "中山四路、中安路東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32956",
+          "-py": "22.58033"
+        },
+        {
+          "-cctvid": "64000C000223",
+          "-roadsection": "中安路、明鳳七街西北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.33456",
+          "-py": "22.58313"
+        },
+        {
+          "-cctvid": "64000C000224",
+          "-roadsection": "三多五路、成功二路西北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.29841",
+          "-py": "22.61199"
+        },
+        {
+          "-cctvid": "64000C000225",
+          "-roadsection": "成功二路、新光路東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.29922",
+          "-py": "22.61049"
+        },
+        {
+          "-cctvid": "64000C000226",
+          "-roadsection": "中正二路、和平一路西南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.31789",
+          "-py": "22.63033"
+        },
+        {
+          "-cctvid": "64000C000227",
+          "-roadsection": "中正一路、輔仁路西南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.33235",
+          "-py": "22.62799"
+        },
+        {
+          "-cctvid": "64000C000228",
+          "-roadsection": "中正一路、福德路東北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32763",
+          "-py": "22.62972"
+        },
+        {
+          "-cctvid": "64000C000229",
+          "-roadsection": "中正一路、河北路東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32351",
+          "-py": "22.62970"
+        },
+        {
+          "-cctvid": "64000C000230",
+          "-roadsection": "中正二路、民族二路東北角 ",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.31362",
+          "-py": "22.63077"
+        },
+        {
+          "-cctvid": "64000C000231",
+          "-roadsection": "中山一路、中正三路東側",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30222",
+          "-py": "22.63136"
+        },
+        {
+          "-cctvid": "64000C000232",
+          "-roadsection": "橋頭區-成功南路橋新六路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.31413",
+          "-py": "22.75010"
+        },
+        {
+          "-cctvid": "64000C000234",
+          "-roadsection": "橋頭區-成功路橋頭路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30956",
+          "-py": "22.75980"
+        },
+        {
+          "-cctvid": "64000C000235",
+          "-roadsection": "橋頭區-成功北路鐵道北路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30592",
+          "-py": "22.76687"
+        },
+        {
+          "-cctvid": "64000C000236",
+          "-roadsection": "岡山區-介壽東路國一岡山交流道北入口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32159",
+          "-py": "22.78809"
+        },
+        {
+          "-cctvid": "64000C000237",
+          "-roadsection": "岡山區-介壽東路國一岡山交流道南出口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.31964",
+          "-py": "22.78760"
+        },
+        {
+          "-cctvid": "64000C000238",
+          "-roadsection": "岡山區-聖森路安招路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.31250",
+          "-py": "22.78989"
+        },
+        {
+          "-cctvid": "64000C000239",
+          "-roadsection": "岡山區-介壽東路岡燕路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.31504",
+          "-py": "22.78657"
+        },
+        {
+          "-cctvid": "64000C000240",
+          "-roadsection": "岡山區-嘉新東路聖森路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.31108",
+          "-py": "22.80773"
+        },
+        {
+          "-cctvid": "64000C000241",
+          "-roadsection": "岡山區-岡山路河華路，河華路上控制器旁號誌桿",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.29215",
+          "-py": "22.80157"
+        },
+        {
+          "-cctvid": "64000C000242",
+          "-roadsection": "岡山區-岡山路河華路，岡山路上路燈桿",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.29209",
+          "-py": "22.80175"
+        },
+        {
+          "-cctvid": "64000C000243",
+          "-roadsection": "路竹區-中山南路本洲五街口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.26987",
+          "-py": "22.82059"
+        },
+        {
+          "-cctvid": "64000C000244",
+          "-roadsection": "路竹區-中山路中華路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.26072",
+          "-py": "22.85769"
+        },
+        {
+          "-cctvid": "64000C000245",
+          "-roadsection": "湖內區-中山路一段東方路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.24993",
+          "-py": "22.88075"
+        },
+        {
+          "-cctvid": "64000C000246",
+          "-roadsection": "湖內區-中山路二段中華街口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.22713",
+          "-py": "22.90927"
+        },
+        {
+          "-cctvid": "64000C000247",
+          "-roadsection": "永安區-保安路保寧路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.23479",
+          "-py": "22.83586"
+        },
+        {
+          "-cctvid": "64000C000248",
+          "-roadsection": "永安區-保安路維新路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.24311",
+          "-py": "22.80817"
+        },
+        {
+          "-cctvid": "64000C000249",
+          "-roadsection": "彌陀區-中正東路鹽埕大路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.24476",
+          "-py": "22.79206"
+        },
+        {
+          "-cctvid": "64000C000250",
+          "-roadsection": "彌陀區-中正東路中正南路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.25280",
+          "-py": "22.77555"
+        },
+        {
+          "-cctvid": "64000C000251",
+          "-roadsection": "梓官區-大舍南路大舍東路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.26143",
+          "-py": "22.74713"
+        },
+        {
+          "-cctvid": "64000C000252",
+          "-roadsection": "岡山區-本洲路289號前路燈桿",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.26323",
+          "-py": "22.80738"
+        },
+        {
+          "-cctvid": "64000C000253",
+          "-roadsection": "湖內區-東方路一段正大路口(興達港門口)",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.21388",
+          "-py": "22.87621"
+        },
+        {
+          "-cctvid": "64000C000261",
+          "-roadsection": "大寮區-鳳林二路與新厝路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.41177",
+          "-py": "22.56120"
+        },
+        {
+          "-cctvid": "64000C000262",
+          "-roadsection": "大寮區-鳳林一路與會結路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.41244",
+          "-py": "22.55536"
+        },
+        {
+          "-cctvid": "64000C000263",
+          "-roadsection": "大寮區-鳳林路四段與鳳林一路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.41142",
+          "-py": "22.54730"
+        },
+        {
+          "-cctvid": "64000C000264",
+          "-roadsection": "林園區-鳳林路二段與王公路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.39602",
+          "-py": "22.51317"
+        },
+        {
+          "-cctvid": "64000C000265",
+          "-roadsection": "林園區-鳳林路二段與忠孝東路交岔",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.39645",
+          "-py": "22.50713"
+        },
+        {
+          "-cctvid": "64000C000266",
+          "-roadsection": "林園區-鳳林路一段與東林東路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.39762",
+          "-py": "22.50377"
+        },
+        {
+          "-cctvid": "64000C000267",
+          "-roadsection": "林園區-鳳林路一段與沿海路二段交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.39800",
+          "-py": "22.50068"
+        },
+        {
+          "-cctvid": "64000C000268",
+          "-roadsection": "林園區-沿海路二段與王公路，東林西路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.38242",
+          "-py": "22.50356"
+        },
+        {
+          "-cctvid": "64000C000269",
+          "-roadsection": "林園區-沿海路二段與王公路，東林西路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.38175",
+          "-py": "22.50343"
+        },
+        {
+          "-cctvid": "64000C000270",
+          "-roadsection": "林園區-中門路與南星路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.36269",
+          "-py": "22.51052"
+        },
+        {
+          "-cctvid": "64000C000271",
+          "-roadsection": "小港區-沿海三路與沿海四路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.36122",
+          "-py": "22.51311"
+        },
+        {
+          "-cctvid": "64000C000272",
+          "-roadsection": "仁武區-鳳仁路與澄觀路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.35291",
+          "-py": "22.68600"
+        },
+        {
+          "-cctvid": "64000C000273",
+          "-roadsection": "楠梓區-鳳仁路與水管路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.34212",
+          "-py": "22.70619"
+        },
+        {
+          "-cctvid": "64000C000274",
+          "-roadsection": "鳥松區-中正路與大埤路，神農路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.36414",
+          "-py": "22.65932"
+        },
+        {
+          "-cctvid": "64000C000275",
+          "-roadsection": "鳥松區-大埤路與環湖路，公園路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.35930",
+          "-py": "22.65791"
+        },
+        {
+          "-cctvid": "64000C000276",
+          "-roadsection": "鳥松區-大埤路與長庚路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.35605",
+          "-py": "22.65116"
+        },
+        {
+          "-cctvid": "64000C000277",
+          "-roadsection": "鳥松區-大埤南路與澄清路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.34896",
+          "-py": "22.65202"
+        },
+        {
+          "-cctvid": "64000C000278",
+          "-roadsection": "鳥松區-澄清路與圓山路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.34834",
+          "-py": "22.65027"
+        },
+        {
+          "-cctvid": "64000C000279",
+          "-roadsection": "鹽埕區-大義街與公園二路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.28556",
+          "-py": "22.62023"
+        },
+        {
+          "-cctvid": "64000C000280",
+          "-roadsection": "鹽埕區-大勇路與公園二路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.28270",
+          "-py": "22.62160"
+        },
+        {
+          "-cctvid": "64000C000281",
+          "-roadsection": "苓雅區-成功二路與林森四路交岔路口",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.29997",
+          "-py": "22.60832"
+        },
+        {
+          "-cctvid": "64000C000282",
+          "-roadsection": "三多凱旋東北角(鐵路東側)",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32528",
+          "-py": "22.62077"
+        },
+        {
+          "-cctvid": "64000C000283",
+          "-roadsection": " 臨海新路消防隊",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.27748",
+          "-py": "22.62021"
+        },
+        {
+          "-cctvid": "64000C000284",
+          "-roadsection": "三多福德東北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32783",
+          "-py": "22.62160"
+        },
+        {
+          "-cctvid": "64000C000285",
+          "-roadsection": "三多河北東北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.33144",
+          "-py": "22.62284"
+        },
+        {
+          "-cctvid": "64000C000286",
+          "-roadsection": "三多河南西南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.33114",
+          "-py": "22.62273"
+        },
+        {
+          "-cctvid": "64000C000287",
+          "-roadsection": "三多輔仁東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.33342",
+          "-py": "22.62352"
+        },
+        {
+          "-cctvid": "64000C000288",
+          "-roadsection": "二聖凱旋西北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32670",
+          "-py": "22.61190"
+        },
+        {
+          "-cctvid": "64000C000289",
+          "-roadsection": "二聖凱旋東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32673",
+          "-py": "22.61171"
+        },
+        {
+          "-cctvid": "64000C000290",
+          "-roadsection": "英祥凱旋西南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32653",
+          "-py": "22.61713"
+        },
+        {
+          "-cctvid": "64000C000291",
+          "-roadsection": "英祥凱旋東北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32664",
+          "-py": "22.61717"
+        },
+        {
+          "-cctvid": "64000C000292",
+          "-roadsection": "賢明凱旋東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32544",
+          "-py": "22.60897"
+        },
+        {
+          "-cctvid": "64000C000293",
+          "-roadsection": "育樂凱旋東南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32491",
+          "-py": "22.60665"
+        },
+        {
+          "-cctvid": "64000C000294",
+          "-roadsection": "一心凱旋西南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32455",
+          "-py": "22.60511"
+        },
+        {
+          "-cctvid": "64000C000295",
+          "-roadsection": "一心和平西南角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32061",
+          "-py": "22.60686"
+        },
+        {
+          "-cctvid": "64000C000296",
+          "-roadsection": "一心和平東北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32086",
+          "-py": "22.60683"
+        },
+        {
+          "-cctvid": "64000C000297",
+          "-roadsection": "一心凱旋西北角",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32461",
+          "-py": "22.60523"
+        },
+        {
+          "-cctvid": "64000C000298",
+          "-roadsection": "凱旋四路/班超路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32425",
+          "-py": "22.60331"
+        },
+        {
+          "-cctvid": "64000C000299",
+          "-roadsection": "凱旋四路/鎮興路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.31126",
+          "-py": "22.59343"
+        },
+        {
+          "-cctvid": "64000C000300",
+          "-roadsection": "旗津渡輪站2",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.26962",
+          "-py": "22.61405"
+        },
+        {
+          "-cctvid": "64000C000301",
+          "-roadsection": "舊凱旋四路與班超路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.32377",
+          "-py": "22.60362"
+        },
+        {
+          "-cctvid": "64000C000302",
+          "-roadsection": "凱旋四路與前鎮街",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30803",
+          "-py": "22.59259"
+        },
+        {
+          "-cctvid": "64000C000303",
+          "-roadsection": "成功二路與凱旋四路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30566",
+          "-py": "22.59341"
+        },
+        {
+          "-cctvid": "64000C000304",
+          "-roadsection": "成功二路與正勤路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30241",
+          "-py": "22.60179"
+        },
+        {
+          "-cctvid": "64000C000305",
+          "-roadsection": "中華五路與復興三路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30483",
+          "-py": "22.60647"
+        },
+        {
+          "-cctvid": "64000C000306",
+          "-roadsection": "海邊路與永平路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.29202",
+          "-py": "22.61264"
+        },
+        {
+          "-cctvid": "64000C000307",
+          "-roadsection": "海邊路與新田路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.29327",
+          "-py": "22.61886"
+        },
+        {
+          "-cctvid": "64000C000308",
+          "-roadsection": "七賢三路與蓬萊路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.27913",
+          "-py": "22.62093"
+        },
+        {
+          "-cctvid": "64000C000309",
+          "-roadsection": "臨海新路與蓬萊路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.27871",
+          "-py": "22.61963"
+        },
+        {
+          "-cctvid": "64000C700001",
+          "-roadsection": "台 3(南寮巷/外環道路到清興街/旗屏二路)",
+          "-locationpath": "4997",
+          "-startlocationpoint": "9254",
+          "-endlocationpoint": "9255",
+          "-px": "120.49487",
+          "-py": "22.86939"
+        },
+        {
+          "-cctvid": "64000C700002",
+          "-roadsection": "台 28(樹人橫路/延平三路到台 28/台 3)",
+          "-locationpath": "4911",
+          "-startlocationpoint": "9166",
+          "-endlocationpoint": "4914",
+          "-px": "120.49541",
+          "-py": "22.88302"
+        },
+        {
+          "-cctvid": "64000C700003",
+          "-roadsection": "台 28(延平二路/竹寮巷到中學路/中華路)",
+          "-locationpath": "4911",
+          "-startlocationpoint": "9167",
+          "-endlocationpoint": "9168",
+          "-px": "120.48485",
+          "-py": "22.88215"
+        },
+        {
+          "-cctvid": "64000C700004",
+          "-roadsection": "台 3(清興街/旗屏二路到旗屏二路/大里街)",
+          "-locationpath": "4997",
+          "-startlocationpoint": "9255",
+          "-endlocationpoint": "9257",
+          "-px": "120.50472",
+          "-py": "22.85808"
+        },
+        {
+          "-cctvid": "64000C700005",
+          "-roadsection": "台 21(台 21/台 28到旗南一路/中洲路)",
+          "-locationpath": "4775",
+          "-startlocationpoint": "4787",
+          "-endlocationpoint": "9124",
+          "-px": "120.47414",
+          "-py": "22.87276"
+        },
+        {
+          "-cctvid": "64000C700006",
+          "-roadsection": "台 3(台 3/台 28到中華路/外環道路)",
+          "-locationpath": "4997",
+          "-startlocationpoint": "5098",
+          "-endlocationpoint": "9253",
+          "-px": "120.48309",
+          "-py": "22.87922"
+        },
+        {
+          "-cctvid": "64000C700007",
+          "-roadsection": "台 28(中興路二段/高97到延平二路/竹寮巷)",
+          "-locationpath": "4911",
+          "-startlocationpoint": "9165",
+          "-endlocationpoint": "9167",
+          "-px": "120.49646",
+          "-py": "22.88308"
+        },
+        {
+          "-cctvid": "64000C700008",
+          "-roadsection": "台 3(永安街/延平一路到台 3/台 28)",
+          "-locationpath": "4997",
+          "-startlocationpoint": "9250",
+          "-endlocationpoint": "5098",
+          "-px": "120.48307",
+          "-py": "22.88356"
+        },
+        {
+          "-cctvid": "64000C700009",
+          "-roadsection": "台 21(高屏103/旗南三路到擊天神路/中正路)",
+          "-locationpath": "4775",
+          "-startlocationpoint": "9129",
+          "-endlocationpoint": "9130",
+          "-px": "120.45897",
+          "-py": "22.79939"
+        },
+        {
+          "-cctvid": "64000C700010",
+          "-roadsection": "台 21(旗南三路/和巷|到高屏103/旗南三路)",
+          "-locationpath": "4775",
+          "-startlocationpoint": "9128",
+          "-endlocationpoint": "9129",
+          "-px": "120.44933",
+          "-py": "22.77177"
+        },
+        {
+          "-cctvid": "64000C700011",
+          "-roadsection": "台 22(縣186/中正路到燕巢交流道)",
+          "-locationpath": "4797",
+          "-startlocationpoint": "9262",
+          "-endlocationpoint": "4802",
+          "-px": "120.36780",
+          "-py": "22.76075"
+        },
+        {
+          "-cctvid": "64000C700012",
+          "-roadsection": "中山路/和平一路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.36045",
+          "-py": "22.73031"
+        },
+        {
+          "-cctvid": "64000C700013",
+          "-roadsection": "縣 186(文化巷/中正路到仁林路/仁心路)",
+          "-locationpath": "9330",
+          "-startlocationpoint": "9361",
+          "-endlocationpoint": "9363",
+          "-px": "120.36012",
+          "-py": "22.70320"
+        },
+        {
+          "-cctvid": "64000C700014",
+          "-roadsection": "縣 186(文化巷/中正路到仁林路/仁心路)",
+          "-locationpath": "9330",
+          "-startlocationpoint": "9361",
+          "-endlocationpoint": "9363",
+          "-px": "120.35957",
+          "-py": "22.70367"
+        },
+        {
+          "-cctvid": "64000C700015",
+          "-roadsection": "高鐵路/重信路",
+          "-locationpath": "-99",
+          "-startlocationpoint": "-99",
+          "-endlocationpoint": "-99",
+          "-px": "120.30807",
+          "-py": "22.68652"
+        },
+        {
+          "-cctvid": "64000C700016",
+          "-roadsection": "台 21(擊天神路/中正路到大坑路/溪埔路)",
+          "-locationpath": "4775",
+          "-startlocationpoint": "9130",
+          "-endlocationpoint": "9132",
+          "-px": "120.44747",
+          "-py": "22.74480"
+        },
+        {
+          "-cctvid": "64000C700017",
+          "-roadsection": "台 21(台 21/台 22到興田路/溪埔路)",
+          "-locationpath": "4775",
+          "-startlocationpoint": "4788",
+          "-endlocationpoint": "9131",
+          "-px": "120.44818",
+          "-py": "22.75462"
+        },
+        {
+          "-cctvid": "64000C700018",
+          "-roadsection": "台 28(中興路一段/高101到中興路二段/高97)",
+          "-locationpath": "4911",
+          "-startlocationpoint": "9163",
+          "-endlocationpoint": "9165",
+          "-px": "120.53431",
+          "-py": "22.88604"
+        }
+      ]
+    }
+  }
+}
