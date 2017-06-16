@@ -1,2881 +1,2881 @@
 {
   "XML_Head": {
-    "-version": "1.1",
-    "-listname": "CCTVÀRºA¸ê°T",
-    "-updatetime": "2017/06/16 00:00:00",
-    "-interval": "86400",
+    "version": "1.1",
+    "listname": "CCTVéœæ…‹è³‡è¨Š",
+    "updatetime": "2017/06/16 00:00:00",
+    "interval": "86400",
     "Infos": {
       "Info": [
         {
-          "-cctvid": "64000C000001",
-          "-roadsection": "¤j¤¤¸ô(°ª¶¯)(¤j¤¤¤G¸ô/µØ®L¸ô¨ì¤j¤¤¤G¸ô/»AµØ¸ô)",
-          "-locationpath": "2084",
-          "-startlocationpoint": "2091",
-          "-endlocationpoint": "2093",
-          "-px": "120.30497",
-          "-py": "22.68577"
-        },
-        {
-          "-cctvid": "64000C000002",
-          "-roadsection": "¤¤µØ¸ô(¤¤µØ¤G¸ô/¦P·ù¤G¸ô¨ì¤¤µØ¤T¸ô/«Ø°ê¤T¸ô)",
-          "-locationpath": "2132",
-          "-startlocationpoint": "2137",
-          "-endlocationpoint": "2139",
-          "-px": "120.29132",
-          "-py": "22.64191"
-        },
-        {
-          "-cctvid": "64000C000003",
-          "-roadsection": "¤¤µØ¸ô(¤¤µØ¤G¸ô/¦P·ù¤G¸ô¨ì¤¤µØ¤T¸ô/«Ø°ê¤T¸ô)",
-          "-locationpath": "2132",
-          "-startlocationpoint": "2137",
-          "-endlocationpoint": "2139",
-          "-px": "120.29183",
-          "-py": "22.64189"
-        },
-        {
-          "-cctvid": "64000C000004",
-          "-roadsection": "¤¤µØ¸ô(¤¤µØ¤G¸ô/¤E¦p¤G¸ô¨ì¤¤µØ¤T¸ô/¤K¼w¤G¸ô)",
-          "-locationpath": "2132",
-          "-startlocationpoint": "2138",
-          "-endlocationpoint": "2140",
-          "-px": "120.29296",
-          "-py": "22.63687"
-        },
-        {
-          "-cctvid": "64000C000005",
-          "-roadsection": "¤¤µØ¸ô(¤¤µØ¤T¸ô/¤K¼w¤G¸ô¨ì¤¤µØ¤T¸ô/¤»¦X¤G¸ô)",
-          "-locationpath": "2132",
-          "-startlocationpoint": "2140",
-          "-endlocationpoint": "2142",
-          "-px": "120.29457",
-          "-py": "22.63275"
-        },
-        {
-          "-cctvid": "64000C000006",
-          "-roadsection": "¤¤µØ¸ô(¤¤µØ¤T¸ô/¥Á¥Í¤G¸ô¨ì¤¤µØ¥|¸ô/·s¥Ğ¸ô)",
-          "-locationpath": "2132",
-          "-startlocationpoint": "2144",
-          "-endlocationpoint": "2146",
-          "-px": "120.29905",
-          "-py": "22.62101"
-        },
-        {
-          "-cctvid": "64000C000007",
-          "-roadsection": "¤E¦p¸ô(¤E¦p¤@¸ô/¤ô·½¸ô¨ì¤E¦p¤@¸ô/¼á²M¸ô)",
-          "-locationpath": "2203",
-          "-startlocationpoint": "2220",
-          "-endlocationpoint": "2221",
-          "-px": "120.34445",
-          "-py": "22.63626"
-        },
-        {
-          "-cctvid": "64000C000008",
-          "-roadsection": "¤¤µØ¸ô(¤¤µØ¤@¸ô/©ú¸Û¤T¸ô¨ì¤¤µØ¤G¸ô/¦P·ù¤G¸ô)",
-          "-locationpath": "2132",
-          "-startlocationpoint": "2135",
-          "-endlocationpoint": "2137",
-          "-px": "120.29219",
-          "-py": "22.65310"
-        },
-        {
-          "-cctvid": "64000C000009",
-          "-roadsection": "·£¶§/»ñ·£¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.33031",
-          "-py": "22.72414"
-        },
-        {
-          "-cctvid": "64000C000010",
-          "-roadsection": "³Õ·R¸ô(³Õ·R¥|¸ô/­«·R¸ô¨ì³Õ·R¤T¸ô/´¿¤l¸ô)",
-          "-locationpath": "1993",
-          "-startlocationpoint": "1996",
-          "-endlocationpoint": "1998",
-          "-px": "120.31049",
-          "-py": "22.68129"
-        },
-        {
-          "-cctvid": "64000C000011",
-          "-roadsection": "¤¤¥¿¸ô(¤¤¥¿¤@¸ô/ºÖ¼w¤T¸ô¨ì¤¤¥¿¸ô/¤T¦h¤@¸ô)",
-          "-locationpath": "2271",
-          "-startlocationpoint": "2285",
-          "-endlocationpoint": "2287",
-          "-px": "120.33580",
-          "-py": "22.62693"
-        },
-        {
-          "-cctvid": "64000C000012",
-          "-roadsection": "¤¤¥¿¸ô(¤¤¥¿¤@¸ô/ºÖ¼w¤T¸ô¨ì¤¤¥¿¸ô/¤T¦h¤@¸ô)",
-          "-locationpath": "2271",
-          "-startlocationpoint": "2285",
-          "-endlocationpoint": "2287",
-          "-px": "120.33662",
-          "-py": "22.62668"
-        },
-        {
-          "-cctvid": "64000C000013",
-          "-roadsection": "¥Á±Ú¸ô(°ª¶¯)(¥Á±Ú¤@¸ô(°ª¶¯)/µØ®L¸ô¨ì¥Á±Ú¤@¸ô(°ª¶¯)/­«·R¸ô)",
-          "-locationpath": "2053",
-          "-startlocationpoint": "2054",
-          "-endlocationpoint": "2055",
-          "-px": "120.32091",
-          "-py": "22.68789"
-        },
-        {
-          "-cctvid": "64000C000014",
-          "-roadsection": "¥Á±Ú¸ô(°ª¶¯)(©ú¸Û¤@¸ô(°ª¶¯)/¥Á±Ú¤@¸ô¨ì¥Á±Ú¤@¸ô(°ª¶¯)/¦P·ù¤@¸ô)",
-          "-locationpath": "2053",
-          "-startlocationpoint": "2059",
-          "-endlocationpoint": "2061",
-          "-px": "120.31554",
-          "-py": "22.65543"
-        },
-        {
-          "-cctvid": "64000C000015",
-          "-roadsection": "¥Á±Ú¸ô(°ª¶¯)(¥Á±Ú¤@¸ô(°ª¶¯)/¤j¶¶¤@¸ô¨ì¥Á±Ú¤@¸ô(°ª¶¯)/¤Q¥ş¤@¸ô)",
-          "-locationpath": "2053",
-          "-startlocationpoint": "2060",
-          "-endlocationpoint": "2062",
-          "-px": "120.31482",
-          "-py": "22.64767"
-        },
-        {
-          "-cctvid": "64000C000016",
-          "-roadsection": "¥Á±Ú¸ô(°ª¶¯)(¥Á±Ú¤@¸ô(°ª¶¯)/¤j¶¶¤@¸ô¨ì¥Á±Ú¤@¸ô(°ª¶¯)/¤Q¥ş¤@¸ô)",
-          "-locationpath": "2053",
-          "-startlocationpoint": "2060",
-          "-endlocationpoint": "2062",
-          "-px": "120.31474",
-          "-py": "22.64735"
-        },
-        {
-          "-cctvid": "64000C000017",
-          "-roadsection": "¥Á±Ú¸ô(°ª¶¯)(¥Á±Ú¤@¸ô(°ª¶¯)/¤E¦p¤G¸ô¨ì¥Á±Ú¤G¸ô(°ª¶¯)/¤K¼w¤@¸ô)",
-          "-locationpath": "2053",
-          "-startlocationpoint": "2063",
-          "-endlocationpoint": "2065",
-          "-px": "120.31374",
-          "-py": "22.63649"
-        },
-        {
-          "-cctvid": "64000C000018",
-          "-roadsection": "¥Á±Ú¸ô(°ª¶¯)(¥Á±Ú¤G¸ô(°ª¶¯)/«Ø°ê¤@¸ô¨ì¥Á±Ú¤G¸ô(°ª¶¯)/¤C½å¤@¸ô)",
-          "-locationpath": "2053",
-          "-startlocationpoint": "2064",
-          "-endlocationpoint": "2066",
-          "-px": "120.31368",
-          "-py": "22.63528"
-        },
-        {
-          "-cctvid": "64000C000019",
-          "-roadsection": "¤­ºÖ¸ô(¤­ºÖ¤G¸ô/¥ÁÅv¤@¸ô¨ì¤­ºÖ¤@¸ô/©M¥­¤@¸ô)",
-          "-locationpath": "2401",
-          "-startlocationpoint": "2415",
-          "-endlocationpoint": "2417",
-          "-px": "120.31423",
-          "-py": "22.62754"
-        },
-        {
-          "-cctvid": "64000C000020",
-          "-roadsection": "¤­ºÖ¸ô(¤­ºÖ¥|¸ô/ªe¦è¸ô¨ì¤­ºÖ¤T¸ô/¦¨¥\¤@¸ô)",
-          "-locationpath": "2401",
-          "-startlocationpoint": "2407",
-          "-endlocationpoint": "2409",
-          "-px": "120.29095",
-          "-py": "22.62069"
-        },
-        {
-          "-cctvid": "64000C000021",
-          "-roadsection": "¤¤¤s¸ô(°ª¶¯)(¤¤¤s¥|¸ô/ª÷ºÖ¸ô¨ì¤¤¤s¥|¸ô/¤j·~¥_¸ô)",
-          "-locationpath": "2013",
-          "-startlocationpoint": "2031",
-          "-endlocationpoint": "2033",
-          "-px": "120.33828",
-          "-py": "22.56998"
-        },
-        {
-          "-cctvid": "64000C000022",
-          "-roadsection": "¤T¦h¸ô(¤T¦h¤@¸ô/ªZ¼y¤T¸ô¨ì¤T¦h¤@¸ô/¦Û¥Ñ¸ô)",
-          "-locationpath": "2454",
-          "-startlocationpoint": "2469",
-          "-endlocationpoint": "2471",
-          "-px": "120.33590",
-          "-py": "22.62398"
-        },
-        {
-          "-cctvid": "64000C000023",
-          "-roadsection": "¦¨¥\¸ô(¦¨¥\¤G¸ô/´_¿³¤T¸ô¨ì¦¨¥\¤G¸ô/ÂX«Ø¸ô)",
-          "-locationpath": "2303",
-          "-startlocationpoint": "2313",
-          "-endlocationpoint": "2314",
-          "-px": "120.30639",
-          "-py": "22.59191"
-        },
-        {
-          "-cctvid": "64000C000024",
-          "-roadsection": "¤¤µØ¸ô(¤¤µØ¤@¸ô/¤j¶¶¤@¸ô¨ì¤¤µØ¤G¸ô/¤E¦p¤G¸ô)",
-          "-locationpath": "2132",
-          "-startlocationpoint": "2136",
-          "-endlocationpoint": "2138",
-          "-px": "120.29196",
-          "-py": "22.64915"
-        },
-        {
-          "-cctvid": "64000C000025",
-          "-roadsection": "¤¤µØ¸ô(¤¤µØ¤T¸ô/¤¤¥¿¥|¸ô-¤¤µØ¤T¸ô¶êÀô¨ì¤¤µØ¤T¸ô/¤­ºÖ¤T¸ô-¤¤µØ¥|¸ô-¤¤µØ¤T¸ô¶êÀô)",
-          "-locationpath": "2132",
-          "-startlocationpoint": "2143",
-          "-endlocationpoint": "2145",
-          "-px": "120.29713",
-          "-py": "22.62598"
-        },
-        {
-          "-cctvid": "64000C000026",
-          "-roadsection": "¤¤µØ¸ô(¤¤µØ¤T¸ô/¤¤¥¿¥|¸ô-¤¤µØ¤T¸ô¶êÀô¨ì¤¤µØ¤T¸ô/¤­ºÖ¤T¸ô-¤¤µØ¥|¸ô-¤¤µØ¤T¸ô¶êÀô)",
-          "-locationpath": "2132",
-          "-startlocationpoint": "2143",
-          "-endlocationpoint": "2145",
-          "-px": "120.29739",
-          "-py": "22.62578"
-        },
-        {
-          "-cctvid": "64000C000027",
-          "-roadsection": "¤¤¤s¸ô(°ª¶¯)(¤¤¤s¤@¸ô/¤­ºÖ¤T¸ô¨ì¤¤¤s¤G¸ô/«C¦~¤G¸ô)",
-          "-locationpath": "2013",
-          "-startlocationpoint": "2020",
-          "-endlocationpoint": "2022",
-          "-px": "120.30160",
-          "-py": "22.62158"
-        },
-        {
-          "-cctvid": "64000C000028",
-          "-roadsection": "¤¤µØ¸ô(¤¤µØ¥|¸ô/¥|ºû¥|¸ô¨ì¤¤µØ¤­¸ô/´_¿³¤T¸ô)",
-          "-locationpath": "2132",
-          "-startlocationpoint": "2148",
-          "-endlocationpoint": "2150",
-          "-px": "120.30213",
-          "-py": "22.61325"
-        },
-        {
-          "-cctvid": "64000C000029",
-          "-roadsection": "ºX¬z¸ô(ºX¬z¤T¸ô/µo²»µó¨ìºX¬z¤T¸ô/´_¿³¤T«Ñ)",
-          "-locationpath": "2524",
-          "-startlocationpoint": "2530",
-          "-endlocationpoint": "2529",
-          "-px": "120.26900",
-          "-py": "22.60913"
-        },
-        {
-          "-cctvid": "64000C000030",
-          "-roadsection": "ºX¬z¸ô(ºX¬z¤T¸ô/µo²»µó¨ìºX¬z¤T¸ô/´_¿³¤T«Ñ)",
-          "-locationpath": "2524",
-          "-startlocationpoint": "2530",
-          "-endlocationpoint": "2529",
-          "-px": "120.27720",
-          "-py": "22.59925"
-        },
-        {
-          "-cctvid": "64000C000031",
-          "-roadsection": "ºX¬z¸ô(ºX¬z¤T¸ô/µo²»µó¨ìºX¬z¤T¸ô/´_¿³¤T«Ñ)",
-          "-locationpath": "2524",
-          "-startlocationpoint": "2530",
-          "-endlocationpoint": "2529",
-          "-px": "120.27535",
-          "-py": "22.60149"
-        },
-        {
-          "-cctvid": "64000C000032",
-          "-roadsection": "ºX¬z¸ô(ºX¬z¤T¸ô/ºX¬z¤G¸ô¨ìºX¬z¤G¸ô/´°©Mµó)",
-          "-locationpath": "2524",
-          "-startlocationpoint": "2528",
-          "-endlocationpoint": "2527",
-          "-px": "120.28484",
-          "-py": "22.58963"
-        },
-        {
-          "-cctvid": "64000C000033",
-          "-roadsection": "¤j¤¤¸ô(°ª¶¯)(¤j¤¤¤@¸ô/¹©¤¤¸ô¨ì¤j¤¤¤G¸ô/¦Û¥Ñ¥|¸ô)",
-          "-locationpath": "2084",
-          "-startlocationpoint": "2086",
-          "-endlocationpoint": "2088",
-          "-px": "120.31905",
-          "-py": "22.67892"
-        },
-        {
-          "-cctvid": "64000C000034",
-          "-roadsection": "¤j¤¤¸ô(°ª¶¯)(¤j¤¤¤G¸ô/µØ®L¸ô¨ì¤j¤¤¤G¸ô/»AµØ¸ô)",
-          "-locationpath": "2084",
-          "-startlocationpoint": "2091",
-          "-endlocationpoint": "2093",
-          "-px": "120.30704",
-          "-py": "22.68403"
-        },
-        {
-          "-cctvid": "64000C000035",
-          "-roadsection": "¥x 17(»AµØ¸ô/µæ¤½¸ô¨ì»AµØ¸ô/·s²ø¥J¸ô)",
-          "-locationpath": "4432",
-          "-startlocationpoint": "4472",
-          "-endlocationpoint": "4474",
-          "-px": "120.29771",
-          "-py": "22.67865"
-        },
-        {
-          "-cctvid": "64000C000036",
-          "-roadsection": "¤¤µØ¸ô(¤¤µØ¤­¸ô/´_¿³¤T¸ô¨ì¤¤µØ¤­¸ô/³Í±Û¥|¸ô)",
-          "-locationpath": "2132",
-          "-startlocationpoint": "2150",
-          "-endlocationpoint": "2151",
-          "-px": "120.30979",
-          "-py": "22.59366"
-        },
-        {
-          "-cctvid": "64000C000037",
-          "-roadsection": "¤¤µØ¸ô(¤¤µØ¥|¸ô/«C¦~¤G¸ô¨ì¤¤µØ¥|¸ô/¤T¦h¥|¸ô)",
-          "-locationpath": "2132",
-          "-startlocationpoint": "2147",
-          "-endlocationpoint": "2149",
-          "-px": "120.30098",
-          "-py": "22.61623"
-        },
-        {
-          "-cctvid": "64000C000038",
-          "-roadsection": "¤j¤¤¸ô(°ª¶¯)(¤j¤¤¤@¸ô/¹©¤¤¸ô¨ì¤j¤¤¤G¸ô/¥Á±Ú¤@¸ô)",
-          "-locationpath": "2084",
-          "-startlocationpoint": "2086",
-          "-endlocationpoint": "2087",
-          "-px": "120.32181",
-          "-py": "22.67751"
-        },
-        {
-          "-cctvid": "64000C000039",
-          "-roadsection": "¥Á±Ú¸ô(°ª¶¯)(¥Á±Ú¤@¸ô(°ª¶¯)/¸Î¸Û¸ô¨ì¥Á±Ú¤@¸ô(°ª¶¯)/¤j¶¶¤@¸ô)",
-          "-locationpath": "2053",
-          "-startlocationpoint": "2058",
-          "-endlocationpoint": "2060",
-          "-px": "120.31557",
-          "-py": "22.65972"
-        },
-        {
-          "-cctvid": "64000C000040",
-          "-roadsection": "¤¤¤s¸ô(°ª¶¯)(¤¤¤s¥|¸ô/¥­©MªF¸ô¨ì¤¤¤s¥|¸ô/¤j·~¥_¸ô)",
-          "-locationpath": "2013",
-          "-startlocationpoint": "2032",
-          "-endlocationpoint": "2033",
-          "-px": "120.34947",
-          "-py": "22.56935"
-        },
-        {
-          "-cctvid": "64000C000041",
-          "-roadsection": "·s¥Í¸ô(·s¥Í¸ô/·s¸Å¸ô¨ì·s¥Í¸ô/¤¤¿³¸ô)",
-          "-locationpath": "2514",
-          "-startlocationpoint": "2517",
-          "-endlocationpoint": "2532",
-          "-px": "120.31580",
-          "-py": "22.57671"
-        },
-        {
-          "-cctvid": "64000C000042",
-          "-roadsection": "³Í±Û¸ô(³Í±Û¤T¸ô/¤G¸t¤@¸ô¨ì³Í±Û¥|¸ô/¤¤¤s¤T¸ô)",
-          "-locationpath": "2366",
-          "-startlocationpoint": "2374",
-          "-endlocationpoint": "2376",
-          "-px": "120.32462",
-          "-py": "22.60513"
-        },
-        {
-          "-cctvid": "64000C000043",
-          "-roadsection": "¥Á±Ú¸ô(°ª¶¯)(¥Á±Ú¤@¸ô(°ª¶¯)/¤Q¥ş¤@¸ô¨ì¥Á±Ú¤G¸ô(°ª¶¯)/«Ø°ê¤@¸ô)",
-          "-locationpath": "2053",
-          "-startlocationpoint": "2062",
-          "-endlocationpoint": "2064",
-          "-px": "120.31427",
-          "-py": "22.64044"
-        },
-        {
-          "-cctvid": "64000C000044",
-          "-roadsection": "¥x 17(¤¤µØ¤@¸ô/¼yÂ×µó¨ì¤¤µØ¤@¸ô/¤j¶¶¤@¸ô)",
-          "-locationpath": "4432",
-          "-startlocationpoint": "4477",
-          "-endlocationpoint": "4479",
-          "-px": "120.29225",
-          "-py": "22.66121"
-        },
-        {
-          "-cctvid": "64000C000045",
-          "-roadsection": "¥x 17(»AµØ¸ô/µæ¤½¸ô¨ì»AµØ¸ô/·s²ø¥J¸ô)",
-          "-locationpath": "4432",
-          "-startlocationpoint": "4472",
-          "-endlocationpoint": "4474",
-          "-px": "120.30290",
-          "-py": "22.68569"
-        },
-        {
-          "-cctvid": "64000C000046",
-          "-roadsection": "¤E¦p¸ô(¤E¦p¤@¸ô/³ó¤sµó¨ì°ª¶¯¥æ¬y¹D(¤E¦p¤@¸ô))",
-          "-locationpath": "2203",
-          "-startlocationpoint": "2215",
-          "-endlocationpoint": "2219",
-          "-px": "120.32793",
-          "-py": "22.63909"
-        },
-        {
-          "-cctvid": "64000C000047",
-          "-roadsection": "¤E¦p¸ô(¤E¦p¤@¸ô/¤j¶¶¤G¸ô¨ì¤E¦p¤@¸ô/¤ô·½¸ô)",
-          "-locationpath": "2203",
-          "-startlocationpoint": "2216",
-          "-endlocationpoint": "2220",
-          "-px": "120.33673",
-          "-py": "22.63753"
-        },
-        {
-          "-cctvid": "64000C000048",
-          "-roadsection": "»AµØ¸ô(»AµØ¸ô/µæ¤½¸ô¨ì»AµØ¸ô/¤j¤¤¤G¸ô)",
-          "-locationpath": "1954",
-          "-startlocationpoint": "1957",
-          "-endlocationpoint": "1958",
-          "-px": "120.30283",
-          "-py": "22.68886"
-        },
-        {
-          "-cctvid": "64000C000049",
-          "-roadsection": "¥x 17(½¬®ü¸ô/­Z¤jµó¨ìªFªL¸ô/ªu®ü¤T¸ô)",
-          "-locationpath": "4432",
-          "-startlocationpoint": "4508",
-          "-endlocationpoint": "4509",
-          "-px": "120.37202",
-          "-py": "22.54111"
-        },
-        {
-          "-cctvid": "64000C000050",
-          "-roadsection": "¥x 17(½¬®ü¸ô/ªu®ü¤@¸ô¨ìªFªL¸ô/ªu®ü¤T¸ô)",
-          "-locationpath": "4432",
-          "-startlocationpoint": "4507",
-          "-endlocationpoint": "4509",
-          "-px": "120.36297",
-          "-py": "22.55366"
-        },
-        {
-          "-cctvid": "64000C000051",
-          "-roadsection": "°ª·£¤½¸ô(°ª·£¤½¸ô/¥[©÷¸ô¨ì°ª·£¤½¸ô/¤ôºŞ¸ô)",
-          "-locationpath": "1948",
-          "-startlocationpoint": "1950",
-          "-endlocationpoint": "1952",
-          "-px": "120.32488",
-          "-py": "22.72172"
-        },
-        {
-          "-cctvid": "64000C000052",
-          "-roadsection": "°ª·£¤½¸ô(Áa³e¤½¸ô/°ª·£¤½¸ô¨ì°ª·£¤½¸ô/¥Á±Ú¤@¸ô)",
-          "-locationpath": "1948",
-          "-startlocationpoint": "1951",
-          "-endlocationpoint": "1953",
-          "-px": "120.32451",
-          "-py": "22.70666"
-        },
-        {
-          "-cctvid": "64000C000053",
-          "-roadsection": "°ª·£¤½¸ô(°ª·£¤½¸ô/¼w¥Á¸ô¨ìÁa³e¤½¸ô/°ª·£¤½¸ô)",
-          "-locationpath": "1948",
-          "-startlocationpoint": "1949",
-          "-endlocationpoint": "1951",
-          "-px": "120.32207",
-          "-py": "22.72572"
-        },
-        {
-          "-cctvid": "64000C000054",
-          "-roadsection": "¥Á±Ú¸ô(°ª¶¯)(¥Á±Ú¤@¸ô(°ª¶¯)/¤j¤¤¤G¸ô¨ì¥Á±Ú¤@¸ô(°ª¶¯)/¸Î¸Û¸ô)",
-          "-locationpath": "2053",
-          "-startlocationpoint": "2056",
-          "-endlocationpoint": "2058",
-          "-px": "120.31705",
-          "-py": "22.66824"
-        },
-        {
-          "-cctvid": "64000C000055",
-          "-roadsection": "¥Á±Ú¸ô(°ª¶¯)(¥Á±Ú¤@¸ô(°ª¶¯)/¤E¦p¤G¸ô¨ì¥Á±Ú¤G¸ô(°ª¶¯)/¤K¼w¤@¸ô)",
-          "-locationpath": "2053",
-          "-startlocationpoint": "2063",
-          "-endlocationpoint": "2065",
-          "-px": "120.30876",
-          "-py": "22.64504"
-        },
-        {
-          "-cctvid": "64000C000056",
-          "-roadsection": "¥ª·£¸ô(¥ª·£¸ô/¥[©÷¸ô¨ì¥ª·£¸ô/¥ªÀç¤j¸ô)",
-          "-locationpath": "1929",
-          "-startlocationpoint": "1930",
-          "-endlocationpoint": "1932",
-          "-px": "120.30239",
-          "-py": "22.70792"
-        },
-        {
-          "-cctvid": "64000C000057",
-          "-roadsection": "¥ª·£¸ô(¥ª·£¸ô/«á©÷¸ô¨ì¥ª·£¸ô/¥ªÀç¤j¸ô)",
-          "-locationpath": "1929",
-          "-startlocationpoint": "1931",
-          "-endlocationpoint": "1932",
-          "-px": "120.30262",
-          "-py": "22.69937"
-        },
-        {
-          "-cctvid": "64000C000058",
-          "-roadsection": "¦Û¥Ñ¸ô(°ª¶¯)(¦Û¥Ñ¥|¸ô/­««H¸ô¨ì¦Û¥Ñ¤T¸ô/´¿¤l¸ô)",
-          "-locationpath": "2040",
-          "-startlocationpoint": "2043",
-          "-endlocationpoint": "2045",
-          "-px": "120.31370",
-          "-py": "22.67928"
-        },
-        {
-          "-cctvid": "64000C000059",
-          "-roadsection": "¦Û¥Ñ¸ô(°ª¶¯)(¦Û¥Ñ¤T¸ô/´¿¤l¸ô¨ì¦Û¥Ñ¤G¸ô/¸Î¸Û¸ô)",
-          "-locationpath": "2040",
-          "-startlocationpoint": "2045",
-          "-endlocationpoint": "2047",
-          "-px": "120.30973",
-          "-py": "22.66871"
-        },
-        {
-          "-cctvid": "64000C000060",
-          "-roadsection": "¦Û¥Ñ¸ô(°ª¶¯)(¦Û¥Ñ¤G¸ô/©ú¸Û¤G¸ô¨ì¦Û¥Ñ¤@¸ô/¦P·ù¤@¸ô)",
-          "-locationpath": "2040",
-          "-startlocationpoint": "2048",
-          "-endlocationpoint": "2050",
-          "-px": "120.30885",
-          "-py": "22.65663"
-        },
-        {
-          "-cctvid": "64000C000061",
-          "-roadsection": "¦Û¥Ñ¸ô(°ª¶¯)(¦Û¥Ñ¤G¸ô/¤j¶¶¤@¸ô¨ì¦Û¥Ñ¤@¸ô/¤Q¥ş¤@¸ô)",
-          "-locationpath": "2040",
-          "-startlocationpoint": "2049",
-          "-endlocationpoint": "2051",
-          "-px": "120.30911",
-          "-py": "22.65002"
-        },
-        {
-          "-cctvid": "64000C000062",
-          "-roadsection": "¥ÁÅv¸ô(¥ÁÅv¤@¸ô/¥Á¥Í¤@¸ô¨ì¥ÁÅv¤@¸ô/¤­ºÖ¤G¸ô)",
-          "-locationpath": "2419",
-          "-startlocationpoint": "2420",
-          "-endlocationpoint": "2421",
-          "-px": "120.31046",
-          "-py": "22.62761"
-        },
-        {
-          "-cctvid": "64000C000063",
-          "-roadsection": "¥ÁÅv¸ô(¥ÁÅv¤@¸ô/¤­ºÖ¤G¸ô¨ì¥ÁÅv¤@¸ô/«C¦~¤@¸ô)",
-          "-locationpath": "2419",
-          "-startlocationpoint": "2421",
-          "-endlocationpoint": "2422",
-          "-px": "120.31087",
-          "-py": "22.62646"
-        },
-        {
-          "-cctvid": "64000C000064",
-          "-roadsection": "¥ÁÅv¸ô(¥ÁÅv¤@¸ô/¥|ºû¤T¸ô¨ì¥ÁÅv¤G¸ô/¤G¸t¤G¸ô)",
-          "-locationpath": "2419",
-          "-startlocationpoint": "2423",
-          "-endlocationpoint": "2425",
-          "-px": "120.31433",
-          "-py": "22.61730"
-        },
-        {
-          "-cctvid": "64000C000065",
-          "-roadsection": "¥ÁÅv¸ô(¥ÁÅv¤G¸ô/¤G¸t¤G¸ô¨ì¥ÁÅv¤G¸ô/¤¤¤s¤T¸ô)",
-          "-locationpath": "2419",
-          "-startlocationpoint": "2425",
-          "-endlocationpoint": "2427",
-          "-px": "120.31325",
-          "-py": "22.61014"
-        },
-        {
-          "-cctvid": "64000C000066",
-          "-roadsection": "¦¨¥\¸ô(¦¨¥\¤@¸ô/¥|ºû¥|¸ô¨ì¦¨¥\¤G¸ô/´_¿³¤T¸ô)",
-          "-locationpath": "2303",
-          "-startlocationpoint": "2311",
-          "-endlocationpoint": "2313",
-          "-px": "120.31436",
-          "-py": "22.64443"
-        },
-        {
-          "-cctvid": "64000C000067",
-          "-roadsection": "¤@¤ß¸ô(¤@¤ß¤@¸ô/¥ÁÅv¤G¸ô¨ì¤@¤ß¤@¸ô/©M¥­¤G¸ô)",
-          "-locationpath": "2486",
-          "-startlocationpoint": "2490",
-          "-endlocationpoint": "2492",
-          "-px": "120.31667",
-          "-py": "22.60870"
-        },
-        {
-          "-cctvid": "64000C000068",
-          "-roadsection": "¥x 17(º~¥Á¸ô/ªu®ü¤@¸ô¨ì½¬®ü¸ô/ªu®ü¤@¸ô)",
-          "-locationpath": "4432",
-          "-startlocationpoint": "4506",
-          "-endlocationpoint": "4507",
-          "-px": "120.35241",
-          "-py": "22.56645"
-        },
-        {
-          "-cctvid": "64000C000069",
-          "-roadsection": "·s¥Í¸ô(·s¥Í¸ô/º®´ä¸ô¨ì·s¥Í¸ô/¤¤¿³¸ô)",
-          "-locationpath": "2514",
-          "-startlocationpoint": "2518",
-          "-endlocationpoint": "2532",
-          "-px": "120.32006",
-          "-py": "22.57175"
-        },
-        {
-          "-cctvid": "64000C000070",
-          "-roadsection": "¤j¶¶¸ô(¤j¶¶¤G¸ô/¹©¤sµó¨ì¤j¶¶¤G¸ô/«Ø¼w¸ô)",
-          "-locationpath": "2153",
-          "-startlocationpoint": "2158",
-          "-endlocationpoint": "2160",
-          "-px": "120.32419",
-          "-py": "22.64982"
-        },
-        {
-          "-cctvid": "64000C000071",
-          "-roadsection": "¤j¶¶¸ô(¤j¶¶¤G¸ô/¤E¦p¤@¸ô¨ì¤j¶¶¤T¸ô/ªe¥_¸ô)",
-          "-locationpath": "2153",
-          "-startlocationpoint": "2161",
-          "-endlocationpoint": "2163",
-          "-px": "120.30318",
-          "-py": "22.67037"
-        },
-        {
-          "-cctvid": "64000C000072",
-          "-roadsection": "¤T¦h¸ô(¤T¦h¤@¸ô/ªZ¼y¤T¸ô¨ì¤T¦h¤@¸ô/¦Û¥Ñ¸ô)",
-          "-locationpath": "2454",
-          "-startlocationpoint": "2469",
-          "-endlocationpoint": "2471",
-          "-px": "120.33676",
-          "-py": "22.62401"
-        },
-        {
-          "-cctvid": "64000C000073",
-          "-roadsection": "·s¥Í¸ô(·s¥Í¸ô/³Í±Û¸ô¨ì·s¥Í¸ô/Âí´ä¸ô)",
-          "-locationpath": "2514",
-          "-startlocationpoint": "2515",
-          "-endlocationpoint": "2516",
-          "-px": "120.30371",
-          "-py": "22.59090"
-        },
-        {
-          "-cctvid": "64000C000074",
-          "-roadsection": "·s¥Í¸ô(·s¥Í¸ô/¤¤¿³¸ô¨ì·s¥Í¸ô/ª÷ºÖ¸ô)",
-          "-locationpath": "2514",
-          "-startlocationpoint": "2532",
-          "-endlocationpoint": "2519",
-          "-px": "120.32347",
-          "-py": "22.56782"
-        },
-        {
-          "-cctvid": "64000C000075",
-          "-roadsection": "«Ø°ê¸ô(«Ø°ê¥|¸ô/·s¿³µó¨ì«Ø°ê¤T¸ô/¥_·çµó)",
-          "-locationpath": "2224",
-          "-startlocationpoint": "2388",
-          "-endlocationpoint": "2227",
-          "-px": "120.28412",
-          "-py": "22.63395"
-        },
-        {
-          "-cctvid": "64000C000076",
-          "-roadsection": "°ª»ñ¸ô/°ªªQ¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.37106",
-          "-py": "22.57275"
-        },
-        {
-          "-cctvid": "64000C000077",
-          "-roadsection": "³Õ·R¸ô(³Õ·R¤G¸ô/©ú¸Û¤G¸ô¨ì³Õ·R¤@¸ô/¦P·ù¤@¸ô)",
-          "-locationpath": "1993",
-          "-startlocationpoint": "2003",
-          "-endlocationpoint": "2005",
-          "-px": "120.30329",
-          "-py": "22.65620"
-        },
-        {
-          "-cctvid": "64000C000078",
-          "-roadsection": "¥x 17(º~¥Á¸ô/ªu®ü¤@¸ô¨ì½¬®ü¸ô/­Z¤jµó)",
-          "-locationpath": "4432",
-          "-startlocationpoint": "4506",
-          "-endlocationpoint": "4508",
-          "-px": "120.35723",
-          "-py": "22.56074"
-        },
-        {
-          "-cctvid": "64000C000079",
-          "-roadsection": "«Ø°ê¸ô(«Ø°ê¤T¸ô/¤¤µØ¤T¸ô¨ì«Ø°ê¤G¸ô)",
-          "-locationpath": "2224",
-          "-startlocationpoint": "2230",
-          "-endlocationpoint": "2232",
-          "-px": "120.29647",
-          "-py": "22.63792"
-        },
-        {
-          "-cctvid": "64000C000080",
-          "-roadsection": "¤T¦h¸ô(¤T¦h¤G¸ô/©M¥­¤@¸ô¨ì¤T¦h¤G¸ô/ºÖ¼w¤T¸ô)",
-          "-locationpath": "2454",
-          "-startlocationpoint": "2466",
-          "-endlocationpoint": "2468",
-          "-px": "120.32526",
-          "-py": "22.62072"
-        },
-        {
-          "-cctvid": "64000C000081",
-          "-roadsection": "¤¤¤s¸ô(°ª¶¯)(¤¤¤s¤T¸ô/´_¿³¤T¸ô¨ì¤¤¤s¤T¸ô/¥úµØ¤T¸ô)",
-          "-locationpath": "2013",
-          "-startlocationpoint": "2025",
-          "-endlocationpoint": "2079",
-          "-px": "120.30894",
-          "-py": "22.60501"
-        },
-        {
-          "-cctvid": "64000C000082",
-          "-roadsection": "¤¤¤s¸ô(°ª¶¯)(¤¤¤s¤T¸ô/¥úµØ¤T¸ô¨ì¤¤¤s¥|¸ô/¤­¥Ò¤T¸ô)",
-          "-locationpath": "2013",
-          "-startlocationpoint": "2079",
-          "-endlocationpoint": "2028",
-          "-px": "120.31642",
-          "-py": "22.59628"
-        },
-        {
-          "-cctvid": "64000C000083",
-          "-roadsection": "(·s¥Í¸ô-¤¤¿³¸ô)(·s¥Í¸ô/¤¤¿³¸ô¨ì·s¥Í¸ô/ºX¬z¤@¸ô)",
-          "-locationpath": "2520",
-          "-startlocationpoint": "2521",
-          "-endlocationpoint": "2523",
-          "-px": "120.35025",
-          "-py": "22.52492"
-        },
-        {
-          "-cctvid": "64000C000084",
-          "-roadsection": "¥ª·£¸ô(¥ª·£¸ô/¥[©÷¸ô¨ì¥ª·£¸ô/«á©÷¸ô)",
-          "-locationpath": "1929",
-          "-startlocationpoint": "1930",
-          "-endlocationpoint": "1931",
-          "-px": "120.30463",
-          "-py": "22.71780"
-        },
-        {
-          "-cctvid": "64000C000085",
-          "-roadsection": "¤¤¥¿¸ô(°ª¶¯¥æ¬y¹D(¤¤¥¿1¸ô)¨ì¤¤¥¿¸ô/¤T¦h¤@¸ô)",
-          "-locationpath": "2271",
-          "-startlocationpoint": "2286",
-          "-endlocationpoint": "2287",
-          "-px": "120.34235",
-          "-py": "22.62474"
-        },
-        {
-          "-cctvid": "64000C000086",
-          "-roadsection": "¤¤¥¿¸ô(¤¤¥¿¤T¸ô/´_¿³¤@¸ô¨ì¤¤¥¿¤G¸ô/©M¥­¤@¸ô)",
-          "-locationpath": "2271",
-          "-startlocationpoint": "2280",
-          "-endlocationpoint": "2282",
-          "-px": "120.31328",
-          "-py": "22.63063"
-        },
-        {
-          "-cctvid": "64000C000087",
-          "-roadsection": "¤¤¤s¸ô(°ª¶¯)(¤¤¤s¤@¸ô/¤»¦X¤@¸ô¨ì¤¤¤s¤@¸ô/¤¤¤s¤@¸ô-¥Á¥Í¤@¸ô-¥Á¥Í¤G¸ô¶êÀô)",
-          "-locationpath": "2013",
-          "-startlocationpoint": "2017",
-          "-endlocationpoint": "2019",
-          "-px": "120.30191",
-          "-py": "22.63136"
-        },
-        {
-          "-cctvid": "64000C000088",
-          "-roadsection": "¥[©÷¸ô(¥[©÷¸ô/«á©÷¸ô¨ì¥[©÷¸ô/¥k©÷µó)",
-          "-locationpath": "1912",
-          "-startlocationpoint": "1917",
-          "-endlocationpoint": "1919",
-          "-px": "120.29143",
-          "-py": "22.71319"
-        },
-        {
-          "-cctvid": "64000C000089",
-          "-roadsection": "¥ªÀç¤j¸ô(¥ªÀç¤j¸ô/¥²³Ó¸ô¨ì¥ªÀç¤j¸ô/¤¤µØ¸ô-¹ª¤s¤T¸ô¶êÀô)",
-          "-locationpath": "1940",
-          "-startlocationpoint": "1946",
-          "-endlocationpoint": "1947",
-          "-px": "120.28659",
-          "-py": "22.67219"
-        },
-        {
-          "-cctvid": "64000C000090",
-          "-roadsection": "¤¤¤s¸ô(°ª¶¯)(¤¤¤s¤T¸ô/¥úµØ¤T¸ô¨ì¤¤¤s¤T¸ô/³Í±Û¥|¸ô)",
-          "-locationpath": "2013",
-          "-startlocationpoint": "2079",
-          "-endlocationpoint": "2027",
-          "-px": "120.31384",
-          "-py": "22.59870"
-        },
-        {
-          "-cctvid": "64000C000091",
-          "-roadsection": "¤¤¤s¸ô(°ª¶¯)(¤¤¤s¤G¸ô/¥|ºû¥|¸ô¨ì¤¤¤s¤T¸ô/´_¿³¤T¸ô)",
-          "-locationpath": "2013",
-          "-startlocationpoint": "2023",
-          "-endlocationpoint": "2025",
-          "-px": "120.30458",
-          "-py": "22.61394"
-        },
-        {
-          "-cctvid": "64000C000092",
-          "-roadsection": "¤¤¤s¸ô(°ª¶¯)(¤¤¤s¤T¸ô/³Í±Û¥|¸ô¨ì°ª¶¯ºİ)",
-          "-locationpath": "2013",
-          "-startlocationpoint": "2027",
-          "-endlocationpoint": "2029",
-          "-px": "120.32231",
-          "-py": "22.58855"
-        },
-        {
-          "-cctvid": "64000C000093",
-          "-roadsection": "¥ª·£¸ô(¥ª·£¸ô/«á©÷¸ô¨ì¥ª·£¸ô/¥ªÀç¤j¸ô)",
-          "-locationpath": "1929",
-          "-startlocationpoint": "1931",
-          "-endlocationpoint": "1932",
-          "-px": "120.30254",
-          "-py": "22.70087"
-        },
-        {
-          "-cctvid": "64000C000094",
-          "-roadsection": "¤E¦p¸ô(¤E¦p¤@¸ô/¤j¶¶¤G¸ô¨ì¤E¦p¤@¸ô/¤ô·½¸ô)",
-          "-locationpath": "2203",
-          "-startlocationpoint": "2216",
-          "-endlocationpoint": "2220",
-          "-px": "120.33758",
-          "-py": "22.63750"
-        },
-        {
-          "-cctvid": "64000C000095",
-          "-roadsection": "·ç¶©¸ô(·ç¶©¸ô/ªZÀç¸ô¨ì·ç¶©¸ô/«O®õ¸ô)",
-          "-locationpath": "2495",
-          "-startlocationpoint": "2499",
-          "-endlocationpoint": "2500",
-          "-px": "120.33907",
-          "-py": "22.60611"
-        },
-        {
-          "-cctvid": "64000C000096",
-          "-roadsection": "¤¤¤s¸ô(°ª¶¯)(¤¤¤s¤T¸ô/¥úµØ¤T¸ô¨ì¤¤¤s¥|¸ô/¤­¥Ò¤T¸ô)",
-          "-locationpath": "2013",
-          "-startlocationpoint": "2079",
-          "-endlocationpoint": "2028",
-          "-px": "120.31567",
-          "-py": "22.59579"
-        },
-        {
-          "-cctvid": "64000C000097",
-          "-roadsection": "¤¤¥¿¸ô(¤¤¥¿¤G¸ô/©M¥­¤@¸ô¨ì¤¤¥¿¸ô/¤j¶¶¤T¸ô)",
-          "-locationpath": "2271",
-          "-startlocationpoint": "2282",
-          "-endlocationpoint": "2284",
-          "-px": "120.32166",
-          "-py": "22.62998"
-        },
-        {
-          "-cctvid": "64000C000098",
-          "-roadsection": "¤¤¤s¸ô(°ª¶¯)(¤¤¤s¥|¸ô/¤¤¦w¸ô¨ì¤¤¤s¥|¸ô/¥­©MªF¸ô)",
-          "-locationpath": "2013",
-          "-startlocationpoint": "2030",
-          "-endlocationpoint": "2032",
-          "-px": "120.33208",
-          "-py": "22.57667"
-        },
-        {
-          "-cctvid": "64000C000099",
-          "-roadsection": "¤¤¥¿¸ô(¤¤¥¿¥|¸ô/¦Û±j¤G¸ô¨ì¤¤¥¿¥|¸ô/¦Û¥ß¤G¸ô)",
-          "-locationpath": "2271",
-          "-startlocationpoint": "2275",
-          "-endlocationpoint": "2277",
-          "-px": "120.29585",
-          "-py": "22.62942"
-        },
-        {
-          "-cctvid": "64000C000100",
-          "-roadsection": "«C¦~¸ô(«C¦~¤G¸ô/®üÃä¸ô¨ì«C¦~¤G¸ô/¥Ã©úµó)",
-          "-locationpath": "2428",
-          "-startlocationpoint": "2429",
-          "-endlocationpoint": "2430",
-          "-px": "120.29354",
-          "-py": "22.61723"
-        },
-        {
-          "-cctvid": "64000C000101",
-          "-roadsection": "³Õ·R¸ô(³Õ·R¤T¸ô/©s¤l¸ô¨ì³Õ·R¤T¸ô/·s²ø¤@¸ô)",
-          "-locationpath": "1993",
-          "-startlocationpoint": "1999",
-          "-endlocationpoint": "2001",
-          "-px": "120.30371",
-          "-py": "22.67069"
-        },
-        {
-          "-cctvid": "64000C000102",
-          "-roadsection": "³Õ·R¸ô(³Õ·R¤T¸ô/·s²ø¤@¸ô¨ì³Õ·R¤G¸ô/©ú¸Û¤G¸ô)",
-          "-locationpath": "1993",
-          "-startlocationpoint": "2001",
-          "-endlocationpoint": "2003",
-          "-px": "120.30326",
-          "-py": "22.66590"
-        },
-        {
-          "-cctvid": "64000C000103",
-          "-roadsection": "¤¤¤s¸ô(°ª¶¯)(¤¤¤s¸ô/«Ø°ê¤G¸ô¨ì¤¤¤s¤@¸ô/¤C½å¤G¸ô)",
-          "-locationpath": "2013",
-          "-startlocationpoint": "2014",
-          "-endlocationpoint": "2016",
-          "-px": "120.30235",
-          "-py": "22.63600"
-        },
-        {
-          "-cctvid": "64000C000104",
-          "-roadsection": "³Õ·R¸ô(³Õ·R¤@¸ô/¤Q¥ş¤@¸ô¨ì³Õ·R¤@¸ô/¤E¦p¤G¸ô)",
-          "-locationpath": "1993",
-          "-startlocationpoint": "2006",
-          "-endlocationpoint": "2007",
-          "-px": "120.30299",
-          "-py": "22.64406"
-        },
-        {
-          "-cctvid": "64000C000105",
-          "-roadsection": "¤¤¤s¸ô(°ª¶¯)(¤¤¤s¤@¸ô/¤¤¤s¤@¸ô-¥Á¥Í¤@¸ô-¥Á¥Í¤G¸ô¶êÀô¨ì¤¤¤s¤G¸ô/·s¥Ğ¸ô)",
-          "-locationpath": "2013",
-          "-startlocationpoint": "2019",
-          "-endlocationpoint": "2021",
-          "-px": "120.30101",
-          "-py": "22.62314"
-        },
-        {
-          "-cctvid": "64000C000106",
-          "-roadsection": "¤¤®ü¸ô(¤¤®ü¸ô/­x®Õ¸ô¨ì¤¤®ü¸ô/¤¤¥¿¸ô)",
-          "-locationpath": "1933",
-          "-startlocationpoint": "1934",
-          "-endlocationpoint": "1935",
-          "-px": "120.29255",
-          "-py": "22.70068"
-        },
-        {
-          "-cctvid": "64000C000107",
-          "-roadsection": "¤¤¤s¸ô(°ª¶¯)(¤¤¤s¤T¸ô/¤¤¤s¥|¸ô¨ì¤¤¤s¤@¸ô/¤­ºÖ¤T¸ô)",
-          "-locationpath": "2013",
-          "-startlocationpoint": "2018",
-          "-endlocationpoint": "2020",
-          "-px": "120.30150",
-          "-py": "22.62732"
-        },
-        {
-          "-cctvid": "64000C000108",
-          "-roadsection": "¤j¶¶¸ô(¤j¶¶¤G¸ô/¤E¦p¤@¸ô¨ì¤j¶¶¤T¸ô/ªe¥_¸ô)",
-          "-locationpath": "2153",
-          "-startlocationpoint": "2161",
-          "-endlocationpoint": "2163",
-          "-px": "120.32570",
-          "-py": "22.63285"
-        },
-        {
-          "-cctvid": "64000C000109",
-          "-roadsection": "¤¤¥¿¸ô(¤¤¥¿¤­¸ô/¤j¤½¸ô¨ì¤¤¥¿¥|¸ô/¦¨¥\¤@¸ô)",
-          "-locationpath": "2271",
-          "-startlocationpoint": "2272",
-          "-endlocationpoint": "2274",
-          "-px": "120.28885",
-          "-py": "22.62703"
-        },
-        {
-          "-cctvid": "64000C000110",
-          "-roadsection": "«Ø¤u¸ô(«Ø¤u¸ô/¤j¶¶¤G¸ô¨ì«Ø¤u¸ô/«Ø¼w¸ô)",
-          "-locationpath": "2164",
-          "-startlocationpoint": "2167",
-          "-endlocationpoint": "2166",
-          "-px": "120.32935",
-          "-py": "22.65230"
-        },
-        {
-          "-cctvid": "64000C000111",
-          "-roadsection": "¤¤¤s¸ô(°ª¶¯)(¤¤¤s¸ô/«Ø°ê¤G¸ô¨ì¤¤¤s¤@¸ô/¤¤³Õ¨®¦æ¦a¤U¹D)",
-          "-locationpath": "2013",
-          "-startlocationpoint": "2014",
-          "-endlocationpoint": "2015",
-          "-px": "120.30249",
-          "-py": "22.63780"
-        },
-        {
-          "-cctvid": "64000C000112",
-          "-roadsection": "³Õ·R¸ô(³Õ·R¤G¸ô/¸Î¸Û¸ô¨ì³Õ·R¤G¸ô/¤j¶¶¤@¸ô)",
-          "-locationpath": "1993",
-          "-startlocationpoint": "2002",
-          "-endlocationpoint": "2004",
-          "-px": "120.29786",
-          "-py": "22.61853"
-        },
-        {
-          "-cctvid": "64000C000113",
-          "-roadsection": "¦¨¥\¸ô(¦¨¥\¤@¸ô/¥Á¥Í¤G¸ô¨ì¦¨¥\¤@¸ô/·s¥Ğ¸ô)",
-          "-locationpath": "2303",
-          "-startlocationpoint": "2307",
-          "-endlocationpoint": "2309",
-          "-px": "120.29504",
-          "-py": "22.62115"
-        },
-        {
-          "-cctvid": "64000C000114",
-          "-roadsection": "¤C½å¸ô(¤C½å¤@¸ô/¥Á±Ú¤G¸ô¨ì¤C½å¤@¸ô/©M¥­¤@¸ô)",
-          "-locationpath": "2246",
-          "-startlocationpoint": "2255",
-          "-endlocationpoint": "2256",
-          "-px": "120.31669",
-          "-py": "22.63365"
-        },
-        {
-          "-cctvid": "64000C000115",
-          "-roadsection": "¤E¦p¸ô(¤E¦p¤G¸ô/¤¤µØ¤G¸ô¨ì¤E¦p¤G¸ô/³Õ·R¤@¸ô)",
-          "-locationpath": "2203",
-          "-startlocationpoint": "2210",
-          "-endlocationpoint": "2212",
-          "-px": "120.29617",
-          "-py": "22.64182"
-        },
-        {
-          "-cctvid": "64000C000116",
-          "-roadsection": "³Õ·R¸ô(³Õ·R¤@¸ô/¤¤³Õ¨®¦æ¦a¤U¹D¨ì³Õ·R¤@¸ô/¤E¦p¤G¸ô)",
-          "-locationpath": "1993",
-          "-startlocationpoint": "2008",
-          "-endlocationpoint": "2007",
-          "-px": "120.30279",
-          "-py": "22.64137"
-        },
-        {
-          "-cctvid": "64000C000117",
-          "-roadsection": "¥ªÀç¤j¸ô(¥ªÀç¤j¸ô/©±¥J³»¸ô¨ì¥ªÀç¤j¸ô/¤¶¹Ø¸ô)",
-          "-locationpath": "1940",
-          "-startlocationpoint": "1944",
-          "-endlocationpoint": "1945",
-          "-px": "120.28807",
-          "-py": "22.68181"
-        },
-        {
-          "-cctvid": "64000C000118",
-          "-roadsection": "«Ø°ê¸ô(«Ø°ê¤@¸ô/¥Á±Ú¤G¸ô¨ì«Ø°ê¤@¸ô/¤»¦X¸ô)",
-          "-locationpath": "2224",
-          "-startlocationpoint": "2234",
-          "-endlocationpoint": "2267",
-          "-px": "120.31684",
-          "-py": "22.63493"
-        },
-        {
-          "-cctvid": "64000C000119",
-          "-roadsection": "¬ü³NÀ]¸ô/¬ü³NªF¤G¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.28818",
-          "-py": "22.65494"
-        },
-        {
-          "-cctvid": "64000C000120",
-          "-roadsection": "®ü¥\¸ô/­x®Õ¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.29246",
-          "-py": "22.69369"
-        },
-        {
-          "-cctvid": "64000C000121",
-          "-roadsection": "»AµØ¸ô(»AµØ¸ô/ªFªù¸ô¨ì»AµØ¸ô/¤¤µØ¤@¸ô)",
-          "-locationpath": "1954",
-          "-startlocationpoint": "1960",
-          "-endlocationpoint": "1961",
-          "-px": "120.29112",
-          "-py": "22.67207"
-        },
-        {
-          "-cctvid": "64000C000122",
-          "-roadsection": "­ï²îµó/Á{®ü¤G¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.26951",
-          "-py": "22.62447"
-        },
-        {
-          "-cctvid": "64000C000123",
-          "-roadsection": "½¬®ü¸ô-¤¤¤s¤j¾Ç¤jªù°±¨®³õ¥X¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.26682",
-          "-py": "22.61774"
-        },
-        {
-          "-cctvid": "64000C000124",
-          "-roadsection": "¹ª¤s´ç½ü¯¸",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.27016",
-          "-py": "22.61977"
-        },
-        {
-          "-cctvid": "64000C000125",
-          "-roadsection": "¹ª¤s¸ô(¹ª¤s¤T¸ô/¤­ºÖ¥|¸ô¨ì¹ª¤s¤T¸ô/ÀØ®ü¤@¸ô)",
-          "-locationpath": "1965",
-          "-startlocationpoint": "1974",
-          "-endlocationpoint": "1975",
-          "-px": "120.27501",
-          "-py": "22.62128"
-        },
-        {
-          "-cctvid": "64000C000126",
-          "-roadsection": "¤­ºÖ¸ô(¤­ºÖ¥|¸ô/¹ª¤s¤T¸ô¨ì¤­ºÖ¥|¸ô/«Ø°ê¥|¸ô)",
-          "-locationpath": "2401",
-          "-startlocationpoint": "2402",
-          "-endlocationpoint": "2405",
-          "-px": "120.27809",
-          "-py": "22.62638"
-        },
-        {
-          "-cctvid": "64000C000127",
-          "-roadsection": "¤¤¥¿¸ô(¤¤¥¿¤­¸ô/¤j¤½¸ô¨ì¤¤¥¿¥|¸ô/¦¨¥\¤@¸ô)",
-          "-locationpath": "2271",
-          "-startlocationpoint": "2272",
-          "-endlocationpoint": "2274",
-          "-px": "120.28781",
-          "-py": "22.62670"
-        },
-        {
-          "-cctvid": "64000C000128",
-          "-roadsection": "¤½¶é¸ô/¤C½å¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.28026",
-          "-py": "22.62283"
-        },
-        {
-          "-cctvid": "64000C000129",
-          "-roadsection": "¤­ºÖ¸ô(¤­ºÖ¥|¸ô/«Ø°ê¥|¸ô¨ì¤­ºÖ¥|¸ô/ªe¦è¸ô)",
-          "-locationpath": "2401",
-          "-startlocationpoint": "2405",
-          "-endlocationpoint": "2407",
-          "-px": "120.28136",
-          "-py": "22.62478"
-        },
-        {
-          "-cctvid": "64000C000130",
-          "-roadsection": "¤­ºÖ¸ô(¤­ºÖ¥|¸ô/¤C½å¤T¸ô¨ì¤­ºÖ¥|¸ô/®üÃä¸ô)",
-          "-locationpath": "2401",
-          "-startlocationpoint": "2406",
-          "-endlocationpoint": "2408",
-          "-px": "120.28948",
-          "-py": "22.62079"
-        },
-        {
-          "-cctvid": "64000C000131",
-          "-roadsection": "«Ø°ê¸ô(«Ø°ê¤G¸ô/´_¿³¤@¸ô¨ì«Ø°ê¤@¸ô/©M¥­¤@¸ô)",
-          "-locationpath": "2224",
-          "-startlocationpoint": "2270",
-          "-endlocationpoint": "2235",
-          "-px": "120.31368",
-          "-py": "22.63732"
-        },
-        {
-          "-cctvid": "64000C000132",
-          "-roadsection": "«Ø°ê¸ô(«Ø°ê¤@¸ô/ºÖ¼w¤G¸ô¨ì«Ø°ê¤@¸ô/¥¿¸q¸ô)",
-          "-locationpath": "2224",
-          "-startlocationpoint": "2238",
-          "-endlocationpoint": "2239",
-          "-px": "120.33726",
-          "-py": "22.63028"
-        },
-        {
-          "-cctvid": "64000C000133",
-          "-roadsection": "«Ø°ê¸ô(«Ø°ê¤@¸ô/ºÖ¼w¤G¸ô¨ì«Ø°ê¤@¸ô/¥¿¸q¸ô)",
-          "-locationpath": "2224",
-          "-startlocationpoint": "2238",
-          "-endlocationpoint": "2239",
-          "-px": "120.33558",
-          "-py": "22.63080"
-        },
-        {
-          "-cctvid": "64000C000134",
-          "-roadsection": "¤j·~¥_¸ô(¤j·~¥_¸ô/¤¤¤s¥|¸ô¨ì¤j·~¥_¸ô/¤p´ä¸ô)",
-          "-locationpath": "2580",
-          "-startlocationpoint": "2581",
-          "-endlocationpoint": "2582",
-          "-px": "120.34297",
-          "-py": "22.56965"
-        },
-        {
-          "-cctvid": "64000C000135",
-          "-roadsection": "¤j·~¥_¸ô(¤j·~¥_¸ô/º~¥Á¸ô¨ì¤j·~¥_¸ô/¤¤¿û¸ô)",
-          "-locationpath": "2580",
-          "-startlocationpoint": "2583",
-          "-endlocationpoint": "2584",
-          "-px": "120.35267",
-          "-py": "22.55786"
-        },
-        {
-          "-cctvid": "64000C000136",
-          "-roadsection": "ºX¬z´ç½ü¯¸",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.26909",
-          "-py": "22.61412"
-        },
-        {
-          "-cctvid": "64000C000137",
-          "-roadsection": "¤¤µØ¸ô(¤¤µØ¤­¸ô/´_¿³¤T¸ô¨ì¤¤µØ¤­¸ô/³Í±Û¥|¸ô)",
-          "-locationpath": "2132",
-          "-startlocationpoint": "2150",
-          "-endlocationpoint": "2151",
-          "-px": "120.30844",
-          "-py": "22.59689"
-        },
-        {
-          "-cctvid": "64000C000138",
-          "-roadsection": "¦¨¥\¸ô(¦¨¥\¤G¸ô/´_¿³¤T¸ô¨ì¦¨¥\¤G¸ô/ÂX«Ø¸ô)",
-          "-locationpath": "2303",
-          "-startlocationpoint": "2313",
-          "-endlocationpoint": "2314",
-          "-px": "120.30485",
-          "-py": "22.59571"
-        },
-        {
-          "-cctvid": "64000C000139",
-          "-roadsection": "¦¨¥\¸ô(¦¨¥\¤@¸ô/¤T¦h¥|¸ô¨ì¦¨¥\¤G¸ô/´_¿³¤T¸ô)",
-          "-locationpath": "2303",
-          "-startlocationpoint": "2312",
-          "-endlocationpoint": "2313",
-          "-px": "120.29913",
-          "-py": "22.61055"
-        },
-        {
-          "-cctvid": "64000C000140",
-          "-roadsection": "¦¨¥\¸ô(¦¨¥\¤@¸ô/¤T¦h¥|¸ô¨ì¦¨¥\¤G¸ô/ÂX«Ø¸ô)",
-          "-locationpath": "2303",
-          "-startlocationpoint": "2312",
-          "-endlocationpoint": "2314",
-          "-px": "120.30120",
-          "-py": "22.60529"
-        },
-        {
-          "-cctvid": "64000C000141",
-          "-roadsection": "¥x 17(ªFªL¸ô/ªu®ü¤T¸ô¨ì¤U­í¸ô/¤¤ªù¸ô)",
-          "-locationpath": "4432",
-          "-startlocationpoint": "4509",
-          "-endlocationpoint": "9146",
-          "-px": "120.36248",
-          "-py": "22.51065"
-        },
-        {
-          "-cctvid": "64000C000142",
-          "-roadsection": "ª÷ºÖ¸ô(ª÷ºÖ¸ô/·s¥Í¸ô¨ìª÷ºÖ¸ô/´ä¹Øµó)",
-          "-locationpath": "2533",
-          "-startlocationpoint": "2534",
-          "-endlocationpoint": "2536",
-          "-px": "120.32853",
-          "-py": "22.57106"
-        },
-        {
-          "-cctvid": "64000C000143",
-          "-roadsection": "·s¥Í¸ô(·s¥Í¸ô/Âí´ä¸ô¨ì·s¥Í¸ô/º®´ä¸ô)",
-          "-locationpath": "2514",
-          "-startlocationpoint": "2516",
-          "-endlocationpoint": "2518",
-          "-px": "120.31229",
-          "-py": "22.58072"
-        },
-        {
-          "-cctvid": "64000C000144",
-          "-roadsection": "ºX¬z¸ô(ºX¬z¤G¸ô/´°©Mµó¨ìºX¬z¤@¸ô/¼s¿Aµó)",
-          "-locationpath": "2524",
-          "-startlocationpoint": "2527",
-          "-endlocationpoint": "2526",
-          "-px": "120.29915",
-          "-py": "22.57064"
-        },
-        {
-          "-cctvid": "64000C000145",
-          "-roadsection": "º®´ä¸ô(º®´ä¸ô/¼w©÷¸ô¨ìº®´ä¸ô/»A¦ë¥_¸ô)",
-          "-locationpath": "2543",
-          "-startlocationpoint": "2545",
-          "-endlocationpoint": "2547",
-          "-px": "120.32290",
-          "-py": "22.58181"
-        },
-        {
-          "-cctvid": "64000C000146",
-          "-roadsection": "¥ÁÅv¸ô(¥ÁÅv¤@¸ô/«C¦~¤@¸ô¨ì¥ÁÅv¤G¸ô/¤T¦h¤T¸ô)",
-          "-locationpath": "2419",
-          "-startlocationpoint": "2422",
-          "-endlocationpoint": "2424",
-          "-px": "120.31330",
-          "-py": "22.62032"
-        },
-        {
-          "-cctvid": "64000C000147",
-          "-roadsection": "©ú¸Û¸ô/ª÷¹©¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.33052",
-          "-py": "22.66013"
-        },
-        {
-          "-cctvid": "64000C000148",
-          "-roadsection": "¤j¤¤¸ô(°ª¶¯)(¤j¤¤¤G¸ô/¼áÆ[¸ô¨ì¤j¤¤¤G¸ô/¥Á±Ú¤@¸ô)",
-          "-locationpath": "2084",
-          "-startlocationpoint": "2085",
-          "-endlocationpoint": "2087",
-          "-px": "120.32319",
-          "-py": "22.67656"
-        },
-        {
-          "-cctvid": "64000C000149",
-          "-roadsection": "ºX·£¸ô(ºX·£¸ô/¥ß¥Á¸ô¨ìºX·£¸ô/·£±ê·s¸ô)",
-          "-locationpath": "2618",
-          "-startlocationpoint": "2619",
-          "-endlocationpoint": "2620",
-          "-px": "120.33497",
-          "-py": "22.73781"
-        },
-        {
-          "-cctvid": "64000C000150",
-          "-roadsection": "¥x 22(ºX·£¸ô/·£±ê·s¸ô¨ìºX·£¸ô/¥ß¥Á¸ô)",
-          "-locationpath": "4797",
-          "-startlocationpoint": "4799",
-          "-endlocationpoint": "4801",
-          "-px": "120.32250",
-          "-py": "22.60165"
-        },
-        {
-          "-cctvid": "64000C000151",
-          "-roadsection": "¥x 1¥³(«Ø°ê¤@¸ô/¥¿¸q¸ô¨ì¥x 1¥³/¥x 25)",
-          "-locationpath": "4625",
-          "-startlocationpoint": "4634",
-          "-endlocationpoint": "4636",
-          "-px": "120.36191",
-          "-py": "22.62554"
-        },
-        {
-          "-cctvid": "64000C000152",
-          "-roadsection": "·ç¶©ªF¸ô¥X¤f¹h¹D«n¦V¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.34096",
-          "-py": "22.60619"
-        },
-        {
-          "-cctvid": "64000C000153",
-          "-roadsection": "¥x88»ñ¤s¥æ¬y¹DªF¦V",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.35889",
-          "-py": "22.59011"
-        },
-        {
-          "-cctvid": "64000C000154",
-          "-roadsection": "¥x88»ñ¤s¥æ¬y¹D¦è¦V",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.35888",
-          "-py": "22.59042"
-        },
-        {
-          "-cctvid": "64000C000155",
-          "-roadsection": "¦Û¥Ñ¸ô(°ª¶¯)(¦Û¥Ñ¤@¸ô/¤T¦h¤@¸ô¨ì¦Û¥Ñ¸ô/¼á²M¸ô)",
-          "-locationpath": "2472",
-          "-startlocationpoint": "2473",
-          "-endlocationpoint": "2474",
-          "-px": "120.34434",
-          "-py": "22.62487"
-        },
-        {
-          "-cctvid": "64000C000156",
-          "-roadsection": "¥x 1¥³(«Ø°ê¤@¸ô/¥¿¸q¸ô¨ì¥x 1¥³/¥x 25)",
-          "-locationpath": "4625",
-          "-startlocationpoint": "4634",
-          "-endlocationpoint": "4635",
-          "-px": "120.33954",
-          "-py": "22.62949"
-        },
-        {
-          "-cctvid": "64000C000157",
-          "-roadsection": "¥x 1¥³(«Ø°ê¤@¸ô/¥¿¸q¸ô¨ì¥x 1¥³/¥x 25)",
-          "-locationpath": "4625",
-          "-startlocationpoint": "4634",
-          "-endlocationpoint": "4635",
-          "-px": "120.35660",
-          "-py": "22.62604"
-        },
-        {
-          "-cctvid": "64000C000158",
-          "-roadsection": "¿¤ 181(¤K¼w¸ô433«Ñ/«C¦~¸ô¤G¬q¨ì¤K¼w¸ô433«Ñ/«C¦~¸ô¤G¬q)",
-          "-locationpath": "9432",
-          "-startlocationpoint": "9436",
-          "-endlocationpoint": "9436",
-          "-px": "120.34664",
-          "-py": "22.64785"
-        },
-        {
-          "-cctvid": "64000C000159",
-          "-roadsection": "¥x 1(»ñªQ¸ô/«Ø°ê¸ô¤G¬q¨ì»ñ¤¯¸ô/«Ø°ê¸ô¤@¬q)",
-          "-locationpath": "2623",
-          "-startlocationpoint": "9294",
-          "-endlocationpoint": "9237",
-          "-px": "120.36385",
-          "-py": "22.63518"
-        },
-        {
-          "-cctvid": "64000C000160",
-          "-roadsection": "¦Û¥Ñ¸ô(°ª¶¯)(¦Û¥Ñ¤G¸ô/¸Î¸Û¸ô¨ì¦Û¥Ñ¤G¸ô/¤j¶¶¤@¸ô)",
-          "-locationpath": "2040",
-          "-startlocationpoint": "2047",
-          "-endlocationpoint": "2049",
-          "-px": "120.30904",
-          "-py": "22.66108"
-        },
-        {
-          "-cctvid": "64000C000161",
-          "-roadsection": "¿¤ 186(¤¶¹ØªF¸ô/¤¤¤s«n¸ô¨ì©£¤s¸ô/¤¶¹Ø¸ô)",
-          "-locationpath": "9330",
-          "-startlocationpoint": "9342",
-          "-endlocationpoint": "9341",
-          "-px": "120.29709",
-          "-py": "22.78457"
-        },
-        {
-          "-cctvid": "64000C000162",
-          "-roadsection": "¥x 1(¥x 1/¥x 19¥Ò¨ì¤¤¤s¥_¸ô/¤j¼w¤@¸ô)",
-          "-locationpath": "2623",
-          "-startlocationpoint": "2692",
-          "-endlocationpoint": "9223",
-          "-px": "120.29460",
-          "-py": "22.79966"
-        },
-        {
-          "-cctvid": "64000C000163",
-          "-roadsection": "¥x 19¥Ò(¥x 19¥Ò/¥x 1¨ì¦¨¥\¸ô/¹Å·sªF¸ô)",
-          "-locationpath": "4571",
-          "-startlocationpoint": "4577",
-          "-endlocationpoint": "9196",
-          "-px": "120.29851",
-          "-py": "22.80743"
-        },
-        {
-          "-cctvid": "64000C000164",
-          "-roadsection": "ªü¤½©±¸ô2¬q/·Ë¦è¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.29053",
-          "-py": "22.78766"
-        },
-        {
-          "-cctvid": "64000C000165",
-          "-roadsection": "¥x 19¥Ò(¤¤µØ¸ô/¬h¾ô¦è¸ô¨ì¤j¸q¤@¸ô/¤¯¹Ø¸ô)",
-          "-locationpath": "4571",
-          "-startlocationpoint": "9200",
-          "-endlocationpoint": "9201",
-          "-px": "120.28850",
-          "-py": "22.79069"
-        },
-        {
-          "-cctvid": "64000C000166",
-          "-roadsection": "¥x 19¥Ò(¤j¸q¤@¸ô/¤¯¹Ø¸ô¨ì¤¶¹Ø¸ô/¤¶¹Ø¦è¸ô)",
-          "-locationpath": "4571",
-          "-startlocationpoint": "9201",
-          "-endlocationpoint": "9202",
-          "-px": "120.28486",
-          "-py": "22.78439"
-        },
-        {
-          "-cctvid": "64000C000167",
-          "-roadsection": "¥x 1(¤j¼w¤T¸ô/¤¤¤s«n¸ô¨ì¤¤¤s¥_¸ô/¤j¼w¤@¸ô)",
-          "-locationpath": "2623",
-          "-startlocationpoint": "9225",
-          "-endlocationpoint": "9223",
-          "-px": "120.29908",
-          "-py": "22.79236"
-        },
-        {
-          "-cctvid": "64000C000168",
-          "-roadsection": "¥x 1(¤¶¹ØªF¸ô/¤¤¤s«n¸ô¨ì©£¤s«n¸ô/¦¨¥\¥_¸ô)",
-          "-locationpath": "2623",
-          "-startlocationpoint": "9226",
-          "-endlocationpoint": "9227",
-          "-px": "120.29881",
-          "-py": "22.78001"
-        },
-        {
-          "-cctvid": "64000C000169",
-          "-roadsection": "»ñ¤s°Ï-°ê®õ¸ô¤G¬q¡B«n¨Ê¸ô¦è«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.34454",
-          "-py": "22.62140"
-        },
-        {
-          "-cctvid": "64000C000170",
-          "-roadsection": "»ñ¤s°Ï-°ê®õ¸ô¤G¬q¡B«C¦~¸ô¤@¬qªF¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.34922",
-          "-py": "22.61884"
-        },
-        {
-          "-cctvid": "64000C000171",
-          "-roadsection": "»ñ¤s°Ï-°ê®õ¸ô¤G¬q¡B¤­¥Ò¤G¸ô¦è¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.35338",
-          "-py": "22.61655"
-        },
-        {
-          "-cctvid": "64000C000172",
-          "-roadsection": "»ñ¤s°Ï-°ê®õ¸ô¤@¬q¡B»ñ³»¸ôªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.36205",
-          "-py": "22.61409"
-        },
-        {
-          "-cctvid": "64000C000173",
-          "-roadsection": "»ñ¤s°Ï-»ñ³»¸ô¡B«O¥Í¸ôªF¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.35917",
-          "-py": "22.59309"
-        },
-        {
-          "-cctvid": "64000C000174",
-          "-roadsection": "»ñ¤s°Ï-¿¤188¡B¤º§|¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.38467",
-          "-py": "22.58957"
-        },
-        {
-          "-cctvid": "64000C000175",
-          "-roadsection": "»ñ¤s°Ï-¿¤188¡B»ñªL¸ô¥_°¼",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.40492",
-          "-py": "22.58703"
-        },
-        {
-          "-cctvid": "64000C000176",
-          "-roadsection": "»ñ¤s°Ï-¿¤188¡B»ñªL¸ô«n°¼",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.40535",
-          "-py": "22.58612"
-        },
-        {
-          "-cctvid": "64000C000177",
-          "-roadsection": "»ñ¤s°Ï-¿¤188¡B¥ú©ú¸ô¦è°¼",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.41981",
-          "-py": "22.58889"
-        },
-        {
-          "-cctvid": "64000C000178",
-          "-roadsection": "»ñ¤s°Ï-¿¤188¡B¥ú©ú¸ôªF°¼",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.42016",
-          "-py": "22.58925"
-        },
-        {
-          "-cctvid": "64000C000179",
-          "-roadsection": "»ñ¤s°Ï-¿¤188¡BµØ¤¤¸ôªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.42895",
-          "-py": "22.59163"
-        },
-        {
-          "-cctvid": "64000C000180",
-          "-roadsection": "»ñ¤s°Ï-¿¤188¡BµØ¤¤¸ô¦è¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.42835",
-          "-py": "22.59230"
-        },
-        {
-          "-cctvid": "64000C000181",
-          "-roadsection": "»ñ¤s°Ï-¤­¥Ò¤@¸ô¡B·ç¶©ªF¸ô¦è¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.34647",
-          "-py": "22.60688"
-        },
-        {
-          "-cctvid": "64000C000182",
-          "-roadsection": "»ñ¤s°Ï-¤­¥Ò¤@¸ô¡B«n¨Ê¸ôªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.34578",
-          "-py": "22.60470"
-        },
-        {
-          "-cctvid": "64000C000183",
-          "-roadsection": "»ñ¤s°Ï-¤E¦p¤@¸ô¡B¼á²M¸ô¦è«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.34424",
-          "-py": "22.63596"
-        },
-        {
-          "-cctvid": "64000C000184",
-          "-roadsection": "»ñ¤s°Ï-«Ø°ê¸ô¤T¬q¡B«C¦~¸ô¤G¬qªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.35076",
-          "-py": "22.63726"
-        },
-        {
-          "-cctvid": "64000C000185",
-          "-roadsection": "»ñ¤s°Ï-¤¤¤sªF¸ô¡B¥ú»·ªF¸ô¦è«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.36789",
-          "-py": "22.62277"
-        },
-        {
-          "-cctvid": "64000C000186",
-          "-roadsection": "»ñ¤s°Ï-»ñ«Ì¤@¸ô¡B¤jº~¸ô¸ô¤fªF°¼",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.38934",
-          "-py": "22.63398"
-        },
-        {
-          "-cctvid": "64000C000187",
-          "-roadsection": "»ñ¤s°Ï-»ñ«Ì¤@¸ô¡B¥ú©ú¸ô¤T¬q¦è«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.40114",
-          "-py": "22.63920"
-        },
-        {
-          "-cctvid": "64000C000188",
-          "-roadsection": "»ñ¤s°Ï-»ñ«Ì¤@¸ô¡B¥ú©ú¸ô¤T¬qªF¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.40183",
-          "-py": "22.63964"
-        },
-        {
-          "-cctvid": "64000C000189",
-          "-roadsection": "»ñ¤s°Ï-»ñ«Ì¤@¸ô¡B¤E©M¸ô¦è°¼",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.41707",
-          "-py": "22.64186"
-        },
-        {
-          "-cctvid": "64000C000190",
-          "-roadsection": "»ñ¤s°Ï-»ñ«Ì¤@¸ô¡B¤E©M¸ô¦è¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.41822",
-          "-py": "22.64206"
-        },
-        {
-          "-cctvid": "64000C000191",
-          "-roadsection": "»ñ¤s°Ï-¥ú©ú¸ô¤T¬q¡B¦¿¤s¸ô«n°¼",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.40243",
-          "-py": "22.63594"
-        },
-        {
-          "-cctvid": "64000C000192",
-          "-roadsection": "»ñ¤s°Ï-¥ú©ú¸ô¤G¬q¡B¯[²y¸ô«n°¼",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.41342",
-          "-py": "22.61147"
-        },
-        {
-          "-cctvid": "64000C000193",
-          "-roadsection": "°ª«Ì¤j¾ô©¹¦è¤U¾ô¥`¹D¤f(¥_°¼)",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.42822",
-          "-py": "22.64519"
-        },
-        {
-          "-cctvid": "64000C000194",
-          "-roadsection": "°ª«Ì¤j¾ô©¹ªF¤W¾ô¥`¹D¤f(«n°¼)",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.42882",
-          "-py": "22.64483"
-        },
-        {
-          "-cctvid": "64000C000195",
-          "-roadsection": "¸U¤j¤j¾ô©¹¦è¤U¾ô¥`¹D¤f(¥_°¼)",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.43309",
-          "-py": "22.59282"
-        },
-        {
-          "-cctvid": "64000C000196",
-          "-roadsection": "¸U¤j¤j¾ô©¹ªF¤W¾ô¥`¹D¤f(«n°¼)",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.43312",
-          "-py": "22.59214"
-        },
-        {
-          "-cctvid": "64000C000197",
-          "-roadsection": "Âù¶é¤j¾ô¦è¦V¤U¾ô(¥_°¼)",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.41267",
-          "-py": "22.49777"
-        },
-        {
-          "-cctvid": "64000C000198",
-          "-roadsection": "¥x29¡B±×±i¾ô«n°¼",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.44715",
-          "-py": "22.76494"
-        },
-        {
-          "-cctvid": "64000C000199",
-          "-roadsection": "¥x29¡B·Ë®H¸ô¦è¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.44498",
-          "-py": "22.72828"
-        },
-        {
-          "-cctvid": "64000C000200",
-          "-roadsection": "¥x29¡B¿¤186(¤¤¿³ªF¸ô)ªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.43524",
-          "-py": "22.69162"
-        },
-        {
-          "-cctvid": "64000C000201",
-          "-roadsection": "¤ôºŞ¤T¸ô¡B¸q¤j¤G¸ô(ªL¤s«Ñ)ªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.37947",
-          "-py": "22.70054"
-        },
-        {
-          "-cctvid": "64000C000202",
-          "-roadsection": "¤j¤¤¤G¸ô¡B¦Û¥Ñ¤T¸ôªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.31364",
-          "-py": "22.67908"
-        },
-        {
-          "-cctvid": "64000C000203",
-          "-roadsection": "¤j¤¤¤G¸ô¡B¥Á±Ú¤@¸ô¦è¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.31875",
-          "-py": "22.67932"
-        },
-        {
-          "-cctvid": "64000C000204",
-          "-roadsection": "¤j¤¤¤@¸ô¡B¹©¤¤¸ô¥_°¼",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32325",
-          "-py": "22.67703"
-        },
-        {
-          "-cctvid": "64000C000205",
-          "-roadsection": "¥x29(²ÎÀ­¸ô)¡B¥x22(¨½À­¤j¾ô)ªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.44947",
-          "-py": "22.77120"
-        },
-        {
-          "-cctvid": "64000C000206",
-          "-roadsection": "°ª³t¤½¸ô(«n¤U¥æ¬y¹D)¡B»ñ·£¸ô¦è«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.33201",
-          "-py": "22.72101"
-        },
-        {
-          "-cctvid": "64000C000207",
-          "-roadsection": "°ª³t¤½¸ô(¿³¦è¸ô)¡B»ñ¤¯¸ôªF¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.33317",
-          "-py": "22.72064"
-        },
-        {
-          "-cctvid": "64000C000208",
-          "-roadsection": "¥[©÷¸ô¡B®ü±M¸ô¦è¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.31709",
-          "-py": "22.72275"
-        },
-        {
-          "-cctvid": "64000C000209",
-          "-roadsection": "¤¯¶¯¸ô¡B¹©¤O¸ô(¸ô¾ô¥_°¼)",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.33229",
-          "-py": "22.67289"
-        },
-        {
-          "-cctvid": "64000C000210",
-          "-roadsection": "¥»À]¸ô¡B²y³õ¸ôªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.33615",
-          "-py": "22.65544"
-        },
-        {
-          "-cctvid": "64000C000211",
-          "-roadsection": "³Õ·R¤T¸ô¡B´¿¤l¸ô¦è«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30772",
-          "-py": "22.67881"
-        },
-        {
-          "-cctvid": "64000C000212",
-          "-roadsection": "³Õ·R¤@¸ô¡BÀs¼w¸ô¦è«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30334",
-          "-py": "22.65427"
-        },
-        {
-          "-cctvid": "64000C000213",
-          "-roadsection": "³Õ·R¤@¸ô¡B¦P·ù¤G¸ô¦è«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30328",
-          "-py": "22.65166"
-        },
-        {
-          "-cctvid": "64000C000214",
-          "-roadsection": "³Õ·R¤@¸ô¡B¤Q¥ş¤G¸ô¦è¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30291",
-          "-py": "22.64540"
-        },
-        {
-          "-cctvid": "64000C000215",
-          "-roadsection": "³Õ·R¤T¸ô¡B¤j¤¤¤G¸ô¦è«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30984",
-          "-py": "22.68108"
-        },
-        {
-          "-cctvid": "64000C000216",
-          "-roadsection": "³Õ·R¤G¸ô¡B¥ß«Hµó266«Ñ¦è¥_¨¤(º~¯«¥¨³J¹ï­±)",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30332",
-          "-py": "22.66828"
-        },
-        {
-          "-cctvid": "64000C000217",
-          "-roadsection": "¤¤¤s¤@¸ô¡B¤C½å¤@¸ôªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30237",
-          "-py": "22.63435"
-        },
-        {
-          "-cctvid": "64000C000218",
-          "-roadsection": "¤¤¤s¤G¸ô¡B¥|ºû¥|¸ôªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30364",
-          "-py": "22.61684"
-        },
-        {
-          "-cctvid": "64000C000219",
-          "-roadsection": "¤¤¤s¤G¸ô¡B´_¿³¤T¸ô¦è¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30692",
-          "-py": "22.60733"
-        },
-        {
-          "-cctvid": "64000C000220",
-          "-roadsection": "¤¤¤s¤G¸ô¡B·s¥ú¸ôªF¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30534",
-          "-py": "22.61247"
-        },
-        {
-          "-cctvid": "64000C000221",
-          "-roadsection": "¤¤¤s¥|¸ô¡B¤¤¥­¸ô¦è¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32866",
-          "-py": "22.58041"
-        },
-        {
-          "-cctvid": "64000C000222",
-          "-roadsection": "¤¤¤s¥|¸ô¡B¤¤¦w¸ôªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32956",
-          "-py": "22.58033"
-        },
-        {
-          "-cctvid": "64000C000223",
-          "-roadsection": "¤¤¦w¸ô¡B©ú»ñ¤Cµó¦è¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.33456",
-          "-py": "22.58313"
-        },
-        {
-          "-cctvid": "64000C000224",
-          "-roadsection": "¤T¦h¤­¸ô¡B¦¨¥\¤G¸ô¦è¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.29841",
-          "-py": "22.61199"
-        },
-        {
-          "-cctvid": "64000C000225",
-          "-roadsection": "¦¨¥\¤G¸ô¡B·s¥ú¸ôªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.29922",
-          "-py": "22.61049"
-        },
-        {
-          "-cctvid": "64000C000226",
-          "-roadsection": "¤¤¥¿¤G¸ô¡B©M¥­¤@¸ô¦è«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.31789",
-          "-py": "22.63033"
-        },
-        {
-          "-cctvid": "64000C000227",
-          "-roadsection": "¤¤¥¿¤@¸ô¡B»²¤¯¸ô¦è«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.33235",
-          "-py": "22.62799"
-        },
-        {
-          "-cctvid": "64000C000228",
-          "-roadsection": "¤¤¥¿¤@¸ô¡BºÖ¼w¸ôªF¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32763",
-          "-py": "22.62972"
-        },
-        {
-          "-cctvid": "64000C000229",
-          "-roadsection": "¤¤¥¿¤@¸ô¡Bªe¥_¸ôªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32351",
-          "-py": "22.62970"
-        },
-        {
-          "-cctvid": "64000C000230",
-          "-roadsection": "¤¤¥¿¤G¸ô¡B¥Á±Ú¤G¸ôªF¥_¨¤ ",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.31362",
-          "-py": "22.63077"
-        },
-        {
-          "-cctvid": "64000C000231",
-          "-roadsection": "¤¤¤s¤@¸ô¡B¤¤¥¿¤T¸ôªF°¼",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30222",
-          "-py": "22.63136"
-        },
-        {
-          "-cctvid": "64000C000232",
-          "-roadsection": "¾ôÀY°Ï-¦¨¥\«n¸ô¾ô·s¤»¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.31413",
-          "-py": "22.75010"
-        },
-        {
-          "-cctvid": "64000C000234",
-          "-roadsection": "¾ôÀY°Ï-¦¨¥\¸ô¾ôÀY¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30956",
-          "-py": "22.75980"
-        },
-        {
-          "-cctvid": "64000C000235",
-          "-roadsection": "¾ôÀY°Ï-¦¨¥\¥_¸ôÅK¹D¥_¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30592",
-          "-py": "22.76687"
-        },
-        {
-          "-cctvid": "64000C000236",
-          "-roadsection": "©£¤s°Ï-¤¶¹ØªF¸ô°ê¤@©£¤s¥æ¬y¹D¥_¤J¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32159",
-          "-py": "22.78809"
-        },
-        {
-          "-cctvid": "64000C000237",
-          "-roadsection": "©£¤s°Ï-¤¶¹ØªF¸ô°ê¤@©£¤s¥æ¬y¹D«n¥X¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.31964",
-          "-py": "22.78760"
-        },
-        {
-          "-cctvid": "64000C000238",
-          "-roadsection": "©£¤s°Ï-¸t´Ë¸ô¦w©Û¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.31250",
-          "-py": "22.78989"
-        },
-        {
-          "-cctvid": "64000C000239",
-          "-roadsection": "©£¤s°Ï-¤¶¹ØªF¸ô©£¿P¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.31504",
-          "-py": "22.78657"
-        },
-        {
-          "-cctvid": "64000C000240",
-          "-roadsection": "©£¤s°Ï-¹Å·sªF¸ô¸t´Ë¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.31108",
-          "-py": "22.80773"
-        },
-        {
-          "-cctvid": "64000C000241",
-          "-roadsection": "©£¤s°Ï-©£¤s¸ôªeµØ¸ô¡AªeµØ¸ô¤W±±¨î¾¹®Ç¸¹»x±ì",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.29215",
-          "-py": "22.80157"
-        },
-        {
-          "-cctvid": "64000C000242",
-          "-roadsection": "©£¤s°Ï-©£¤s¸ôªeµØ¸ô¡A©£¤s¸ô¤W¸ô¿O±ì",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.29209",
-          "-py": "22.80175"
-        },
-        {
-          "-cctvid": "64000C000243",
-          "-roadsection": "¸ô¦Ë°Ï-¤¤¤s«n¸ô¥»¬w¤­µó¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.26987",
-          "-py": "22.82059"
-        },
-        {
-          "-cctvid": "64000C000244",
-          "-roadsection": "¸ô¦Ë°Ï-¤¤¤s¸ô¤¤µØ¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.26072",
-          "-py": "22.85769"
-        },
-        {
-          "-cctvid": "64000C000245",
-          "-roadsection": "´ò¤º°Ï-¤¤¤s¸ô¤@¬qªF¤è¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.24993",
-          "-py": "22.88075"
-        },
-        {
-          "-cctvid": "64000C000246",
-          "-roadsection": "´ò¤º°Ï-¤¤¤s¸ô¤G¬q¤¤µØµó¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.22713",
-          "-py": "22.90927"
-        },
-        {
-          "-cctvid": "64000C000247",
-          "-roadsection": "¥Ã¦w°Ï-«O¦w¸ô«O¹ç¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.23479",
-          "-py": "22.83586"
-        },
-        {
-          "-cctvid": "64000C000248",
-          "-roadsection": "¥Ã¦w°Ï-«O¦w¸ôºû·s¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.24311",
-          "-py": "22.80817"
-        },
-        {
-          "-cctvid": "64000C000249",
-          "-roadsection": "À±ªû°Ï-¤¤¥¿ªF¸ôÆQÑL¤j¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.24476",
-          "-py": "22.79206"
-        },
-        {
-          "-cctvid": "64000C000250",
-          "-roadsection": "À±ªû°Ï-¤¤¥¿ªF¸ô¤¤¥¿«n¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.25280",
-          "-py": "22.77555"
-        },
-        {
-          "-cctvid": "64000C000251",
-          "-roadsection": "±ê©x°Ï-¤jªÙ«n¸ô¤jªÙªF¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.26143",
-          "-py": "22.74713"
-        },
-        {
-          "-cctvid": "64000C000252",
-          "-roadsection": "©£¤s°Ï-¥»¬w¸ô289¸¹«e¸ô¿O±ì",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.26323",
-          "-py": "22.80738"
-        },
-        {
-          "-cctvid": "64000C000253",
-          "-roadsection": "´ò¤º°Ï-ªF¤è¸ô¤@¬q¥¿¤j¸ô¤f(¿³¹F´äªù¤f)",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.21388",
-          "-py": "22.87621"
-        },
-        {
-          "-cctvid": "64000C000261",
-          "-roadsection": "¤j¼d°Ï-»ñªL¤G¸ô»P·s­í¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.41177",
-          "-py": "22.56120"
-        },
-        {
-          "-cctvid": "64000C000262",
-          "-roadsection": "¤j¼d°Ï-»ñªL¤@¸ô»P·|µ²¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.41244",
-          "-py": "22.55536"
-        },
-        {
-          "-cctvid": "64000C000263",
-          "-roadsection": "¤j¼d°Ï-»ñªL¸ô¥|¬q»P»ñªL¤@¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.41142",
-          "-py": "22.54730"
-        },
-        {
-          "-cctvid": "64000C000264",
-          "-roadsection": "ªL¶é°Ï-»ñªL¸ô¤G¬q»P¤ı¤½¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.39602",
-          "-py": "22.51317"
-        },
-        {
-          "-cctvid": "64000C000265",
-          "-roadsection": "ªL¶é°Ï-»ñªL¸ô¤G¬q»P©¾§µªF¸ô¥æ§Ã",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.39645",
-          "-py": "22.50713"
-        },
-        {
-          "-cctvid": "64000C000266",
-          "-roadsection": "ªL¶é°Ï-»ñªL¸ô¤@¬q»PªFªLªF¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.39762",
-          "-py": "22.50377"
-        },
-        {
-          "-cctvid": "64000C000267",
-          "-roadsection": "ªL¶é°Ï-»ñªL¸ô¤@¬q»Pªu®ü¸ô¤G¬q¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.39800",
-          "-py": "22.50068"
-        },
-        {
-          "-cctvid": "64000C000268",
-          "-roadsection": "ªL¶é°Ï-ªu®ü¸ô¤G¬q»P¤ı¤½¸ô¡AªFªL¦è¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.38242",
-          "-py": "22.50356"
-        },
-        {
-          "-cctvid": "64000C000269",
-          "-roadsection": "ªL¶é°Ï-ªu®ü¸ô¤G¬q»P¤ı¤½¸ô¡AªFªL¦è¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.38175",
-          "-py": "22.50343"
-        },
-        {
-          "-cctvid": "64000C000270",
-          "-roadsection": "ªL¶é°Ï-¤¤ªù¸ô»P«n¬P¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.36269",
-          "-py": "22.51052"
-        },
-        {
-          "-cctvid": "64000C000271",
-          "-roadsection": "¤p´ä°Ï-ªu®ü¤T¸ô»Pªu®ü¥|¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.36122",
-          "-py": "22.51311"
-        },
-        {
-          "-cctvid": "64000C000272",
-          "-roadsection": "¤¯ªZ°Ï-»ñ¤¯¸ô»P¼áÆ[¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.35291",
-          "-py": "22.68600"
-        },
-        {
-          "-cctvid": "64000C000273",
-          "-roadsection": "·£±ê°Ï-»ñ¤¯¸ô»P¤ôºŞ¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.34212",
-          "-py": "22.70619"
-        },
-        {
-          "-cctvid": "64000C000274",
-          "-roadsection": "³¾ªQ°Ï-¤¤¥¿¸ô»P¤j°ñ¸ô¡A¯«¹A¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.36414",
-          "-py": "22.65932"
-        },
-        {
-          "-cctvid": "64000C000275",
-          "-roadsection": "³¾ªQ°Ï-¤j°ñ¸ô»PÀô´ò¸ô¡A¤½¶é¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.35930",
-          "-py": "22.65791"
-        },
-        {
-          "-cctvid": "64000C000276",
-          "-roadsection": "³¾ªQ°Ï-¤j°ñ¸ô»Pªø©°¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.35605",
-          "-py": "22.65116"
-        },
-        {
-          "-cctvid": "64000C000277",
-          "-roadsection": "³¾ªQ°Ï-¤j°ñ«n¸ô»P¼á²M¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.34896",
-          "-py": "22.65202"
-        },
-        {
-          "-cctvid": "64000C000278",
-          "-roadsection": "³¾ªQ°Ï-¼á²M¸ô»P¶ê¤s¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.34834",
-          "-py": "22.65027"
-        },
-        {
-          "-cctvid": "64000C000279",
-          "-roadsection": "ÆQÑL°Ï-¤j¸qµó»P¤½¶é¤G¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.28556",
-          "-py": "22.62023"
-        },
-        {
-          "-cctvid": "64000C000280",
-          "-roadsection": "ÆQÑL°Ï-¤j«i¸ô»P¤½¶é¤G¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.28270",
-          "-py": "22.62160"
-        },
-        {
-          "-cctvid": "64000C000281",
-          "-roadsection": "­d¶®°Ï-¦¨¥\¤G¸ô»PªL´Ë¥|¸ô¥æ§Ã¸ô¤f",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.29997",
-          "-py": "22.60832"
-        },
-        {
-          "-cctvid": "64000C000282",
-          "-roadsection": "¤T¦h³Í±ÛªF¥_¨¤(ÅK¸ôªF°¼)",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32528",
-          "-py": "22.62077"
-        },
-        {
-          "-cctvid": "64000C000283",
-          "-roadsection": " Á{®ü·s¸ô®ø¨¾¶¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.27748",
-          "-py": "22.62021"
-        },
-        {
-          "-cctvid": "64000C000284",
-          "-roadsection": "¤T¦hºÖ¼wªF¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32783",
-          "-py": "22.62160"
-        },
-        {
-          "-cctvid": "64000C000285",
-          "-roadsection": "¤T¦hªe¥_ªF¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.33144",
-          "-py": "22.62284"
-        },
-        {
-          "-cctvid": "64000C000286",
-          "-roadsection": "¤T¦hªe«n¦è«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.33114",
-          "-py": "22.62273"
-        },
-        {
-          "-cctvid": "64000C000287",
-          "-roadsection": "¤T¦h»²¤¯ªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.33342",
-          "-py": "22.62352"
-        },
-        {
-          "-cctvid": "64000C000288",
-          "-roadsection": "¤G¸t³Í±Û¦è¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32670",
-          "-py": "22.61190"
-        },
-        {
-          "-cctvid": "64000C000289",
-          "-roadsection": "¤G¸t³Í±ÛªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32673",
-          "-py": "22.61171"
-        },
-        {
-          "-cctvid": "64000C000290",
-          "-roadsection": "­^²»³Í±Û¦è«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32653",
-          "-py": "22.61713"
-        },
-        {
-          "-cctvid": "64000C000291",
-          "-roadsection": "­^²»³Í±ÛªF¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32664",
-          "-py": "22.61717"
-        },
-        {
-          "-cctvid": "64000C000292",
-          "-roadsection": "½å©ú³Í±ÛªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32544",
-          "-py": "22.60897"
-        },
-        {
-          "-cctvid": "64000C000293",
-          "-roadsection": "¨|¼Ö³Í±ÛªF«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32491",
-          "-py": "22.60665"
-        },
-        {
-          "-cctvid": "64000C000294",
-          "-roadsection": "¤@¤ß³Í±Û¦è«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32455",
-          "-py": "22.60511"
-        },
-        {
-          "-cctvid": "64000C000295",
-          "-roadsection": "¤@¤ß©M¥­¦è«n¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32061",
-          "-py": "22.60686"
-        },
-        {
-          "-cctvid": "64000C000296",
-          "-roadsection": "¤@¤ß©M¥­ªF¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32086",
-          "-py": "22.60683"
-        },
-        {
-          "-cctvid": "64000C000297",
-          "-roadsection": "¤@¤ß³Í±Û¦è¥_¨¤",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32461",
-          "-py": "22.60523"
-        },
-        {
-          "-cctvid": "64000C000298",
-          "-roadsection": "³Í±Û¥|¸ô/¯Z¶W¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32425",
-          "-py": "22.60331"
-        },
-        {
-          "-cctvid": "64000C000299",
-          "-roadsection": "³Í±Û¥|¸ô/Âí¿³¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.31126",
-          "-py": "22.59343"
-        },
-        {
-          "-cctvid": "64000C000300",
-          "-roadsection": "ºX¬z´ç½ü¯¸2",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.26962",
-          "-py": "22.61405"
-        },
-        {
-          "-cctvid": "64000C000301",
-          "-roadsection": "ÂÂ³Í±Û¥|¸ô»P¯Z¶W¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.32377",
-          "-py": "22.60362"
-        },
-        {
-          "-cctvid": "64000C000302",
-          "-roadsection": "³Í±Û¥|¸ô»P«eÂíµó",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30803",
-          "-py": "22.59259"
-        },
-        {
-          "-cctvid": "64000C000303",
-          "-roadsection": "¦¨¥\¤G¸ô»P³Í±Û¥|¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30566",
-          "-py": "22.59341"
-        },
-        {
-          "-cctvid": "64000C000304",
-          "-roadsection": "¦¨¥\¤G¸ô»P¥¿¶Ô¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30241",
-          "-py": "22.60179"
-        },
-        {
-          "-cctvid": "64000C000305",
-          "-roadsection": "¤¤µØ¤­¸ô»P´_¿³¤T¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30483",
-          "-py": "22.60647"
-        },
-        {
-          "-cctvid": "64000C000306",
-          "-roadsection": "®üÃä¸ô»P¥Ã¥­¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.29202",
-          "-py": "22.61264"
-        },
-        {
-          "-cctvid": "64000C000307",
-          "-roadsection": "®üÃä¸ô»P·s¥Ğ¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.29327",
-          "-py": "22.61886"
-        },
-        {
-          "-cctvid": "64000C000308",
-          "-roadsection": "¤C½å¤T¸ô»P½´µÜ¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.27913",
-          "-py": "22.62093"
-        },
-        {
-          "-cctvid": "64000C000309",
-          "-roadsection": "Á{®ü·s¸ô»P½´µÜ¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.27871",
-          "-py": "22.61963"
-        },
-        {
-          "-cctvid": "64000C700001",
-          "-roadsection": "¥x 3(«n¼d«Ñ/¥~Àô¹D¸ô¨ì²M¿³µó/ºX«Ì¤G¸ô)",
-          "-locationpath": "4997",
-          "-startlocationpoint": "9254",
-          "-endlocationpoint": "9255",
-          "-px": "120.49487",
-          "-py": "22.86939"
-        },
-        {
-          "-cctvid": "64000C700002",
-          "-roadsection": "¥x 28(¾ğ¤H¾î¸ô/©µ¥­¤T¸ô¨ì¥x 28/¥x 3)",
-          "-locationpath": "4911",
-          "-startlocationpoint": "9166",
-          "-endlocationpoint": "4914",
-          "-px": "120.49541",
-          "-py": "22.88302"
-        },
-        {
-          "-cctvid": "64000C700003",
-          "-roadsection": "¥x 28(©µ¥­¤G¸ô/¦Ë¼d«Ñ¨ì¤¤¾Ç¸ô/¤¤µØ¸ô)",
-          "-locationpath": "4911",
-          "-startlocationpoint": "9167",
-          "-endlocationpoint": "9168",
-          "-px": "120.48485",
-          "-py": "22.88215"
-        },
-        {
-          "-cctvid": "64000C700004",
-          "-roadsection": "¥x 3(²M¿³µó/ºX«Ì¤G¸ô¨ìºX«Ì¤G¸ô/¤j¨½µó)",
-          "-locationpath": "4997",
-          "-startlocationpoint": "9255",
-          "-endlocationpoint": "9257",
-          "-px": "120.50472",
-          "-py": "22.85808"
-        },
-        {
-          "-cctvid": "64000C700005",
-          "-roadsection": "¥x 21(¥x 21/¥x 28¨ìºX«n¤@¸ô/¤¤¬w¸ô)",
-          "-locationpath": "4775",
-          "-startlocationpoint": "4787",
-          "-endlocationpoint": "9124",
-          "-px": "120.47414",
-          "-py": "22.87276"
-        },
-        {
-          "-cctvid": "64000C700006",
-          "-roadsection": "¥x 3(¥x 3/¥x 28¨ì¤¤µØ¸ô/¥~Àô¹D¸ô)",
-          "-locationpath": "4997",
-          "-startlocationpoint": "5098",
-          "-endlocationpoint": "9253",
-          "-px": "120.48309",
-          "-py": "22.87922"
-        },
-        {
-          "-cctvid": "64000C700007",
-          "-roadsection": "¥x 28(¤¤¿³¸ô¤G¬q/°ª97¨ì©µ¥­¤G¸ô/¦Ë¼d«Ñ)",
-          "-locationpath": "4911",
-          "-startlocationpoint": "9165",
-          "-endlocationpoint": "9167",
-          "-px": "120.49646",
-          "-py": "22.88308"
-        },
-        {
-          "-cctvid": "64000C700008",
-          "-roadsection": "¥x 3(¥Ã¦wµó/©µ¥­¤@¸ô¨ì¥x 3/¥x 28)",
-          "-locationpath": "4997",
-          "-startlocationpoint": "9250",
-          "-endlocationpoint": "5098",
-          "-px": "120.48307",
-          "-py": "22.88356"
-        },
-        {
-          "-cctvid": "64000C700009",
-          "-roadsection": "¥x 21(°ª«Ì103/ºX«n¤T¸ô¨ìÀ»¤Ñ¯«¸ô/¤¤¥¿¸ô)",
-          "-locationpath": "4775",
-          "-startlocationpoint": "9129",
-          "-endlocationpoint": "9130",
-          "-px": "120.45897",
-          "-py": "22.79939"
-        },
-        {
-          "-cctvid": "64000C700010",
-          "-roadsection": "¥x 21(ºX«n¤T¸ô/©M«Ñ|¨ì°ª«Ì103/ºX«n¤T¸ô)",
-          "-locationpath": "4775",
-          "-startlocationpoint": "9128",
-          "-endlocationpoint": "9129",
-          "-px": "120.44933",
-          "-py": "22.77177"
-        },
-        {
-          "-cctvid": "64000C700011",
-          "-roadsection": "¥x 22(¿¤186/¤¤¥¿¸ô¨ì¿P±_¥æ¬y¹D)",
-          "-locationpath": "4797",
-          "-startlocationpoint": "9262",
-          "-endlocationpoint": "4802",
-          "-px": "120.36780",
-          "-py": "22.76075"
-        },
-        {
-          "-cctvid": "64000C700012",
-          "-roadsection": "¤¤¤s¸ô/©M¥­¤@¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.36045",
-          "-py": "22.73031"
-        },
-        {
-          "-cctvid": "64000C700013",
-          "-roadsection": "¿¤ 186(¤å¤Æ«Ñ/¤¤¥¿¸ô¨ì¤¯ªL¸ô/¤¯¤ß¸ô)",
-          "-locationpath": "9330",
-          "-startlocationpoint": "9361",
-          "-endlocationpoint": "9363",
-          "-px": "120.36012",
-          "-py": "22.70320"
-        },
-        {
-          "-cctvid": "64000C700014",
-          "-roadsection": "¿¤ 186(¤å¤Æ«Ñ/¤¤¥¿¸ô¨ì¤¯ªL¸ô/¤¯¤ß¸ô)",
-          "-locationpath": "9330",
-          "-startlocationpoint": "9361",
-          "-endlocationpoint": "9363",
-          "-px": "120.35957",
-          "-py": "22.70367"
-        },
-        {
-          "-cctvid": "64000C700015",
-          "-roadsection": "°ªÅK¸ô/­««H¸ô",
-          "-locationpath": "-99",
-          "-startlocationpoint": "-99",
-          "-endlocationpoint": "-99",
-          "-px": "120.30807",
-          "-py": "22.68652"
-        },
-        {
-          "-cctvid": "64000C700016",
-          "-roadsection": "¥x 21(À»¤Ñ¯«¸ô/¤¤¥¿¸ô¨ì¤j§|¸ô/·Ë®H¸ô)",
-          "-locationpath": "4775",
-          "-startlocationpoint": "9130",
-          "-endlocationpoint": "9132",
-          "-px": "120.44747",
-          "-py": "22.74480"
-        },
-        {
-          "-cctvid": "64000C700017",
-          "-roadsection": "¥x 21(¥x 21/¥x 22¨ì¿³¥Ğ¸ô/·Ë®H¸ô)",
-          "-locationpath": "4775",
-          "-startlocationpoint": "4788",
-          "-endlocationpoint": "9131",
-          "-px": "120.44818",
-          "-py": "22.75462"
-        },
-        {
-          "-cctvid": "64000C700018",
-          "-roadsection": "¥x 28(¤¤¿³¸ô¤@¬q/°ª101¨ì¤¤¿³¸ô¤G¬q/°ª97)",
-          "-locationpath": "4911",
-          "-startlocationpoint": "9163",
-          "-endlocationpoint": "9165",
-          "-px": "120.53431",
-          "-py": "22.88604"
+          "cctvid": "64000C000001",
+          "roadsection": "å¤§ä¸­è·¯(é«˜é›„)(å¤§ä¸­äºŒè·¯/è¯å¤è·¯åˆ°å¤§ä¸­äºŒè·¯/ç¿ è¯è·¯)",
+          "locationpath": "2084",
+          "startlocationpoint": "2091",
+          "endlocationpoint": "2093",
+          "px": "120.30497",
+          "py": "22.68577"
+        },
+        {
+          "cctvid": "64000C000002",
+          "roadsection": "ä¸­è¯è·¯(ä¸­è¯äºŒè·¯/åŒç›ŸäºŒè·¯åˆ°ä¸­è¯ä¸‰è·¯/å»ºåœ‹ä¸‰è·¯)",
+          "locationpath": "2132",
+          "startlocationpoint": "2137",
+          "endlocationpoint": "2139",
+          "px": "120.29132",
+          "py": "22.64191"
+        },
+        {
+          "cctvid": "64000C000003",
+          "roadsection": "ä¸­è¯è·¯(ä¸­è¯äºŒè·¯/åŒç›ŸäºŒè·¯åˆ°ä¸­è¯ä¸‰è·¯/å»ºåœ‹ä¸‰è·¯)",
+          "locationpath": "2132",
+          "startlocationpoint": "2137",
+          "endlocationpoint": "2139",
+          "px": "120.29183",
+          "py": "22.64189"
+        },
+        {
+          "cctvid": "64000C000004",
+          "roadsection": "ä¸­è¯è·¯(ä¸­è¯äºŒè·¯/ä¹å¦‚äºŒè·¯åˆ°ä¸­è¯ä¸‰è·¯/å…«å¾·äºŒè·¯)",
+          "locationpath": "2132",
+          "startlocationpoint": "2138",
+          "endlocationpoint": "2140",
+          "px": "120.29296",
+          "py": "22.63687"
+        },
+        {
+          "cctvid": "64000C000005",
+          "roadsection": "ä¸­è¯è·¯(ä¸­è¯ä¸‰è·¯/å…«å¾·äºŒè·¯åˆ°ä¸­è¯ä¸‰è·¯/å…­åˆäºŒè·¯)",
+          "locationpath": "2132",
+          "startlocationpoint": "2140",
+          "endlocationpoint": "2142",
+          "px": "120.29457",
+          "py": "22.63275"
+        },
+        {
+          "cctvid": "64000C000006",
+          "roadsection": "ä¸­è¯è·¯(ä¸­è¯ä¸‰è·¯/æ°‘ç”ŸäºŒè·¯åˆ°ä¸­è¯å››è·¯/æ–°ç”°è·¯)",
+          "locationpath": "2132",
+          "startlocationpoint": "2144",
+          "endlocationpoint": "2146",
+          "px": "120.29905",
+          "py": "22.62101"
+        },
+        {
+          "cctvid": "64000C000007",
+          "roadsection": "ä¹å¦‚è·¯(ä¹å¦‚ä¸€è·¯/æ°´æºè·¯åˆ°ä¹å¦‚ä¸€è·¯/æ¾„æ¸…è·¯)",
+          "locationpath": "2203",
+          "startlocationpoint": "2220",
+          "endlocationpoint": "2221",
+          "px": "120.34445",
+          "py": "22.63626"
+        },
+        {
+          "cctvid": "64000C000008",
+          "roadsection": "ä¸­è¯è·¯(ä¸­è¯ä¸€è·¯/æ˜èª ä¸‰è·¯åˆ°ä¸­è¯äºŒè·¯/åŒç›ŸäºŒè·¯)",
+          "locationpath": "2132",
+          "startlocationpoint": "2135",
+          "endlocationpoint": "2137",
+          "px": "120.29219",
+          "py": "22.65310"
+        },
+        {
+          "cctvid": "64000C000009",
+          "roadsection": "æ¥ é™½/é³³æ¥ è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.33031",
+          "py": "22.72414"
+        },
+        {
+          "cctvid": "64000C000010",
+          "roadsection": "åšæ„›è·¯(åšæ„›å››è·¯/é‡æ„›è·¯åˆ°åšæ„›ä¸‰è·¯/æ›¾å­è·¯)",
+          "locationpath": "1993",
+          "startlocationpoint": "1996",
+          "endlocationpoint": "1998",
+          "px": "120.31049",
+          "py": "22.68129"
+        },
+        {
+          "cctvid": "64000C000011",
+          "roadsection": "ä¸­æ­£è·¯(ä¸­æ­£ä¸€è·¯/ç¦å¾·ä¸‰è·¯åˆ°ä¸­æ­£è·¯/ä¸‰å¤šä¸€è·¯)",
+          "locationpath": "2271",
+          "startlocationpoint": "2285",
+          "endlocationpoint": "2287",
+          "px": "120.33580",
+          "py": "22.62693"
+        },
+        {
+          "cctvid": "64000C000012",
+          "roadsection": "ä¸­æ­£è·¯(ä¸­æ­£ä¸€è·¯/ç¦å¾·ä¸‰è·¯åˆ°ä¸­æ­£è·¯/ä¸‰å¤šä¸€è·¯)",
+          "locationpath": "2271",
+          "startlocationpoint": "2285",
+          "endlocationpoint": "2287",
+          "px": "120.33662",
+          "py": "22.62668"
+        },
+        {
+          "cctvid": "64000C000013",
+          "roadsection": "æ°‘æ—è·¯(é«˜é›„)(æ°‘æ—ä¸€è·¯(é«˜é›„)/è¯å¤è·¯åˆ°æ°‘æ—ä¸€è·¯(é«˜é›„)/é‡æ„›è·¯)",
+          "locationpath": "2053",
+          "startlocationpoint": "2054",
+          "endlocationpoint": "2055",
+          "px": "120.32091",
+          "py": "22.68789"
+        },
+        {
+          "cctvid": "64000C000014",
+          "roadsection": "æ°‘æ—è·¯(é«˜é›„)(æ˜èª ä¸€è·¯(é«˜é›„)/æ°‘æ—ä¸€è·¯åˆ°æ°‘æ—ä¸€è·¯(é«˜é›„)/åŒç›Ÿä¸€è·¯)",
+          "locationpath": "2053",
+          "startlocationpoint": "2059",
+          "endlocationpoint": "2061",
+          "px": "120.31554",
+          "py": "22.65543"
+        },
+        {
+          "cctvid": "64000C000015",
+          "roadsection": "æ°‘æ—è·¯(é«˜é›„)(æ°‘æ—ä¸€è·¯(é«˜é›„)/å¤§é †ä¸€è·¯åˆ°æ°‘æ—ä¸€è·¯(é«˜é›„)/åå…¨ä¸€è·¯)",
+          "locationpath": "2053",
+          "startlocationpoint": "2060",
+          "endlocationpoint": "2062",
+          "px": "120.31482",
+          "py": "22.64767"
+        },
+        {
+          "cctvid": "64000C000016",
+          "roadsection": "æ°‘æ—è·¯(é«˜é›„)(æ°‘æ—ä¸€è·¯(é«˜é›„)/å¤§é †ä¸€è·¯åˆ°æ°‘æ—ä¸€è·¯(é«˜é›„)/åå…¨ä¸€è·¯)",
+          "locationpath": "2053",
+          "startlocationpoint": "2060",
+          "endlocationpoint": "2062",
+          "px": "120.31474",
+          "py": "22.64735"
+        },
+        {
+          "cctvid": "64000C000017",
+          "roadsection": "æ°‘æ—è·¯(é«˜é›„)(æ°‘æ—ä¸€è·¯(é«˜é›„)/ä¹å¦‚äºŒè·¯åˆ°æ°‘æ—äºŒè·¯(é«˜é›„)/å…«å¾·ä¸€è·¯)",
+          "locationpath": "2053",
+          "startlocationpoint": "2063",
+          "endlocationpoint": "2065",
+          "px": "120.31374",
+          "py": "22.63649"
+        },
+        {
+          "cctvid": "64000C000018",
+          "roadsection": "æ°‘æ—è·¯(é«˜é›„)(æ°‘æ—äºŒè·¯(é«˜é›„)/å»ºåœ‹ä¸€è·¯åˆ°æ°‘æ—äºŒè·¯(é«˜é›„)/ä¸ƒè³¢ä¸€è·¯)",
+          "locationpath": "2053",
+          "startlocationpoint": "2064",
+          "endlocationpoint": "2066",
+          "px": "120.31368",
+          "py": "22.63528"
+        },
+        {
+          "cctvid": "64000C000019",
+          "roadsection": "äº”ç¦è·¯(äº”ç¦äºŒè·¯/æ°‘æ¬Šä¸€è·¯åˆ°äº”ç¦ä¸€è·¯/å’Œå¹³ä¸€è·¯)",
+          "locationpath": "2401",
+          "startlocationpoint": "2415",
+          "endlocationpoint": "2417",
+          "px": "120.31423",
+          "py": "22.62754"
+        },
+        {
+          "cctvid": "64000C000020",
+          "roadsection": "äº”ç¦è·¯(äº”ç¦å››è·¯/æ²³è¥¿è·¯åˆ°äº”ç¦ä¸‰è·¯/æˆåŠŸä¸€è·¯)",
+          "locationpath": "2401",
+          "startlocationpoint": "2407",
+          "endlocationpoint": "2409",
+          "px": "120.29095",
+          "py": "22.62069"
+        },
+        {
+          "cctvid": "64000C000021",
+          "roadsection": "ä¸­å±±è·¯(é«˜é›„)(ä¸­å±±å››è·¯/é‡‘ç¦è·¯åˆ°ä¸­å±±å››è·¯/å¤§æ¥­åŒ—è·¯)",
+          "locationpath": "2013",
+          "startlocationpoint": "2031",
+          "endlocationpoint": "2033",
+          "px": "120.33828",
+          "py": "22.56998"
+        },
+        {
+          "cctvid": "64000C000022",
+          "roadsection": "ä¸‰å¤šè·¯(ä¸‰å¤šä¸€è·¯/æ­¦æ…¶ä¸‰è·¯åˆ°ä¸‰å¤šä¸€è·¯/è‡ªç”±è·¯)",
+          "locationpath": "2454",
+          "startlocationpoint": "2469",
+          "endlocationpoint": "2471",
+          "px": "120.33590",
+          "py": "22.62398"
+        },
+        {
+          "cctvid": "64000C000023",
+          "roadsection": "æˆåŠŸè·¯(æˆåŠŸäºŒè·¯/å¾©èˆˆä¸‰è·¯åˆ°æˆåŠŸäºŒè·¯/æ“´å»ºè·¯)",
+          "locationpath": "2303",
+          "startlocationpoint": "2313",
+          "endlocationpoint": "2314",
+          "px": "120.30639",
+          "py": "22.59191"
+        },
+        {
+          "cctvid": "64000C000024",
+          "roadsection": "ä¸­è¯è·¯(ä¸­è¯ä¸€è·¯/å¤§é †ä¸€è·¯åˆ°ä¸­è¯äºŒè·¯/ä¹å¦‚äºŒè·¯)",
+          "locationpath": "2132",
+          "startlocationpoint": "2136",
+          "endlocationpoint": "2138",
+          "px": "120.29196",
+          "py": "22.64915"
+        },
+        {
+          "cctvid": "64000C000025",
+          "roadsection": "ä¸­è¯è·¯(ä¸­è¯ä¸‰è·¯/ä¸­æ­£å››è·¯-ä¸­è¯ä¸‰è·¯åœ“ç’°åˆ°ä¸­è¯ä¸‰è·¯/äº”ç¦ä¸‰è·¯-ä¸­è¯å››è·¯-ä¸­è¯ä¸‰è·¯åœ“ç’°)",
+          "locationpath": "2132",
+          "startlocationpoint": "2143",
+          "endlocationpoint": "2145",
+          "px": "120.29713",
+          "py": "22.62598"
+        },
+        {
+          "cctvid": "64000C000026",
+          "roadsection": "ä¸­è¯è·¯(ä¸­è¯ä¸‰è·¯/ä¸­æ­£å››è·¯-ä¸­è¯ä¸‰è·¯åœ“ç’°åˆ°ä¸­è¯ä¸‰è·¯/äº”ç¦ä¸‰è·¯-ä¸­è¯å››è·¯-ä¸­è¯ä¸‰è·¯åœ“ç’°)",
+          "locationpath": "2132",
+          "startlocationpoint": "2143",
+          "endlocationpoint": "2145",
+          "px": "120.29739",
+          "py": "22.62578"
+        },
+        {
+          "cctvid": "64000C000027",
+          "roadsection": "ä¸­å±±è·¯(é«˜é›„)(ä¸­å±±ä¸€è·¯/äº”ç¦ä¸‰è·¯åˆ°ä¸­å±±äºŒè·¯/é’å¹´äºŒè·¯)",
+          "locationpath": "2013",
+          "startlocationpoint": "2020",
+          "endlocationpoint": "2022",
+          "px": "120.30160",
+          "py": "22.62158"
+        },
+        {
+          "cctvid": "64000C000028",
+          "roadsection": "ä¸­è¯è·¯(ä¸­è¯å››è·¯/å››ç¶­å››è·¯åˆ°ä¸­è¯äº”è·¯/å¾©èˆˆä¸‰è·¯)",
+          "locationpath": "2132",
+          "startlocationpoint": "2148",
+          "endlocationpoint": "2150",
+          "px": "120.30213",
+          "py": "22.61325"
+        },
+        {
+          "cctvid": "64000C000029",
+          "roadsection": "æ——æ´¥è·¯(æ——æ´¥ä¸‰è·¯/ç™¼ç¥¥è¡—åˆ°æ——æ´¥ä¸‰è·¯/å¾©èˆˆä¸‰å··)",
+          "locationpath": "2524",
+          "startlocationpoint": "2530",
+          "endlocationpoint": "2529",
+          "px": "120.26900",
+          "py": "22.60913"
+        },
+        {
+          "cctvid": "64000C000030",
+          "roadsection": "æ——æ´¥è·¯(æ——æ´¥ä¸‰è·¯/ç™¼ç¥¥è¡—åˆ°æ——æ´¥ä¸‰è·¯/å¾©èˆˆä¸‰å··)",
+          "locationpath": "2524",
+          "startlocationpoint": "2530",
+          "endlocationpoint": "2529",
+          "px": "120.27720",
+          "py": "22.59925"
+        },
+        {
+          "cctvid": "64000C000031",
+          "roadsection": "æ——æ´¥è·¯(æ——æ´¥ä¸‰è·¯/ç™¼ç¥¥è¡—åˆ°æ——æ´¥ä¸‰è·¯/å¾©èˆˆä¸‰å··)",
+          "locationpath": "2524",
+          "startlocationpoint": "2530",
+          "endlocationpoint": "2529",
+          "px": "120.27535",
+          "py": "22.60149"
+        },
+        {
+          "cctvid": "64000C000032",
+          "roadsection": "æ——æ´¥è·¯(æ——æ´¥ä¸‰è·¯/æ——æ´¥äºŒè·¯åˆ°æ——æ´¥äºŒè·¯/æ•¦å’Œè¡—)",
+          "locationpath": "2524",
+          "startlocationpoint": "2528",
+          "endlocationpoint": "2527",
+          "px": "120.28484",
+          "py": "22.58963"
+        },
+        {
+          "cctvid": "64000C000033",
+          "roadsection": "å¤§ä¸­è·¯(é«˜é›„)(å¤§ä¸­ä¸€è·¯/é¼ä¸­è·¯åˆ°å¤§ä¸­äºŒè·¯/è‡ªç”±å››è·¯)",
+          "locationpath": "2084",
+          "startlocationpoint": "2086",
+          "endlocationpoint": "2088",
+          "px": "120.31905",
+          "py": "22.67892"
+        },
+        {
+          "cctvid": "64000C000034",
+          "roadsection": "å¤§ä¸­è·¯(é«˜é›„)(å¤§ä¸­äºŒè·¯/è¯å¤è·¯åˆ°å¤§ä¸­äºŒè·¯/ç¿ è¯è·¯)",
+          "locationpath": "2084",
+          "startlocationpoint": "2091",
+          "endlocationpoint": "2093",
+          "px": "120.30704",
+          "py": "22.68403"
+        },
+        {
+          "cctvid": "64000C000035",
+          "roadsection": "å° 17(ç¿ è¯è·¯/èœå…¬è·¯åˆ°ç¿ è¯è·¯/æ–°èŠä»”è·¯)",
+          "locationpath": "4432",
+          "startlocationpoint": "4472",
+          "endlocationpoint": "4474",
+          "px": "120.29771",
+          "py": "22.67865"
+        },
+        {
+          "cctvid": "64000C000036",
+          "roadsection": "ä¸­è¯è·¯(ä¸­è¯äº”è·¯/å¾©èˆˆä¸‰è·¯åˆ°ä¸­è¯äº”è·¯/å‡±æ—‹å››è·¯)",
+          "locationpath": "2132",
+          "startlocationpoint": "2150",
+          "endlocationpoint": "2151",
+          "px": "120.30979",
+          "py": "22.59366"
+        },
+        {
+          "cctvid": "64000C000037",
+          "roadsection": "ä¸­è¯è·¯(ä¸­è¯å››è·¯/é’å¹´äºŒè·¯åˆ°ä¸­è¯å››è·¯/ä¸‰å¤šå››è·¯)",
+          "locationpath": "2132",
+          "startlocationpoint": "2147",
+          "endlocationpoint": "2149",
+          "px": "120.30098",
+          "py": "22.61623"
+        },
+        {
+          "cctvid": "64000C000038",
+          "roadsection": "å¤§ä¸­è·¯(é«˜é›„)(å¤§ä¸­ä¸€è·¯/é¼ä¸­è·¯åˆ°å¤§ä¸­äºŒè·¯/æ°‘æ—ä¸€è·¯)",
+          "locationpath": "2084",
+          "startlocationpoint": "2086",
+          "endlocationpoint": "2087",
+          "px": "120.32181",
+          "py": "22.67751"
+        },
+        {
+          "cctvid": "64000C000039",
+          "roadsection": "æ°‘æ—è·¯(é«˜é›„)(æ°‘æ—ä¸€è·¯(é«˜é›„)/è£•èª è·¯åˆ°æ°‘æ—ä¸€è·¯(é«˜é›„)/å¤§é †ä¸€è·¯)",
+          "locationpath": "2053",
+          "startlocationpoint": "2058",
+          "endlocationpoint": "2060",
+          "px": "120.31557",
+          "py": "22.65972"
+        },
+        {
+          "cctvid": "64000C000040",
+          "roadsection": "ä¸­å±±è·¯(é«˜é›„)(ä¸­å±±å››è·¯/å¹³å’Œæ±è·¯åˆ°ä¸­å±±å››è·¯/å¤§æ¥­åŒ—è·¯)",
+          "locationpath": "2013",
+          "startlocationpoint": "2032",
+          "endlocationpoint": "2033",
+          "px": "120.34947",
+          "py": "22.56935"
+        },
+        {
+          "cctvid": "64000C000041",
+          "roadsection": "æ–°ç”Ÿè·¯(æ–°ç”Ÿè·¯/æ–°è¡™è·¯åˆ°æ–°ç”Ÿè·¯/ä¸­èˆˆè·¯)",
+          "locationpath": "2514",
+          "startlocationpoint": "2517",
+          "endlocationpoint": "2532",
+          "px": "120.31580",
+          "py": "22.57671"
+        },
+        {
+          "cctvid": "64000C000042",
+          "roadsection": "å‡±æ—‹è·¯(å‡±æ—‹ä¸‰è·¯/äºŒè–ä¸€è·¯åˆ°å‡±æ—‹å››è·¯/ä¸­å±±ä¸‰è·¯)",
+          "locationpath": "2366",
+          "startlocationpoint": "2374",
+          "endlocationpoint": "2376",
+          "px": "120.32462",
+          "py": "22.60513"
+        },
+        {
+          "cctvid": "64000C000043",
+          "roadsection": "æ°‘æ—è·¯(é«˜é›„)(æ°‘æ—ä¸€è·¯(é«˜é›„)/åå…¨ä¸€è·¯åˆ°æ°‘æ—äºŒè·¯(é«˜é›„)/å»ºåœ‹ä¸€è·¯)",
+          "locationpath": "2053",
+          "startlocationpoint": "2062",
+          "endlocationpoint": "2064",
+          "px": "120.31427",
+          "py": "22.64044"
+        },
+        {
+          "cctvid": "64000C000044",
+          "roadsection": "å° 17(ä¸­è¯ä¸€è·¯/æ…¶è±è¡—åˆ°ä¸­è¯ä¸€è·¯/å¤§é †ä¸€è·¯)",
+          "locationpath": "4432",
+          "startlocationpoint": "4477",
+          "endlocationpoint": "4479",
+          "px": "120.29225",
+          "py": "22.66121"
+        },
+        {
+          "cctvid": "64000C000045",
+          "roadsection": "å° 17(ç¿ è¯è·¯/èœå…¬è·¯åˆ°ç¿ è¯è·¯/æ–°èŠä»”è·¯)",
+          "locationpath": "4432",
+          "startlocationpoint": "4472",
+          "endlocationpoint": "4474",
+          "px": "120.30290",
+          "py": "22.68569"
+        },
+        {
+          "cctvid": "64000C000046",
+          "roadsection": "ä¹å¦‚è·¯(ä¹å¦‚ä¸€è·¯/å ¯å±±è¡—åˆ°é«˜é›„äº¤æµé“(ä¹å¦‚ä¸€è·¯))",
+          "locationpath": "2203",
+          "startlocationpoint": "2215",
+          "endlocationpoint": "2219",
+          "px": "120.32793",
+          "py": "22.63909"
+        },
+        {
+          "cctvid": "64000C000047",
+          "roadsection": "ä¹å¦‚è·¯(ä¹å¦‚ä¸€è·¯/å¤§é †äºŒè·¯åˆ°ä¹å¦‚ä¸€è·¯/æ°´æºè·¯)",
+          "locationpath": "2203",
+          "startlocationpoint": "2216",
+          "endlocationpoint": "2220",
+          "px": "120.33673",
+          "py": "22.63753"
+        },
+        {
+          "cctvid": "64000C000048",
+          "roadsection": "ç¿ è¯è·¯(ç¿ è¯è·¯/èœå…¬è·¯åˆ°ç¿ è¯è·¯/å¤§ä¸­äºŒè·¯)",
+          "locationpath": "1954",
+          "startlocationpoint": "1957",
+          "endlocationpoint": "1958",
+          "px": "120.30283",
+          "py": "22.68886"
+        },
+        {
+          "cctvid": "64000C000049",
+          "roadsection": "å° 17(è“®æµ·è·¯/èŒ‚å¤§è¡—åˆ°æ±æ—è·¯/æ²¿æµ·ä¸‰è·¯)",
+          "locationpath": "4432",
+          "startlocationpoint": "4508",
+          "endlocationpoint": "4509",
+          "px": "120.37202",
+          "py": "22.54111"
+        },
+        {
+          "cctvid": "64000C000050",
+          "roadsection": "å° 17(è“®æµ·è·¯/æ²¿æµ·ä¸€è·¯åˆ°æ±æ—è·¯/æ²¿æµ·ä¸‰è·¯)",
+          "locationpath": "4432",
+          "startlocationpoint": "4507",
+          "endlocationpoint": "4509",
+          "px": "120.36297",
+          "py": "22.55366"
+        },
+        {
+          "cctvid": "64000C000051",
+          "roadsection": "é«˜æ¥ å…¬è·¯(é«˜æ¥ å…¬è·¯/åŠ æ˜Œè·¯åˆ°é«˜æ¥ å…¬è·¯/æ°´ç®¡è·¯)",
+          "locationpath": "1948",
+          "startlocationpoint": "1950",
+          "endlocationpoint": "1952",
+          "px": "120.32488",
+          "py": "22.72172"
+        },
+        {
+          "cctvid": "64000C000052",
+          "roadsection": "é«˜æ¥ å…¬è·¯(ç¸±è²«å…¬è·¯/é«˜æ¥ å…¬è·¯åˆ°é«˜æ¥ å…¬è·¯/æ°‘æ—ä¸€è·¯)",
+          "locationpath": "1948",
+          "startlocationpoint": "1951",
+          "endlocationpoint": "1953",
+          "px": "120.32451",
+          "py": "22.70666"
+        },
+        {
+          "cctvid": "64000C000053",
+          "roadsection": "é«˜æ¥ å…¬è·¯(é«˜æ¥ å…¬è·¯/å¾·æ°‘è·¯åˆ°ç¸±è²«å…¬è·¯/é«˜æ¥ å…¬è·¯)",
+          "locationpath": "1948",
+          "startlocationpoint": "1949",
+          "endlocationpoint": "1951",
+          "px": "120.32207",
+          "py": "22.72572"
+        },
+        {
+          "cctvid": "64000C000054",
+          "roadsection": "æ°‘æ—è·¯(é«˜é›„)(æ°‘æ—ä¸€è·¯(é«˜é›„)/å¤§ä¸­äºŒè·¯åˆ°æ°‘æ—ä¸€è·¯(é«˜é›„)/è£•èª è·¯)",
+          "locationpath": "2053",
+          "startlocationpoint": "2056",
+          "endlocationpoint": "2058",
+          "px": "120.31705",
+          "py": "22.66824"
+        },
+        {
+          "cctvid": "64000C000055",
+          "roadsection": "æ°‘æ—è·¯(é«˜é›„)(æ°‘æ—ä¸€è·¯(é«˜é›„)/ä¹å¦‚äºŒè·¯åˆ°æ°‘æ—äºŒè·¯(é«˜é›„)/å…«å¾·ä¸€è·¯)",
+          "locationpath": "2053",
+          "startlocationpoint": "2063",
+          "endlocationpoint": "2065",
+          "px": "120.30876",
+          "py": "22.64504"
+        },
+        {
+          "cctvid": "64000C000056",
+          "roadsection": "å·¦æ¥ è·¯(å·¦æ¥ è·¯/åŠ æ˜Œè·¯åˆ°å·¦æ¥ è·¯/å·¦ç‡Ÿå¤§è·¯)",
+          "locationpath": "1929",
+          "startlocationpoint": "1930",
+          "endlocationpoint": "1932",
+          "px": "120.30239",
+          "py": "22.70792"
+        },
+        {
+          "cctvid": "64000C000057",
+          "roadsection": "å·¦æ¥ è·¯(å·¦æ¥ è·¯/å¾Œæ˜Œè·¯åˆ°å·¦æ¥ è·¯/å·¦ç‡Ÿå¤§è·¯)",
+          "locationpath": "1929",
+          "startlocationpoint": "1931",
+          "endlocationpoint": "1932",
+          "px": "120.30262",
+          "py": "22.69937"
+        },
+        {
+          "cctvid": "64000C000058",
+          "roadsection": "è‡ªç”±è·¯(é«˜é›„)(è‡ªç”±å››è·¯/é‡ä¿¡è·¯åˆ°è‡ªç”±ä¸‰è·¯/æ›¾å­è·¯)",
+          "locationpath": "2040",
+          "startlocationpoint": "2043",
+          "endlocationpoint": "2045",
+          "px": "120.31370",
+          "py": "22.67928"
+        },
+        {
+          "cctvid": "64000C000059",
+          "roadsection": "è‡ªç”±è·¯(é«˜é›„)(è‡ªç”±ä¸‰è·¯/æ›¾å­è·¯åˆ°è‡ªç”±äºŒè·¯/è£•èª è·¯)",
+          "locationpath": "2040",
+          "startlocationpoint": "2045",
+          "endlocationpoint": "2047",
+          "px": "120.30973",
+          "py": "22.66871"
+        },
+        {
+          "cctvid": "64000C000060",
+          "roadsection": "è‡ªç”±è·¯(é«˜é›„)(è‡ªç”±äºŒè·¯/æ˜èª äºŒè·¯åˆ°è‡ªç”±ä¸€è·¯/åŒç›Ÿä¸€è·¯)",
+          "locationpath": "2040",
+          "startlocationpoint": "2048",
+          "endlocationpoint": "2050",
+          "px": "120.30885",
+          "py": "22.65663"
+        },
+        {
+          "cctvid": "64000C000061",
+          "roadsection": "è‡ªç”±è·¯(é«˜é›„)(è‡ªç”±äºŒè·¯/å¤§é †ä¸€è·¯åˆ°è‡ªç”±ä¸€è·¯/åå…¨ä¸€è·¯)",
+          "locationpath": "2040",
+          "startlocationpoint": "2049",
+          "endlocationpoint": "2051",
+          "px": "120.30911",
+          "py": "22.65002"
+        },
+        {
+          "cctvid": "64000C000062",
+          "roadsection": "æ°‘æ¬Šè·¯(æ°‘æ¬Šä¸€è·¯/æ°‘ç”Ÿä¸€è·¯åˆ°æ°‘æ¬Šä¸€è·¯/äº”ç¦äºŒè·¯)",
+          "locationpath": "2419",
+          "startlocationpoint": "2420",
+          "endlocationpoint": "2421",
+          "px": "120.31046",
+          "py": "22.62761"
+        },
+        {
+          "cctvid": "64000C000063",
+          "roadsection": "æ°‘æ¬Šè·¯(æ°‘æ¬Šä¸€è·¯/äº”ç¦äºŒè·¯åˆ°æ°‘æ¬Šä¸€è·¯/é’å¹´ä¸€è·¯)",
+          "locationpath": "2419",
+          "startlocationpoint": "2421",
+          "endlocationpoint": "2422",
+          "px": "120.31087",
+          "py": "22.62646"
+        },
+        {
+          "cctvid": "64000C000064",
+          "roadsection": "æ°‘æ¬Šè·¯(æ°‘æ¬Šä¸€è·¯/å››ç¶­ä¸‰è·¯åˆ°æ°‘æ¬ŠäºŒè·¯/äºŒè–äºŒè·¯)",
+          "locationpath": "2419",
+          "startlocationpoint": "2423",
+          "endlocationpoint": "2425",
+          "px": "120.31433",
+          "py": "22.61730"
+        },
+        {
+          "cctvid": "64000C000065",
+          "roadsection": "æ°‘æ¬Šè·¯(æ°‘æ¬ŠäºŒè·¯/äºŒè–äºŒè·¯åˆ°æ°‘æ¬ŠäºŒè·¯/ä¸­å±±ä¸‰è·¯)",
+          "locationpath": "2419",
+          "startlocationpoint": "2425",
+          "endlocationpoint": "2427",
+          "px": "120.31325",
+          "py": "22.61014"
+        },
+        {
+          "cctvid": "64000C000066",
+          "roadsection": "æˆåŠŸè·¯(æˆåŠŸä¸€è·¯/å››ç¶­å››è·¯åˆ°æˆåŠŸäºŒè·¯/å¾©èˆˆä¸‰è·¯)",
+          "locationpath": "2303",
+          "startlocationpoint": "2311",
+          "endlocationpoint": "2313",
+          "px": "120.31436",
+          "py": "22.64443"
+        },
+        {
+          "cctvid": "64000C000067",
+          "roadsection": "ä¸€å¿ƒè·¯(ä¸€å¿ƒä¸€è·¯/æ°‘æ¬ŠäºŒè·¯åˆ°ä¸€å¿ƒä¸€è·¯/å’Œå¹³äºŒè·¯)",
+          "locationpath": "2486",
+          "startlocationpoint": "2490",
+          "endlocationpoint": "2492",
+          "px": "120.31667",
+          "py": "22.60870"
+        },
+        {
+          "cctvid": "64000C000068",
+          "roadsection": "å° 17(æ¼¢æ°‘è·¯/æ²¿æµ·ä¸€è·¯åˆ°è“®æµ·è·¯/æ²¿æµ·ä¸€è·¯)",
+          "locationpath": "4432",
+          "startlocationpoint": "4506",
+          "endlocationpoint": "4507",
+          "px": "120.35241",
+          "py": "22.56645"
+        },
+        {
+          "cctvid": "64000C000069",
+          "roadsection": "æ–°ç”Ÿè·¯(æ–°ç”Ÿè·¯/æ¼æ¸¯è·¯åˆ°æ–°ç”Ÿè·¯/ä¸­èˆˆè·¯)",
+          "locationpath": "2514",
+          "startlocationpoint": "2518",
+          "endlocationpoint": "2532",
+          "px": "120.32006",
+          "py": "22.57175"
+        },
+        {
+          "cctvid": "64000C000070",
+          "roadsection": "å¤§é †è·¯(å¤§é †äºŒè·¯/é¼å±±è¡—åˆ°å¤§é †äºŒè·¯/å»ºå¾·è·¯)",
+          "locationpath": "2153",
+          "startlocationpoint": "2158",
+          "endlocationpoint": "2160",
+          "px": "120.32419",
+          "py": "22.64982"
+        },
+        {
+          "cctvid": "64000C000071",
+          "roadsection": "å¤§é †è·¯(å¤§é †äºŒè·¯/ä¹å¦‚ä¸€è·¯åˆ°å¤§é †ä¸‰è·¯/æ²³åŒ—è·¯)",
+          "locationpath": "2153",
+          "startlocationpoint": "2161",
+          "endlocationpoint": "2163",
+          "px": "120.30318",
+          "py": "22.67037"
+        },
+        {
+          "cctvid": "64000C000072",
+          "roadsection": "ä¸‰å¤šè·¯(ä¸‰å¤šä¸€è·¯/æ­¦æ…¶ä¸‰è·¯åˆ°ä¸‰å¤šä¸€è·¯/è‡ªç”±è·¯)",
+          "locationpath": "2454",
+          "startlocationpoint": "2469",
+          "endlocationpoint": "2471",
+          "px": "120.33676",
+          "py": "22.62401"
+        },
+        {
+          "cctvid": "64000C000073",
+          "roadsection": "æ–°ç”Ÿè·¯(æ–°ç”Ÿè·¯/å‡±æ—‹è·¯åˆ°æ–°ç”Ÿè·¯/é®æ¸¯è·¯)",
+          "locationpath": "2514",
+          "startlocationpoint": "2515",
+          "endlocationpoint": "2516",
+          "px": "120.30371",
+          "py": "22.59090"
+        },
+        {
+          "cctvid": "64000C000074",
+          "roadsection": "æ–°ç”Ÿè·¯(æ–°ç”Ÿè·¯/ä¸­èˆˆè·¯åˆ°æ–°ç”Ÿè·¯/é‡‘ç¦è·¯)",
+          "locationpath": "2514",
+          "startlocationpoint": "2532",
+          "endlocationpoint": "2519",
+          "px": "120.32347",
+          "py": "22.56782"
+        },
+        {
+          "cctvid": "64000C000075",
+          "roadsection": "å»ºåœ‹è·¯(å»ºåœ‹å››è·¯/æ–°èˆˆè¡—åˆ°å»ºåœ‹ä¸‰è·¯/åŒ—ç‘è¡—)",
+          "locationpath": "2224",
+          "startlocationpoint": "2388",
+          "endlocationpoint": "2227",
+          "px": "120.28412",
+          "py": "22.63395"
+        },
+        {
+          "cctvid": "64000C000076",
+          "roadsection": "é«˜é³³è·¯/é«˜æ¾è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.37106",
+          "py": "22.57275"
+        },
+        {
+          "cctvid": "64000C000077",
+          "roadsection": "åšæ„›è·¯(åšæ„›äºŒè·¯/æ˜èª äºŒè·¯åˆ°åšæ„›ä¸€è·¯/åŒç›Ÿä¸€è·¯)",
+          "locationpath": "1993",
+          "startlocationpoint": "2003",
+          "endlocationpoint": "2005",
+          "px": "120.30329",
+          "py": "22.65620"
+        },
+        {
+          "cctvid": "64000C000078",
+          "roadsection": "å° 17(æ¼¢æ°‘è·¯/æ²¿æµ·ä¸€è·¯åˆ°è“®æµ·è·¯/èŒ‚å¤§è¡—)",
+          "locationpath": "4432",
+          "startlocationpoint": "4506",
+          "endlocationpoint": "4508",
+          "px": "120.35723",
+          "py": "22.56074"
+        },
+        {
+          "cctvid": "64000C000079",
+          "roadsection": "å»ºåœ‹è·¯(å»ºåœ‹ä¸‰è·¯/ä¸­è¯ä¸‰è·¯åˆ°å»ºåœ‹äºŒè·¯)",
+          "locationpath": "2224",
+          "startlocationpoint": "2230",
+          "endlocationpoint": "2232",
+          "px": "120.29647",
+          "py": "22.63792"
+        },
+        {
+          "cctvid": "64000C000080",
+          "roadsection": "ä¸‰å¤šè·¯(ä¸‰å¤šäºŒè·¯/å’Œå¹³ä¸€è·¯åˆ°ä¸‰å¤šäºŒè·¯/ç¦å¾·ä¸‰è·¯)",
+          "locationpath": "2454",
+          "startlocationpoint": "2466",
+          "endlocationpoint": "2468",
+          "px": "120.32526",
+          "py": "22.62072"
+        },
+        {
+          "cctvid": "64000C000081",
+          "roadsection": "ä¸­å±±è·¯(é«˜é›„)(ä¸­å±±ä¸‰è·¯/å¾©èˆˆä¸‰è·¯åˆ°ä¸­å±±ä¸‰è·¯/å…‰è¯ä¸‰è·¯)",
+          "locationpath": "2013",
+          "startlocationpoint": "2025",
+          "endlocationpoint": "2079",
+          "px": "120.30894",
+          "py": "22.60501"
+        },
+        {
+          "cctvid": "64000C000082",
+          "roadsection": "ä¸­å±±è·¯(é«˜é›„)(ä¸­å±±ä¸‰è·¯/å…‰è¯ä¸‰è·¯åˆ°ä¸­å±±å››è·¯/äº”ç”²ä¸‰è·¯)",
+          "locationpath": "2013",
+          "startlocationpoint": "2079",
+          "endlocationpoint": "2028",
+          "px": "120.31642",
+          "py": "22.59628"
+        },
+        {
+          "cctvid": "64000C000083",
+          "roadsection": "(æ–°ç”Ÿè·¯-ä¸­èˆˆè·¯)(æ–°ç”Ÿè·¯/ä¸­èˆˆè·¯åˆ°æ–°ç”Ÿè·¯/æ——æ´¥ä¸€è·¯)",
+          "locationpath": "2520",
+          "startlocationpoint": "2521",
+          "endlocationpoint": "2523",
+          "px": "120.35025",
+          "py": "22.52492"
+        },
+        {
+          "cctvid": "64000C000084",
+          "roadsection": "å·¦æ¥ è·¯(å·¦æ¥ è·¯/åŠ æ˜Œè·¯åˆ°å·¦æ¥ è·¯/å¾Œæ˜Œè·¯)",
+          "locationpath": "1929",
+          "startlocationpoint": "1930",
+          "endlocationpoint": "1931",
+          "px": "120.30463",
+          "py": "22.71780"
+        },
+        {
+          "cctvid": "64000C000085",
+          "roadsection": "ä¸­æ­£è·¯(é«˜é›„äº¤æµé“(ä¸­æ­£1è·¯)åˆ°ä¸­æ­£è·¯/ä¸‰å¤šä¸€è·¯)",
+          "locationpath": "2271",
+          "startlocationpoint": "2286",
+          "endlocationpoint": "2287",
+          "px": "120.34235",
+          "py": "22.62474"
+        },
+        {
+          "cctvid": "64000C000086",
+          "roadsection": "ä¸­æ­£è·¯(ä¸­æ­£ä¸‰è·¯/å¾©èˆˆä¸€è·¯åˆ°ä¸­æ­£äºŒè·¯/å’Œå¹³ä¸€è·¯)",
+          "locationpath": "2271",
+          "startlocationpoint": "2280",
+          "endlocationpoint": "2282",
+          "px": "120.31328",
+          "py": "22.63063"
+        },
+        {
+          "cctvid": "64000C000087",
+          "roadsection": "ä¸­å±±è·¯(é«˜é›„)(ä¸­å±±ä¸€è·¯/å…­åˆä¸€è·¯åˆ°ä¸­å±±ä¸€è·¯/ä¸­å±±ä¸€è·¯-æ°‘ç”Ÿä¸€è·¯-æ°‘ç”ŸäºŒè·¯åœ“ç’°)",
+          "locationpath": "2013",
+          "startlocationpoint": "2017",
+          "endlocationpoint": "2019",
+          "px": "120.30191",
+          "py": "22.63136"
+        },
+        {
+          "cctvid": "64000C000088",
+          "roadsection": "åŠ æ˜Œè·¯(åŠ æ˜Œè·¯/å¾Œæ˜Œè·¯åˆ°åŠ æ˜Œè·¯/å³æ˜Œè¡—)",
+          "locationpath": "1912",
+          "startlocationpoint": "1917",
+          "endlocationpoint": "1919",
+          "px": "120.29143",
+          "py": "22.71319"
+        },
+        {
+          "cctvid": "64000C000089",
+          "roadsection": "å·¦ç‡Ÿå¤§è·¯(å·¦ç‡Ÿå¤§è·¯/å¿…å‹è·¯åˆ°å·¦ç‡Ÿå¤§è·¯/ä¸­è¯è·¯-é¼“å±±ä¸‰è·¯åœ“ç’°)",
+          "locationpath": "1940",
+          "startlocationpoint": "1946",
+          "endlocationpoint": "1947",
+          "px": "120.28659",
+          "py": "22.67219"
+        },
+        {
+          "cctvid": "64000C000090",
+          "roadsection": "ä¸­å±±è·¯(é«˜é›„)(ä¸­å±±ä¸‰è·¯/å…‰è¯ä¸‰è·¯åˆ°ä¸­å±±ä¸‰è·¯/å‡±æ—‹å››è·¯)",
+          "locationpath": "2013",
+          "startlocationpoint": "2079",
+          "endlocationpoint": "2027",
+          "px": "120.31384",
+          "py": "22.59870"
+        },
+        {
+          "cctvid": "64000C000091",
+          "roadsection": "ä¸­å±±è·¯(é«˜é›„)(ä¸­å±±äºŒè·¯/å››ç¶­å››è·¯åˆ°ä¸­å±±ä¸‰è·¯/å¾©èˆˆä¸‰è·¯)",
+          "locationpath": "2013",
+          "startlocationpoint": "2023",
+          "endlocationpoint": "2025",
+          "px": "120.30458",
+          "py": "22.61394"
+        },
+        {
+          "cctvid": "64000C000092",
+          "roadsection": "ä¸­å±±è·¯(é«˜é›„)(ä¸­å±±ä¸‰è·¯/å‡±æ—‹å››è·¯åˆ°é«˜é›„ç«¯)",
+          "locationpath": "2013",
+          "startlocationpoint": "2027",
+          "endlocationpoint": "2029",
+          "px": "120.32231",
+          "py": "22.58855"
+        },
+        {
+          "cctvid": "64000C000093",
+          "roadsection": "å·¦æ¥ è·¯(å·¦æ¥ è·¯/å¾Œæ˜Œè·¯åˆ°å·¦æ¥ è·¯/å·¦ç‡Ÿå¤§è·¯)",
+          "locationpath": "1929",
+          "startlocationpoint": "1931",
+          "endlocationpoint": "1932",
+          "px": "120.30254",
+          "py": "22.70087"
+        },
+        {
+          "cctvid": "64000C000094",
+          "roadsection": "ä¹å¦‚è·¯(ä¹å¦‚ä¸€è·¯/å¤§é †äºŒè·¯åˆ°ä¹å¦‚ä¸€è·¯/æ°´æºè·¯)",
+          "locationpath": "2203",
+          "startlocationpoint": "2216",
+          "endlocationpoint": "2220",
+          "px": "120.33758",
+          "py": "22.63750"
+        },
+        {
+          "cctvid": "64000C000095",
+          "roadsection": "ç‘éš†è·¯(ç‘éš†è·¯/æ­¦ç‡Ÿè·¯åˆ°ç‘éš†è·¯/ä¿æ³°è·¯)",
+          "locationpath": "2495",
+          "startlocationpoint": "2499",
+          "endlocationpoint": "2500",
+          "px": "120.33907",
+          "py": "22.60611"
+        },
+        {
+          "cctvid": "64000C000096",
+          "roadsection": "ä¸­å±±è·¯(é«˜é›„)(ä¸­å±±ä¸‰è·¯/å…‰è¯ä¸‰è·¯åˆ°ä¸­å±±å››è·¯/äº”ç”²ä¸‰è·¯)",
+          "locationpath": "2013",
+          "startlocationpoint": "2079",
+          "endlocationpoint": "2028",
+          "px": "120.31567",
+          "py": "22.59579"
+        },
+        {
+          "cctvid": "64000C000097",
+          "roadsection": "ä¸­æ­£è·¯(ä¸­æ­£äºŒè·¯/å’Œå¹³ä¸€è·¯åˆ°ä¸­æ­£è·¯/å¤§é †ä¸‰è·¯)",
+          "locationpath": "2271",
+          "startlocationpoint": "2282",
+          "endlocationpoint": "2284",
+          "px": "120.32166",
+          "py": "22.62998"
+        },
+        {
+          "cctvid": "64000C000098",
+          "roadsection": "ä¸­å±±è·¯(é«˜é›„)(ä¸­å±±å››è·¯/ä¸­å®‰è·¯åˆ°ä¸­å±±å››è·¯/å¹³å’Œæ±è·¯)",
+          "locationpath": "2013",
+          "startlocationpoint": "2030",
+          "endlocationpoint": "2032",
+          "px": "120.33208",
+          "py": "22.57667"
+        },
+        {
+          "cctvid": "64000C000099",
+          "roadsection": "ä¸­æ­£è·¯(ä¸­æ­£å››è·¯/è‡ªå¼·äºŒè·¯åˆ°ä¸­æ­£å››è·¯/è‡ªç«‹äºŒè·¯)",
+          "locationpath": "2271",
+          "startlocationpoint": "2275",
+          "endlocationpoint": "2277",
+          "px": "120.29585",
+          "py": "22.62942"
+        },
+        {
+          "cctvid": "64000C000100",
+          "roadsection": "é’å¹´è·¯(é’å¹´äºŒè·¯/æµ·é‚Šè·¯åˆ°é’å¹´äºŒè·¯/æ°¸æ˜è¡—)",
+          "locationpath": "2428",
+          "startlocationpoint": "2429",
+          "endlocationpoint": "2430",
+          "px": "120.29354",
+          "py": "22.61723"
+        },
+        {
+          "cctvid": "64000C000101",
+          "roadsection": "åšæ„›è·¯(åšæ„›ä¸‰è·¯/å­Ÿå­è·¯åˆ°åšæ„›ä¸‰è·¯/æ–°èŠä¸€è·¯)",
+          "locationpath": "1993",
+          "startlocationpoint": "1999",
+          "endlocationpoint": "2001",
+          "px": "120.30371",
+          "py": "22.67069"
+        },
+        {
+          "cctvid": "64000C000102",
+          "roadsection": "åšæ„›è·¯(åšæ„›ä¸‰è·¯/æ–°èŠä¸€è·¯åˆ°åšæ„›äºŒè·¯/æ˜èª äºŒè·¯)",
+          "locationpath": "1993",
+          "startlocationpoint": "2001",
+          "endlocationpoint": "2003",
+          "px": "120.30326",
+          "py": "22.66590"
+        },
+        {
+          "cctvid": "64000C000103",
+          "roadsection": "ä¸­å±±è·¯(é«˜é›„)(ä¸­å±±è·¯/å»ºåœ‹äºŒè·¯åˆ°ä¸­å±±ä¸€è·¯/ä¸ƒè³¢äºŒè·¯)",
+          "locationpath": "2013",
+          "startlocationpoint": "2014",
+          "endlocationpoint": "2016",
+          "px": "120.30235",
+          "py": "22.63600"
+        },
+        {
+          "cctvid": "64000C000104",
+          "roadsection": "åšæ„›è·¯(åšæ„›ä¸€è·¯/åå…¨ä¸€è·¯åˆ°åšæ„›ä¸€è·¯/ä¹å¦‚äºŒè·¯)",
+          "locationpath": "1993",
+          "startlocationpoint": "2006",
+          "endlocationpoint": "2007",
+          "px": "120.30299",
+          "py": "22.64406"
+        },
+        {
+          "cctvid": "64000C000105",
+          "roadsection": "ä¸­å±±è·¯(é«˜é›„)(ä¸­å±±ä¸€è·¯/ä¸­å±±ä¸€è·¯-æ°‘ç”Ÿä¸€è·¯-æ°‘ç”ŸäºŒè·¯åœ“ç’°åˆ°ä¸­å±±äºŒè·¯/æ–°ç”°è·¯)",
+          "locationpath": "2013",
+          "startlocationpoint": "2019",
+          "endlocationpoint": "2021",
+          "px": "120.30101",
+          "py": "22.62314"
+        },
+        {
+          "cctvid": "64000C000106",
+          "roadsection": "ä¸­æµ·è·¯(ä¸­æµ·è·¯/è»æ ¡è·¯åˆ°ä¸­æµ·è·¯/ä¸­æ­£è·¯)",
+          "locationpath": "1933",
+          "startlocationpoint": "1934",
+          "endlocationpoint": "1935",
+          "px": "120.29255",
+          "py": "22.70068"
+        },
+        {
+          "cctvid": "64000C000107",
+          "roadsection": "ä¸­å±±è·¯(é«˜é›„)(ä¸­å±±ä¸‰è·¯/ä¸­å±±å››è·¯åˆ°ä¸­å±±ä¸€è·¯/äº”ç¦ä¸‰è·¯)",
+          "locationpath": "2013",
+          "startlocationpoint": "2018",
+          "endlocationpoint": "2020",
+          "px": "120.30150",
+          "py": "22.62732"
+        },
+        {
+          "cctvid": "64000C000108",
+          "roadsection": "å¤§é †è·¯(å¤§é †äºŒè·¯/ä¹å¦‚ä¸€è·¯åˆ°å¤§é †ä¸‰è·¯/æ²³åŒ—è·¯)",
+          "locationpath": "2153",
+          "startlocationpoint": "2161",
+          "endlocationpoint": "2163",
+          "px": "120.32570",
+          "py": "22.63285"
+        },
+        {
+          "cctvid": "64000C000109",
+          "roadsection": "ä¸­æ­£è·¯(ä¸­æ­£äº”è·¯/å¤§å…¬è·¯åˆ°ä¸­æ­£å››è·¯/æˆåŠŸä¸€è·¯)",
+          "locationpath": "2271",
+          "startlocationpoint": "2272",
+          "endlocationpoint": "2274",
+          "px": "120.28885",
+          "py": "22.62703"
+        },
+        {
+          "cctvid": "64000C000110",
+          "roadsection": "å»ºå·¥è·¯(å»ºå·¥è·¯/å¤§é †äºŒè·¯åˆ°å»ºå·¥è·¯/å»ºå¾·è·¯)",
+          "locationpath": "2164",
+          "startlocationpoint": "2167",
+          "endlocationpoint": "2166",
+          "px": "120.32935",
+          "py": "22.65230"
+        },
+        {
+          "cctvid": "64000C000111",
+          "roadsection": "ä¸­å±±è·¯(é«˜é›„)(ä¸­å±±è·¯/å»ºåœ‹äºŒè·¯åˆ°ä¸­å±±ä¸€è·¯/ä¸­åšè»Šè¡Œåœ°ä¸‹é“)",
+          "locationpath": "2013",
+          "startlocationpoint": "2014",
+          "endlocationpoint": "2015",
+          "px": "120.30249",
+          "py": "22.63780"
+        },
+        {
+          "cctvid": "64000C000112",
+          "roadsection": "åšæ„›è·¯(åšæ„›äºŒè·¯/è£•èª è·¯åˆ°åšæ„›äºŒè·¯/å¤§é †ä¸€è·¯)",
+          "locationpath": "1993",
+          "startlocationpoint": "2002",
+          "endlocationpoint": "2004",
+          "px": "120.29786",
+          "py": "22.61853"
+        },
+        {
+          "cctvid": "64000C000113",
+          "roadsection": "æˆåŠŸè·¯(æˆåŠŸä¸€è·¯/æ°‘ç”ŸäºŒè·¯åˆ°æˆåŠŸä¸€è·¯/æ–°ç”°è·¯)",
+          "locationpath": "2303",
+          "startlocationpoint": "2307",
+          "endlocationpoint": "2309",
+          "px": "120.29504",
+          "py": "22.62115"
+        },
+        {
+          "cctvid": "64000C000114",
+          "roadsection": "ä¸ƒè³¢è·¯(ä¸ƒè³¢ä¸€è·¯/æ°‘æ—äºŒè·¯åˆ°ä¸ƒè³¢ä¸€è·¯/å’Œå¹³ä¸€è·¯)",
+          "locationpath": "2246",
+          "startlocationpoint": "2255",
+          "endlocationpoint": "2256",
+          "px": "120.31669",
+          "py": "22.63365"
+        },
+        {
+          "cctvid": "64000C000115",
+          "roadsection": "ä¹å¦‚è·¯(ä¹å¦‚äºŒè·¯/ä¸­è¯äºŒè·¯åˆ°ä¹å¦‚äºŒè·¯/åšæ„›ä¸€è·¯)",
+          "locationpath": "2203",
+          "startlocationpoint": "2210",
+          "endlocationpoint": "2212",
+          "px": "120.29617",
+          "py": "22.64182"
+        },
+        {
+          "cctvid": "64000C000116",
+          "roadsection": "åšæ„›è·¯(åšæ„›ä¸€è·¯/ä¸­åšè»Šè¡Œåœ°ä¸‹é“åˆ°åšæ„›ä¸€è·¯/ä¹å¦‚äºŒè·¯)",
+          "locationpath": "1993",
+          "startlocationpoint": "2008",
+          "endlocationpoint": "2007",
+          "px": "120.30279",
+          "py": "22.64137"
+        },
+        {
+          "cctvid": "64000C000117",
+          "roadsection": "å·¦ç‡Ÿå¤§è·¯(å·¦ç‡Ÿå¤§è·¯/åº—ä»”é ‚è·¯åˆ°å·¦ç‡Ÿå¤§è·¯/ä»‹å£½è·¯)",
+          "locationpath": "1940",
+          "startlocationpoint": "1944",
+          "endlocationpoint": "1945",
+          "px": "120.28807",
+          "py": "22.68181"
+        },
+        {
+          "cctvid": "64000C000118",
+          "roadsection": "å»ºåœ‹è·¯(å»ºåœ‹ä¸€è·¯/æ°‘æ—äºŒè·¯åˆ°å»ºåœ‹ä¸€è·¯/å…­åˆè·¯)",
+          "locationpath": "2224",
+          "startlocationpoint": "2234",
+          "endlocationpoint": "2267",
+          "px": "120.31684",
+          "py": "22.63493"
+        },
+        {
+          "cctvid": "64000C000119",
+          "roadsection": "ç¾è¡“é¤¨è·¯/ç¾è¡“æ±äºŒè·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.28818",
+          "py": "22.65494"
+        },
+        {
+          "cctvid": "64000C000120",
+          "roadsection": "æµ·åŠŸè·¯/è»æ ¡è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.29246",
+          "py": "22.69369"
+        },
+        {
+          "cctvid": "64000C000121",
+          "roadsection": "ç¿ è¯è·¯(ç¿ è¯è·¯/æ±é–€è·¯åˆ°ç¿ è¯è·¯/ä¸­è¯ä¸€è·¯)",
+          "locationpath": "1954",
+          "startlocationpoint": "1960",
+          "endlocationpoint": "1961",
+          "px": "120.29112",
+          "py": "22.67207"
+        },
+        {
+          "cctvid": "64000C000122",
+          "roadsection": "å“¨èˆ¹è¡—/è‡¨æµ·äºŒè·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.26951",
+          "py": "22.62447"
+        },
+        {
+          "cctvid": "64000C000123",
+          "roadsection": "è“®æµ·è·¯-ä¸­å±±å¤§å­¸å¤§é–€åœè»Šå ´å‡ºå£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.26682",
+          "py": "22.61774"
+        },
+        {
+          "cctvid": "64000C000124",
+          "roadsection": "é¼“å±±æ¸¡è¼ªç«™",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.27016",
+          "py": "22.61977"
+        },
+        {
+          "cctvid": "64000C000125",
+          "roadsection": "é¼“å±±è·¯(é¼“å±±ä¸‰è·¯/äº”ç¦å››è·¯åˆ°é¼“å±±ä¸‰è·¯/æ¿±æµ·ä¸€è·¯)",
+          "locationpath": "1965",
+          "startlocationpoint": "1974",
+          "endlocationpoint": "1975",
+          "px": "120.27501",
+          "py": "22.62128"
+        },
+        {
+          "cctvid": "64000C000126",
+          "roadsection": "äº”ç¦è·¯(äº”ç¦å››è·¯/é¼“å±±ä¸‰è·¯åˆ°äº”ç¦å››è·¯/å»ºåœ‹å››è·¯)",
+          "locationpath": "2401",
+          "startlocationpoint": "2402",
+          "endlocationpoint": "2405",
+          "px": "120.27809",
+          "py": "22.62638"
+        },
+        {
+          "cctvid": "64000C000127",
+          "roadsection": "ä¸­æ­£è·¯(ä¸­æ­£äº”è·¯/å¤§å…¬è·¯åˆ°ä¸­æ­£å››è·¯/æˆåŠŸä¸€è·¯)",
+          "locationpath": "2271",
+          "startlocationpoint": "2272",
+          "endlocationpoint": "2274",
+          "px": "120.28781",
+          "py": "22.62670"
+        },
+        {
+          "cctvid": "64000C000128",
+          "roadsection": "å…¬åœ’è·¯/ä¸ƒè³¢è·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.28026",
+          "py": "22.62283"
+        },
+        {
+          "cctvid": "64000C000129",
+          "roadsection": "äº”ç¦è·¯(äº”ç¦å››è·¯/å»ºåœ‹å››è·¯åˆ°äº”ç¦å››è·¯/æ²³è¥¿è·¯)",
+          "locationpath": "2401",
+          "startlocationpoint": "2405",
+          "endlocationpoint": "2407",
+          "px": "120.28136",
+          "py": "22.62478"
+        },
+        {
+          "cctvid": "64000C000130",
+          "roadsection": "äº”ç¦è·¯(äº”ç¦å››è·¯/ä¸ƒè³¢ä¸‰è·¯åˆ°äº”ç¦å››è·¯/æµ·é‚Šè·¯)",
+          "locationpath": "2401",
+          "startlocationpoint": "2406",
+          "endlocationpoint": "2408",
+          "px": "120.28948",
+          "py": "22.62079"
+        },
+        {
+          "cctvid": "64000C000131",
+          "roadsection": "å»ºåœ‹è·¯(å»ºåœ‹äºŒè·¯/å¾©èˆˆä¸€è·¯åˆ°å»ºåœ‹ä¸€è·¯/å’Œå¹³ä¸€è·¯)",
+          "locationpath": "2224",
+          "startlocationpoint": "2270",
+          "endlocationpoint": "2235",
+          "px": "120.31368",
+          "py": "22.63732"
+        },
+        {
+          "cctvid": "64000C000132",
+          "roadsection": "å»ºåœ‹è·¯(å»ºåœ‹ä¸€è·¯/ç¦å¾·äºŒè·¯åˆ°å»ºåœ‹ä¸€è·¯/æ­£ç¾©è·¯)",
+          "locationpath": "2224",
+          "startlocationpoint": "2238",
+          "endlocationpoint": "2239",
+          "px": "120.33726",
+          "py": "22.63028"
+        },
+        {
+          "cctvid": "64000C000133",
+          "roadsection": "å»ºåœ‹è·¯(å»ºåœ‹ä¸€è·¯/ç¦å¾·äºŒè·¯åˆ°å»ºåœ‹ä¸€è·¯/æ­£ç¾©è·¯)",
+          "locationpath": "2224",
+          "startlocationpoint": "2238",
+          "endlocationpoint": "2239",
+          "px": "120.33558",
+          "py": "22.63080"
+        },
+        {
+          "cctvid": "64000C000134",
+          "roadsection": "å¤§æ¥­åŒ—è·¯(å¤§æ¥­åŒ—è·¯/ä¸­å±±å››è·¯åˆ°å¤§æ¥­åŒ—è·¯/å°æ¸¯è·¯)",
+          "locationpath": "2580",
+          "startlocationpoint": "2581",
+          "endlocationpoint": "2582",
+          "px": "120.34297",
+          "py": "22.56965"
+        },
+        {
+          "cctvid": "64000C000135",
+          "roadsection": "å¤§æ¥­åŒ—è·¯(å¤§æ¥­åŒ—è·¯/æ¼¢æ°‘è·¯åˆ°å¤§æ¥­åŒ—è·¯/ä¸­é‹¼è·¯)",
+          "locationpath": "2580",
+          "startlocationpoint": "2583",
+          "endlocationpoint": "2584",
+          "px": "120.35267",
+          "py": "22.55786"
+        },
+        {
+          "cctvid": "64000C000136",
+          "roadsection": "æ——æ´¥æ¸¡è¼ªç«™",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.26909",
+          "py": "22.61412"
+        },
+        {
+          "cctvid": "64000C000137",
+          "roadsection": "ä¸­è¯è·¯(ä¸­è¯äº”è·¯/å¾©èˆˆä¸‰è·¯åˆ°ä¸­è¯äº”è·¯/å‡±æ—‹å››è·¯)",
+          "locationpath": "2132",
+          "startlocationpoint": "2150",
+          "endlocationpoint": "2151",
+          "px": "120.30844",
+          "py": "22.59689"
+        },
+        {
+          "cctvid": "64000C000138",
+          "roadsection": "æˆåŠŸè·¯(æˆåŠŸäºŒè·¯/å¾©èˆˆä¸‰è·¯åˆ°æˆåŠŸäºŒè·¯/æ“´å»ºè·¯)",
+          "locationpath": "2303",
+          "startlocationpoint": "2313",
+          "endlocationpoint": "2314",
+          "px": "120.30485",
+          "py": "22.59571"
+        },
+        {
+          "cctvid": "64000C000139",
+          "roadsection": "æˆåŠŸè·¯(æˆåŠŸä¸€è·¯/ä¸‰å¤šå››è·¯åˆ°æˆåŠŸäºŒè·¯/å¾©èˆˆä¸‰è·¯)",
+          "locationpath": "2303",
+          "startlocationpoint": "2312",
+          "endlocationpoint": "2313",
+          "px": "120.29913",
+          "py": "22.61055"
+        },
+        {
+          "cctvid": "64000C000140",
+          "roadsection": "æˆåŠŸè·¯(æˆåŠŸä¸€è·¯/ä¸‰å¤šå››è·¯åˆ°æˆåŠŸäºŒè·¯/æ“´å»ºè·¯)",
+          "locationpath": "2303",
+          "startlocationpoint": "2312",
+          "endlocationpoint": "2314",
+          "px": "120.30120",
+          "py": "22.60529"
+        },
+        {
+          "cctvid": "64000C000141",
+          "roadsection": "å° 17(æ±æ—è·¯/æ²¿æµ·ä¸‰è·¯åˆ°ä¸‹åè·¯/ä¸­é–€è·¯)",
+          "locationpath": "4432",
+          "startlocationpoint": "4509",
+          "endlocationpoint": "9146",
+          "px": "120.36248",
+          "py": "22.51065"
+        },
+        {
+          "cctvid": "64000C000142",
+          "roadsection": "é‡‘ç¦è·¯(é‡‘ç¦è·¯/æ–°ç”Ÿè·¯åˆ°é‡‘ç¦è·¯/æ¸¯å£½è¡—)",
+          "locationpath": "2533",
+          "startlocationpoint": "2534",
+          "endlocationpoint": "2536",
+          "px": "120.32853",
+          "py": "22.57106"
+        },
+        {
+          "cctvid": "64000C000143",
+          "roadsection": "æ–°ç”Ÿè·¯(æ–°ç”Ÿè·¯/é®æ¸¯è·¯åˆ°æ–°ç”Ÿè·¯/æ¼æ¸¯è·¯)",
+          "locationpath": "2514",
+          "startlocationpoint": "2516",
+          "endlocationpoint": "2518",
+          "px": "120.31229",
+          "py": "22.58072"
+        },
+        {
+          "cctvid": "64000C000144",
+          "roadsection": "æ——æ´¥è·¯(æ——æ´¥äºŒè·¯/æ•¦å’Œè¡—åˆ°æ——æ´¥ä¸€è·¯/å»£æ¾¤è¡—)",
+          "locationpath": "2524",
+          "startlocationpoint": "2527",
+          "endlocationpoint": "2526",
+          "px": "120.29915",
+          "py": "22.57064"
+        },
+        {
+          "cctvid": "64000C000145",
+          "roadsection": "æ¼æ¸¯è·¯(æ¼æ¸¯è·¯/å¾·æ˜Œè·¯åˆ°æ¼æ¸¯è·¯/ç¿ äº¨åŒ—è·¯)",
+          "locationpath": "2543",
+          "startlocationpoint": "2545",
+          "endlocationpoint": "2547",
+          "px": "120.32290",
+          "py": "22.58181"
+        },
+        {
+          "cctvid": "64000C000146",
+          "roadsection": "æ°‘æ¬Šè·¯(æ°‘æ¬Šä¸€è·¯/é’å¹´ä¸€è·¯åˆ°æ°‘æ¬ŠäºŒè·¯/ä¸‰å¤šä¸‰è·¯)",
+          "locationpath": "2419",
+          "startlocationpoint": "2422",
+          "endlocationpoint": "2424",
+          "px": "120.31330",
+          "py": "22.62032"
+        },
+        {
+          "cctvid": "64000C000147",
+          "roadsection": "æ˜èª è·¯/é‡‘é¼è·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.33052",
+          "py": "22.66013"
+        },
+        {
+          "cctvid": "64000C000148",
+          "roadsection": "å¤§ä¸­è·¯(é«˜é›„)(å¤§ä¸­äºŒè·¯/æ¾„è§€è·¯åˆ°å¤§ä¸­äºŒè·¯/æ°‘æ—ä¸€è·¯)",
+          "locationpath": "2084",
+          "startlocationpoint": "2085",
+          "endlocationpoint": "2087",
+          "px": "120.32319",
+          "py": "22.67656"
+        },
+        {
+          "cctvid": "64000C000149",
+          "roadsection": "æ——æ¥ è·¯(æ——æ¥ è·¯/ç«‹æ°‘è·¯åˆ°æ——æ¥ è·¯/æ¥ æ¢“æ–°è·¯)",
+          "locationpath": "2618",
+          "startlocationpoint": "2619",
+          "endlocationpoint": "2620",
+          "px": "120.33497",
+          "py": "22.73781"
+        },
+        {
+          "cctvid": "64000C000150",
+          "roadsection": "å° 22(æ——æ¥ è·¯/æ¥ æ¢“æ–°è·¯åˆ°æ——æ¥ è·¯/ç«‹æ°‘è·¯)",
+          "locationpath": "4797",
+          "startlocationpoint": "4799",
+          "endlocationpoint": "4801",
+          "px": "120.32250",
+          "py": "22.60165"
+        },
+        {
+          "cctvid": "64000C000151",
+          "roadsection": "å° 1æˆŠ(å»ºåœ‹ä¸€è·¯/æ­£ç¾©è·¯åˆ°å° 1æˆŠ/å° 25)",
+          "locationpath": "4625",
+          "startlocationpoint": "4634",
+          "endlocationpoint": "4636",
+          "px": "120.36191",
+          "py": "22.62554"
+        },
+        {
+          "cctvid": "64000C000152",
+          "roadsection": "ç‘éš†æ±è·¯å‡ºå£é–˜é“å—å‘è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.34096",
+          "py": "22.60619"
+        },
+        {
+          "cctvid": "64000C000153",
+          "roadsection": "å°88é³³å±±äº¤æµé“æ±å‘",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.35889",
+          "py": "22.59011"
+        },
+        {
+          "cctvid": "64000C000154",
+          "roadsection": "å°88é³³å±±äº¤æµé“è¥¿å‘",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.35888",
+          "py": "22.59042"
+        },
+        {
+          "cctvid": "64000C000155",
+          "roadsection": "è‡ªç”±è·¯(é«˜é›„)(è‡ªç”±ä¸€è·¯/ä¸‰å¤šä¸€è·¯åˆ°è‡ªç”±è·¯/æ¾„æ¸…è·¯)",
+          "locationpath": "2472",
+          "startlocationpoint": "2473",
+          "endlocationpoint": "2474",
+          "px": "120.34434",
+          "py": "22.62487"
+        },
+        {
+          "cctvid": "64000C000156",
+          "roadsection": "å° 1æˆŠ(å»ºåœ‹ä¸€è·¯/æ­£ç¾©è·¯åˆ°å° 1æˆŠ/å° 25)",
+          "locationpath": "4625",
+          "startlocationpoint": "4634",
+          "endlocationpoint": "4635",
+          "px": "120.33954",
+          "py": "22.62949"
+        },
+        {
+          "cctvid": "64000C000157",
+          "roadsection": "å° 1æˆŠ(å»ºåœ‹ä¸€è·¯/æ­£ç¾©è·¯åˆ°å° 1æˆŠ/å° 25)",
+          "locationpath": "4625",
+          "startlocationpoint": "4634",
+          "endlocationpoint": "4635",
+          "px": "120.35660",
+          "py": "22.62604"
+        },
+        {
+          "cctvid": "64000C000158",
+          "roadsection": "ç¸£ 181(å…«å¾·è·¯433å··/é’å¹´è·¯äºŒæ®µåˆ°å…«å¾·è·¯433å··/é’å¹´è·¯äºŒæ®µ)",
+          "locationpath": "9432",
+          "startlocationpoint": "9436",
+          "endlocationpoint": "9436",
+          "px": "120.34664",
+          "py": "22.64785"
+        },
+        {
+          "cctvid": "64000C000159",
+          "roadsection": "å° 1(é³³æ¾è·¯/å»ºåœ‹è·¯äºŒæ®µåˆ°é³³ä»è·¯/å»ºåœ‹è·¯ä¸€æ®µ)",
+          "locationpath": "2623",
+          "startlocationpoint": "9294",
+          "endlocationpoint": "9237",
+          "px": "120.36385",
+          "py": "22.63518"
+        },
+        {
+          "cctvid": "64000C000160",
+          "roadsection": "è‡ªç”±è·¯(é«˜é›„)(è‡ªç”±äºŒè·¯/è£•èª è·¯åˆ°è‡ªç”±äºŒè·¯/å¤§é †ä¸€è·¯)",
+          "locationpath": "2040",
+          "startlocationpoint": "2047",
+          "endlocationpoint": "2049",
+          "px": "120.30904",
+          "py": "22.66108"
+        },
+        {
+          "cctvid": "64000C000161",
+          "roadsection": "ç¸£ 186(ä»‹å£½æ±è·¯/ä¸­å±±å—è·¯åˆ°å²¡å±±è·¯/ä»‹å£½è·¯)",
+          "locationpath": "9330",
+          "startlocationpoint": "9342",
+          "endlocationpoint": "9341",
+          "px": "120.29709",
+          "py": "22.78457"
+        },
+        {
+          "cctvid": "64000C000162",
+          "roadsection": "å° 1(å° 1/å° 19ç”²åˆ°ä¸­å±±åŒ—è·¯/å¤§å¾·ä¸€è·¯)",
+          "locationpath": "2623",
+          "startlocationpoint": "2692",
+          "endlocationpoint": "9223",
+          "px": "120.29460",
+          "py": "22.79966"
+        },
+        {
+          "cctvid": "64000C000163",
+          "roadsection": "å° 19ç”²(å° 19ç”²/å° 1åˆ°æˆåŠŸè·¯/å˜‰æ–°æ±è·¯)",
+          "locationpath": "4571",
+          "startlocationpoint": "4577",
+          "endlocationpoint": "9196",
+          "px": "120.29851",
+          "py": "22.80743"
+        },
+        {
+          "cctvid": "64000C000164",
+          "roadsection": "é˜¿å…¬åº—è·¯2æ®µ/æºªè¥¿è·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.29053",
+          "py": "22.78766"
+        },
+        {
+          "cctvid": "64000C000165",
+          "roadsection": "å° 19ç”²(ä¸­è¯è·¯/æŸ³æ©‹è¥¿è·¯åˆ°å¤§ç¾©ä¸€è·¯/ä»å£½è·¯)",
+          "locationpath": "4571",
+          "startlocationpoint": "9200",
+          "endlocationpoint": "9201",
+          "px": "120.28850",
+          "py": "22.79069"
+        },
+        {
+          "cctvid": "64000C000166",
+          "roadsection": "å° 19ç”²(å¤§ç¾©ä¸€è·¯/ä»å£½è·¯åˆ°ä»‹å£½è·¯/ä»‹å£½è¥¿è·¯)",
+          "locationpath": "4571",
+          "startlocationpoint": "9201",
+          "endlocationpoint": "9202",
+          "px": "120.28486",
+          "py": "22.78439"
+        },
+        {
+          "cctvid": "64000C000167",
+          "roadsection": "å° 1(å¤§å¾·ä¸‰è·¯/ä¸­å±±å—è·¯åˆ°ä¸­å±±åŒ—è·¯/å¤§å¾·ä¸€è·¯)",
+          "locationpath": "2623",
+          "startlocationpoint": "9225",
+          "endlocationpoint": "9223",
+          "px": "120.29908",
+          "py": "22.79236"
+        },
+        {
+          "cctvid": "64000C000168",
+          "roadsection": "å° 1(ä»‹å£½æ±è·¯/ä¸­å±±å—è·¯åˆ°å²¡å±±å—è·¯/æˆåŠŸåŒ—è·¯)",
+          "locationpath": "2623",
+          "startlocationpoint": "9226",
+          "endlocationpoint": "9227",
+          "px": "120.29881",
+          "py": "22.78001"
+        },
+        {
+          "cctvid": "64000C000169",
+          "roadsection": "é³³å±±å€-åœ‹æ³°è·¯äºŒæ®µã€å—äº¬è·¯è¥¿å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.34454",
+          "py": "22.62140"
+        },
+        {
+          "cctvid": "64000C000170",
+          "roadsection": "é³³å±±å€-åœ‹æ³°è·¯äºŒæ®µã€é’å¹´è·¯ä¸€æ®µæ±åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.34922",
+          "py": "22.61884"
+        },
+        {
+          "cctvid": "64000C000171",
+          "roadsection": "é³³å±±å€-åœ‹æ³°è·¯äºŒæ®µã€äº”ç”²äºŒè·¯è¥¿åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.35338",
+          "py": "22.61655"
+        },
+        {
+          "cctvid": "64000C000172",
+          "roadsection": "é³³å±±å€-åœ‹æ³°è·¯ä¸€æ®µã€é³³é ‚è·¯æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.36205",
+          "py": "22.61409"
+        },
+        {
+          "cctvid": "64000C000173",
+          "roadsection": "é³³å±±å€-é³³é ‚è·¯ã€ä¿ç”Ÿè·¯æ±åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.35917",
+          "py": "22.59309"
+        },
+        {
+          "cctvid": "64000C000174",
+          "roadsection": "é³³å±±å€-ç¸£188ã€å…§å‘è·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.38467",
+          "py": "22.58957"
+        },
+        {
+          "cctvid": "64000C000175",
+          "roadsection": "é³³å±±å€-ç¸£188ã€é³³æ—è·¯åŒ—å´",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.40492",
+          "py": "22.58703"
+        },
+        {
+          "cctvid": "64000C000176",
+          "roadsection": "é³³å±±å€-ç¸£188ã€é³³æ—è·¯å—å´",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.40535",
+          "py": "22.58612"
+        },
+        {
+          "cctvid": "64000C000177",
+          "roadsection": "é³³å±±å€-ç¸£188ã€å…‰æ˜è·¯è¥¿å´",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.41981",
+          "py": "22.58889"
+        },
+        {
+          "cctvid": "64000C000178",
+          "roadsection": "é³³å±±å€-ç¸£188ã€å…‰æ˜è·¯æ±å´",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.42016",
+          "py": "22.58925"
+        },
+        {
+          "cctvid": "64000C000179",
+          "roadsection": "é³³å±±å€-ç¸£188ã€è¯ä¸­è·¯æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.42895",
+          "py": "22.59163"
+        },
+        {
+          "cctvid": "64000C000180",
+          "roadsection": "é³³å±±å€-ç¸£188ã€è¯ä¸­è·¯è¥¿åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.42835",
+          "py": "22.59230"
+        },
+        {
+          "cctvid": "64000C000181",
+          "roadsection": "é³³å±±å€-äº”ç”²ä¸€è·¯ã€ç‘éš†æ±è·¯è¥¿åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.34647",
+          "py": "22.60688"
+        },
+        {
+          "cctvid": "64000C000182",
+          "roadsection": "é³³å±±å€-äº”ç”²ä¸€è·¯ã€å—äº¬è·¯æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.34578",
+          "py": "22.60470"
+        },
+        {
+          "cctvid": "64000C000183",
+          "roadsection": "é³³å±±å€-ä¹å¦‚ä¸€è·¯ã€æ¾„æ¸…è·¯è¥¿å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.34424",
+          "py": "22.63596"
+        },
+        {
+          "cctvid": "64000C000184",
+          "roadsection": "é³³å±±å€-å»ºåœ‹è·¯ä¸‰æ®µã€é’å¹´è·¯äºŒæ®µæ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.35076",
+          "py": "22.63726"
+        },
+        {
+          "cctvid": "64000C000185",
+          "roadsection": "é³³å±±å€-ä¸­å±±æ±è·¯ã€å…‰é æ±è·¯è¥¿å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.36789",
+          "py": "22.62277"
+        },
+        {
+          "cctvid": "64000C000186",
+          "roadsection": "é³³å±±å€-é³³å±ä¸€è·¯ã€å¤§æ¼¢è·¯è·¯å£æ±å´",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.38934",
+          "py": "22.63398"
+        },
+        {
+          "cctvid": "64000C000187",
+          "roadsection": "é³³å±±å€-é³³å±ä¸€è·¯ã€å…‰æ˜è·¯ä¸‰æ®µè¥¿å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.40114",
+          "py": "22.63920"
+        },
+        {
+          "cctvid": "64000C000188",
+          "roadsection": "é³³å±±å€-é³³å±ä¸€è·¯ã€å…‰æ˜è·¯ä¸‰æ®µæ±åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.40183",
+          "py": "22.63964"
+        },
+        {
+          "cctvid": "64000C000189",
+          "roadsection": "é³³å±±å€-é³³å±ä¸€è·¯ã€ä¹å’Œè·¯è¥¿å´",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.41707",
+          "py": "22.64186"
+        },
+        {
+          "cctvid": "64000C000190",
+          "roadsection": "é³³å±±å€-é³³å±ä¸€è·¯ã€ä¹å’Œè·¯è¥¿åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.41822",
+          "py": "22.64206"
+        },
+        {
+          "cctvid": "64000C000191",
+          "roadsection": "é³³å±±å€-å…‰æ˜è·¯ä¸‰æ®µã€æ±Ÿå±±è·¯å—å´",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.40243",
+          "py": "22.63594"
+        },
+        {
+          "cctvid": "64000C000192",
+          "roadsection": "é³³å±±å€-å…‰æ˜è·¯äºŒæ®µã€ç‰çƒè·¯å—å´",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.41342",
+          "py": "22.61147"
+        },
+        {
+          "cctvid": "64000C000193",
+          "roadsection": "é«˜å±å¤§æ©‹å¾€è¥¿ä¸‹æ©‹åŒé“å£(åŒ—å´)",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.42822",
+          "py": "22.64519"
+        },
+        {
+          "cctvid": "64000C000194",
+          "roadsection": "é«˜å±å¤§æ©‹å¾€æ±ä¸Šæ©‹åŒé“å£(å—å´)",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.42882",
+          "py": "22.64483"
+        },
+        {
+          "cctvid": "64000C000195",
+          "roadsection": "è¬å¤§å¤§æ©‹å¾€è¥¿ä¸‹æ©‹åŒé“å£(åŒ—å´)",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.43309",
+          "py": "22.59282"
+        },
+        {
+          "cctvid": "64000C000196",
+          "roadsection": "è¬å¤§å¤§æ©‹å¾€æ±ä¸Šæ©‹åŒé“å£(å—å´)",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.43312",
+          "py": "22.59214"
+        },
+        {
+          "cctvid": "64000C000197",
+          "roadsection": "é›™åœ’å¤§æ©‹è¥¿å‘ä¸‹æ©‹(åŒ—å´)",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.41267",
+          "py": "22.49777"
+        },
+        {
+          "cctvid": "64000C000198",
+          "roadsection": "å°29ã€æ–œå¼µæ©‹å—å´",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.44715",
+          "py": "22.76494"
+        },
+        {
+          "cctvid": "64000C000199",
+          "roadsection": "å°29ã€æºªåŸ”è·¯è¥¿åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.44498",
+          "py": "22.72828"
+        },
+        {
+          "cctvid": "64000C000200",
+          "roadsection": "å°29ã€ç¸£186(ä¸­èˆˆæ±è·¯)æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.43524",
+          "py": "22.69162"
+        },
+        {
+          "cctvid": "64000C000201",
+          "roadsection": "æ°´ç®¡ä¸‰è·¯ã€ç¾©å¤§äºŒè·¯(æ—å±±å··)æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.37947",
+          "py": "22.70054"
+        },
+        {
+          "cctvid": "64000C000202",
+          "roadsection": "å¤§ä¸­äºŒè·¯ã€è‡ªç”±ä¸‰è·¯æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.31364",
+          "py": "22.67908"
+        },
+        {
+          "cctvid": "64000C000203",
+          "roadsection": "å¤§ä¸­äºŒè·¯ã€æ°‘æ—ä¸€è·¯è¥¿åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.31875",
+          "py": "22.67932"
+        },
+        {
+          "cctvid": "64000C000204",
+          "roadsection": "å¤§ä¸­ä¸€è·¯ã€é¼ä¸­è·¯åŒ—å´",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32325",
+          "py": "22.67703"
+        },
+        {
+          "cctvid": "64000C000205",
+          "roadsection": "å°29(çµ±å¶ºè·¯)ã€å°22(é‡Œå¶ºå¤§æ©‹)æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.44947",
+          "py": "22.77120"
+        },
+        {
+          "cctvid": "64000C000206",
+          "roadsection": "é«˜é€Ÿå…¬è·¯(å—ä¸‹äº¤æµé“)ã€é³³æ¥ è·¯è¥¿å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.33201",
+          "py": "22.72101"
+        },
+        {
+          "cctvid": "64000C000207",
+          "roadsection": "é«˜é€Ÿå…¬è·¯(èˆˆè¥¿è·¯)ã€é³³ä»è·¯æ±åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.33317",
+          "py": "22.72064"
+        },
+        {
+          "cctvid": "64000C000208",
+          "roadsection": "åŠ æ˜Œè·¯ã€æµ·å°ˆè·¯è¥¿åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.31709",
+          "py": "22.72275"
+        },
+        {
+          "cctvid": "64000C000209",
+          "roadsection": "ä»é›„è·¯ã€é¼åŠ›è·¯(è·¯æ©‹åŒ—å´)",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.33229",
+          "py": "22.67289"
+        },
+        {
+          "cctvid": "64000C000210",
+          "roadsection": "æœ¬é¤¨è·¯ã€çƒå ´è·¯æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.33615",
+          "py": "22.65544"
+        },
+        {
+          "cctvid": "64000C000211",
+          "roadsection": "åšæ„›ä¸‰è·¯ã€æ›¾å­è·¯è¥¿å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30772",
+          "py": "22.67881"
+        },
+        {
+          "cctvid": "64000C000212",
+          "roadsection": "åšæ„›ä¸€è·¯ã€é¾å¾·è·¯è¥¿å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30334",
+          "py": "22.65427"
+        },
+        {
+          "cctvid": "64000C000213",
+          "roadsection": "åšæ„›ä¸€è·¯ã€åŒç›ŸäºŒè·¯è¥¿å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30328",
+          "py": "22.65166"
+        },
+        {
+          "cctvid": "64000C000214",
+          "roadsection": "åšæ„›ä¸€è·¯ã€åå…¨äºŒè·¯è¥¿åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30291",
+          "py": "22.64540"
+        },
+        {
+          "cctvid": "64000C000215",
+          "roadsection": "åšæ„›ä¸‰è·¯ã€å¤§ä¸­äºŒè·¯è¥¿å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30984",
+          "py": "22.68108"
+        },
+        {
+          "cctvid": "64000C000216",
+          "roadsection": "åšæ„›äºŒè·¯ã€ç«‹ä¿¡è¡—266å··è¥¿åŒ—è§’(æ¼¢ç¥å·¨è›‹å°é¢)",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30332",
+          "py": "22.66828"
+        },
+        {
+          "cctvid": "64000C000217",
+          "roadsection": "ä¸­å±±ä¸€è·¯ã€ä¸ƒè³¢ä¸€è·¯æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30237",
+          "py": "22.63435"
+        },
+        {
+          "cctvid": "64000C000218",
+          "roadsection": "ä¸­å±±äºŒè·¯ã€å››ç¶­å››è·¯æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30364",
+          "py": "22.61684"
+        },
+        {
+          "cctvid": "64000C000219",
+          "roadsection": "ä¸­å±±äºŒè·¯ã€å¾©èˆˆä¸‰è·¯è¥¿åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30692",
+          "py": "22.60733"
+        },
+        {
+          "cctvid": "64000C000220",
+          "roadsection": "ä¸­å±±äºŒè·¯ã€æ–°å…‰è·¯æ±åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30534",
+          "py": "22.61247"
+        },
+        {
+          "cctvid": "64000C000221",
+          "roadsection": "ä¸­å±±å››è·¯ã€ä¸­å¹³è·¯è¥¿åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32866",
+          "py": "22.58041"
+        },
+        {
+          "cctvid": "64000C000222",
+          "roadsection": "ä¸­å±±å››è·¯ã€ä¸­å®‰è·¯æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32956",
+          "py": "22.58033"
+        },
+        {
+          "cctvid": "64000C000223",
+          "roadsection": "ä¸­å®‰è·¯ã€æ˜é³³ä¸ƒè¡—è¥¿åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.33456",
+          "py": "22.58313"
+        },
+        {
+          "cctvid": "64000C000224",
+          "roadsection": "ä¸‰å¤šäº”è·¯ã€æˆåŠŸäºŒè·¯è¥¿åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.29841",
+          "py": "22.61199"
+        },
+        {
+          "cctvid": "64000C000225",
+          "roadsection": "æˆåŠŸäºŒè·¯ã€æ–°å…‰è·¯æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.29922",
+          "py": "22.61049"
+        },
+        {
+          "cctvid": "64000C000226",
+          "roadsection": "ä¸­æ­£äºŒè·¯ã€å’Œå¹³ä¸€è·¯è¥¿å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.31789",
+          "py": "22.63033"
+        },
+        {
+          "cctvid": "64000C000227",
+          "roadsection": "ä¸­æ­£ä¸€è·¯ã€è¼”ä»è·¯è¥¿å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.33235",
+          "py": "22.62799"
+        },
+        {
+          "cctvid": "64000C000228",
+          "roadsection": "ä¸­æ­£ä¸€è·¯ã€ç¦å¾·è·¯æ±åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32763",
+          "py": "22.62972"
+        },
+        {
+          "cctvid": "64000C000229",
+          "roadsection": "ä¸­æ­£ä¸€è·¯ã€æ²³åŒ—è·¯æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32351",
+          "py": "22.62970"
+        },
+        {
+          "cctvid": "64000C000230",
+          "roadsection": "ä¸­æ­£äºŒè·¯ã€æ°‘æ—äºŒè·¯æ±åŒ—è§’ ",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.31362",
+          "py": "22.63077"
+        },
+        {
+          "cctvid": "64000C000231",
+          "roadsection": "ä¸­å±±ä¸€è·¯ã€ä¸­æ­£ä¸‰è·¯æ±å´",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30222",
+          "py": "22.63136"
+        },
+        {
+          "cctvid": "64000C000232",
+          "roadsection": "æ©‹é ­å€-æˆåŠŸå—è·¯æ©‹æ–°å…­è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.31413",
+          "py": "22.75010"
+        },
+        {
+          "cctvid": "64000C000234",
+          "roadsection": "æ©‹é ­å€-æˆåŠŸè·¯æ©‹é ­è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30956",
+          "py": "22.75980"
+        },
+        {
+          "cctvid": "64000C000235",
+          "roadsection": "æ©‹é ­å€-æˆåŠŸåŒ—è·¯éµé“åŒ—è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30592",
+          "py": "22.76687"
+        },
+        {
+          "cctvid": "64000C000236",
+          "roadsection": "å²¡å±±å€-ä»‹å£½æ±è·¯åœ‹ä¸€å²¡å±±äº¤æµé“åŒ—å…¥å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32159",
+          "py": "22.78809"
+        },
+        {
+          "cctvid": "64000C000237",
+          "roadsection": "å²¡å±±å€-ä»‹å£½æ±è·¯åœ‹ä¸€å²¡å±±äº¤æµé“å—å‡ºå£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.31964",
+          "py": "22.78760"
+        },
+        {
+          "cctvid": "64000C000238",
+          "roadsection": "å²¡å±±å€-è–æ£®è·¯å®‰æ‹›è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.31250",
+          "py": "22.78989"
+        },
+        {
+          "cctvid": "64000C000239",
+          "roadsection": "å²¡å±±å€-ä»‹å£½æ±è·¯å²¡ç‡•è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.31504",
+          "py": "22.78657"
+        },
+        {
+          "cctvid": "64000C000240",
+          "roadsection": "å²¡å±±å€-å˜‰æ–°æ±è·¯è–æ£®è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.31108",
+          "py": "22.80773"
+        },
+        {
+          "cctvid": "64000C000241",
+          "roadsection": "å²¡å±±å€-å²¡å±±è·¯æ²³è¯è·¯ï¼Œæ²³è¯è·¯ä¸Šæ§åˆ¶å™¨æ—è™ŸèªŒæ¡¿",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.29215",
+          "py": "22.80157"
+        },
+        {
+          "cctvid": "64000C000242",
+          "roadsection": "å²¡å±±å€-å²¡å±±è·¯æ²³è¯è·¯ï¼Œå²¡å±±è·¯ä¸Šè·¯ç‡ˆæ¡¿",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.29209",
+          "py": "22.80175"
+        },
+        {
+          "cctvid": "64000C000243",
+          "roadsection": "è·¯ç«¹å€-ä¸­å±±å—è·¯æœ¬æ´²äº”è¡—å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.26987",
+          "py": "22.82059"
+        },
+        {
+          "cctvid": "64000C000244",
+          "roadsection": "è·¯ç«¹å€-ä¸­å±±è·¯ä¸­è¯è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.26072",
+          "py": "22.85769"
+        },
+        {
+          "cctvid": "64000C000245",
+          "roadsection": "æ¹–å…§å€-ä¸­å±±è·¯ä¸€æ®µæ±æ–¹è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.24993",
+          "py": "22.88075"
+        },
+        {
+          "cctvid": "64000C000246",
+          "roadsection": "æ¹–å…§å€-ä¸­å±±è·¯äºŒæ®µä¸­è¯è¡—å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.22713",
+          "py": "22.90927"
+        },
+        {
+          "cctvid": "64000C000247",
+          "roadsection": "æ°¸å®‰å€-ä¿å®‰è·¯ä¿å¯§è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.23479",
+          "py": "22.83586"
+        },
+        {
+          "cctvid": "64000C000248",
+          "roadsection": "æ°¸å®‰å€-ä¿å®‰è·¯ç¶­æ–°è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.24311",
+          "py": "22.80817"
+        },
+        {
+          "cctvid": "64000C000249",
+          "roadsection": "å½Œé™€å€-ä¸­æ­£æ±è·¯é¹½åŸ•å¤§è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.24476",
+          "py": "22.79206"
+        },
+        {
+          "cctvid": "64000C000250",
+          "roadsection": "å½Œé™€å€-ä¸­æ­£æ±è·¯ä¸­æ­£å—è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.25280",
+          "py": "22.77555"
+        },
+        {
+          "cctvid": "64000C000251",
+          "roadsection": "æ¢“å®˜å€-å¤§èˆå—è·¯å¤§èˆæ±è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.26143",
+          "py": "22.74713"
+        },
+        {
+          "cctvid": "64000C000252",
+          "roadsection": "å²¡å±±å€-æœ¬æ´²è·¯289è™Ÿå‰è·¯ç‡ˆæ¡¿",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.26323",
+          "py": "22.80738"
+        },
+        {
+          "cctvid": "64000C000253",
+          "roadsection": "æ¹–å…§å€-æ±æ–¹è·¯ä¸€æ®µæ­£å¤§è·¯å£(èˆˆé”æ¸¯é–€å£)",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.21388",
+          "py": "22.87621"
+        },
+        {
+          "cctvid": "64000C000261",
+          "roadsection": "å¤§å¯®å€-é³³æ—äºŒè·¯èˆ‡æ–°åè·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.41177",
+          "py": "22.56120"
+        },
+        {
+          "cctvid": "64000C000262",
+          "roadsection": "å¤§å¯®å€-é³³æ—ä¸€è·¯èˆ‡æœƒçµè·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.41244",
+          "py": "22.55536"
+        },
+        {
+          "cctvid": "64000C000263",
+          "roadsection": "å¤§å¯®å€-é³³æ—è·¯å››æ®µèˆ‡é³³æ—ä¸€è·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.41142",
+          "py": "22.54730"
+        },
+        {
+          "cctvid": "64000C000264",
+          "roadsection": "æ—åœ’å€-é³³æ—è·¯äºŒæ®µèˆ‡ç‹å…¬è·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.39602",
+          "py": "22.51317"
+        },
+        {
+          "cctvid": "64000C000265",
+          "roadsection": "æ—åœ’å€-é³³æ—è·¯äºŒæ®µèˆ‡å¿ å­æ±è·¯äº¤å²”",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.39645",
+          "py": "22.50713"
+        },
+        {
+          "cctvid": "64000C000266",
+          "roadsection": "æ—åœ’å€-é³³æ—è·¯ä¸€æ®µèˆ‡æ±æ—æ±è·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.39762",
+          "py": "22.50377"
+        },
+        {
+          "cctvid": "64000C000267",
+          "roadsection": "æ—åœ’å€-é³³æ—è·¯ä¸€æ®µèˆ‡æ²¿æµ·è·¯äºŒæ®µäº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.39800",
+          "py": "22.50068"
+        },
+        {
+          "cctvid": "64000C000268",
+          "roadsection": "æ—åœ’å€-æ²¿æµ·è·¯äºŒæ®µèˆ‡ç‹å…¬è·¯ï¼Œæ±æ—è¥¿è·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.38242",
+          "py": "22.50356"
+        },
+        {
+          "cctvid": "64000C000269",
+          "roadsection": "æ—åœ’å€-æ²¿æµ·è·¯äºŒæ®µèˆ‡ç‹å…¬è·¯ï¼Œæ±æ—è¥¿è·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.38175",
+          "py": "22.50343"
+        },
+        {
+          "cctvid": "64000C000270",
+          "roadsection": "æ—åœ’å€-ä¸­é–€è·¯èˆ‡å—æ˜Ÿè·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.36269",
+          "py": "22.51052"
+        },
+        {
+          "cctvid": "64000C000271",
+          "roadsection": "å°æ¸¯å€-æ²¿æµ·ä¸‰è·¯èˆ‡æ²¿æµ·å››è·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.36122",
+          "py": "22.51311"
+        },
+        {
+          "cctvid": "64000C000272",
+          "roadsection": "ä»æ­¦å€-é³³ä»è·¯èˆ‡æ¾„è§€è·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.35291",
+          "py": "22.68600"
+        },
+        {
+          "cctvid": "64000C000273",
+          "roadsection": "æ¥ æ¢“å€-é³³ä»è·¯èˆ‡æ°´ç®¡è·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.34212",
+          "py": "22.70619"
+        },
+        {
+          "cctvid": "64000C000274",
+          "roadsection": "é³¥æ¾å€-ä¸­æ­£è·¯èˆ‡å¤§åŸ¤è·¯ï¼Œç¥è¾²è·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.36414",
+          "py": "22.65932"
+        },
+        {
+          "cctvid": "64000C000275",
+          "roadsection": "é³¥æ¾å€-å¤§åŸ¤è·¯èˆ‡ç’°æ¹–è·¯ï¼Œå…¬åœ’è·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.35930",
+          "py": "22.65791"
+        },
+        {
+          "cctvid": "64000C000276",
+          "roadsection": "é³¥æ¾å€-å¤§åŸ¤è·¯èˆ‡é•·åºšè·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.35605",
+          "py": "22.65116"
+        },
+        {
+          "cctvid": "64000C000277",
+          "roadsection": "é³¥æ¾å€-å¤§åŸ¤å—è·¯èˆ‡æ¾„æ¸…è·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.34896",
+          "py": "22.65202"
+        },
+        {
+          "cctvid": "64000C000278",
+          "roadsection": "é³¥æ¾å€-æ¾„æ¸…è·¯èˆ‡åœ“å±±è·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.34834",
+          "py": "22.65027"
+        },
+        {
+          "cctvid": "64000C000279",
+          "roadsection": "é¹½åŸ•å€-å¤§ç¾©è¡—èˆ‡å…¬åœ’äºŒè·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.28556",
+          "py": "22.62023"
+        },
+        {
+          "cctvid": "64000C000280",
+          "roadsection": "é¹½åŸ•å€-å¤§å‹‡è·¯èˆ‡å…¬åœ’äºŒè·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.28270",
+          "py": "22.62160"
+        },
+        {
+          "cctvid": "64000C000281",
+          "roadsection": "è‹“é›…å€-æˆåŠŸäºŒè·¯èˆ‡æ—æ£®å››è·¯äº¤å²”è·¯å£",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.29997",
+          "py": "22.60832"
+        },
+        {
+          "cctvid": "64000C000282",
+          "roadsection": "ä¸‰å¤šå‡±æ—‹æ±åŒ—è§’(éµè·¯æ±å´)",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32528",
+          "py": "22.62077"
+        },
+        {
+          "cctvid": "64000C000283",
+          "roadsection": " è‡¨æµ·æ–°è·¯æ¶ˆé˜²éšŠ",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.27748",
+          "py": "22.62021"
+        },
+        {
+          "cctvid": "64000C000284",
+          "roadsection": "ä¸‰å¤šç¦å¾·æ±åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32783",
+          "py": "22.62160"
+        },
+        {
+          "cctvid": "64000C000285",
+          "roadsection": "ä¸‰å¤šæ²³åŒ—æ±åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.33144",
+          "py": "22.62284"
+        },
+        {
+          "cctvid": "64000C000286",
+          "roadsection": "ä¸‰å¤šæ²³å—è¥¿å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.33114",
+          "py": "22.62273"
+        },
+        {
+          "cctvid": "64000C000287",
+          "roadsection": "ä¸‰å¤šè¼”ä»æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.33342",
+          "py": "22.62352"
+        },
+        {
+          "cctvid": "64000C000288",
+          "roadsection": "äºŒè–å‡±æ—‹è¥¿åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32670",
+          "py": "22.61190"
+        },
+        {
+          "cctvid": "64000C000289",
+          "roadsection": "äºŒè–å‡±æ—‹æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32673",
+          "py": "22.61171"
+        },
+        {
+          "cctvid": "64000C000290",
+          "roadsection": "è‹±ç¥¥å‡±æ—‹è¥¿å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32653",
+          "py": "22.61713"
+        },
+        {
+          "cctvid": "64000C000291",
+          "roadsection": "è‹±ç¥¥å‡±æ—‹æ±åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32664",
+          "py": "22.61717"
+        },
+        {
+          "cctvid": "64000C000292",
+          "roadsection": "è³¢æ˜å‡±æ—‹æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32544",
+          "py": "22.60897"
+        },
+        {
+          "cctvid": "64000C000293",
+          "roadsection": "è‚²æ¨‚å‡±æ—‹æ±å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32491",
+          "py": "22.60665"
+        },
+        {
+          "cctvid": "64000C000294",
+          "roadsection": "ä¸€å¿ƒå‡±æ—‹è¥¿å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32455",
+          "py": "22.60511"
+        },
+        {
+          "cctvid": "64000C000295",
+          "roadsection": "ä¸€å¿ƒå’Œå¹³è¥¿å—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32061",
+          "py": "22.60686"
+        },
+        {
+          "cctvid": "64000C000296",
+          "roadsection": "ä¸€å¿ƒå’Œå¹³æ±åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32086",
+          "py": "22.60683"
+        },
+        {
+          "cctvid": "64000C000297",
+          "roadsection": "ä¸€å¿ƒå‡±æ—‹è¥¿åŒ—è§’",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32461",
+          "py": "22.60523"
+        },
+        {
+          "cctvid": "64000C000298",
+          "roadsection": "å‡±æ—‹å››è·¯/ç­è¶…è·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32425",
+          "py": "22.60331"
+        },
+        {
+          "cctvid": "64000C000299",
+          "roadsection": "å‡±æ—‹å››è·¯/é®èˆˆè·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.31126",
+          "py": "22.59343"
+        },
+        {
+          "cctvid": "64000C000300",
+          "roadsection": "æ——æ´¥æ¸¡è¼ªç«™2",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.26962",
+          "py": "22.61405"
+        },
+        {
+          "cctvid": "64000C000301",
+          "roadsection": "èˆŠå‡±æ—‹å››è·¯èˆ‡ç­è¶…è·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.32377",
+          "py": "22.60362"
+        },
+        {
+          "cctvid": "64000C000302",
+          "roadsection": "å‡±æ—‹å››è·¯èˆ‡å‰é®è¡—",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30803",
+          "py": "22.59259"
+        },
+        {
+          "cctvid": "64000C000303",
+          "roadsection": "æˆåŠŸäºŒè·¯èˆ‡å‡±æ—‹å››è·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30566",
+          "py": "22.59341"
+        },
+        {
+          "cctvid": "64000C000304",
+          "roadsection": "æˆåŠŸäºŒè·¯èˆ‡æ­£å‹¤è·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30241",
+          "py": "22.60179"
+        },
+        {
+          "cctvid": "64000C000305",
+          "roadsection": "ä¸­è¯äº”è·¯èˆ‡å¾©èˆˆä¸‰è·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30483",
+          "py": "22.60647"
+        },
+        {
+          "cctvid": "64000C000306",
+          "roadsection": "æµ·é‚Šè·¯èˆ‡æ°¸å¹³è·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.29202",
+          "py": "22.61264"
+        },
+        {
+          "cctvid": "64000C000307",
+          "roadsection": "æµ·é‚Šè·¯èˆ‡æ–°ç”°è·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.29327",
+          "py": "22.61886"
+        },
+        {
+          "cctvid": "64000C000308",
+          "roadsection": "ä¸ƒè³¢ä¸‰è·¯èˆ‡è“¬èŠè·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.27913",
+          "py": "22.62093"
+        },
+        {
+          "cctvid": "64000C000309",
+          "roadsection": "è‡¨æµ·æ–°è·¯èˆ‡è“¬èŠè·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.27871",
+          "py": "22.61963"
+        },
+        {
+          "cctvid": "64000C700001",
+          "roadsection": "å° 3(å—å¯®å··/å¤–ç’°é“è·¯åˆ°æ¸…èˆˆè¡—/æ——å±äºŒè·¯)",
+          "locationpath": "4997",
+          "startlocationpoint": "9254",
+          "endlocationpoint": "9255",
+          "px": "120.49487",
+          "py": "22.86939"
+        },
+        {
+          "cctvid": "64000C700002",
+          "roadsection": "å° 28(æ¨¹äººæ©«è·¯/å»¶å¹³ä¸‰è·¯åˆ°å° 28/å° 3)",
+          "locationpath": "4911",
+          "startlocationpoint": "9166",
+          "endlocationpoint": "4914",
+          "px": "120.49541",
+          "py": "22.88302"
+        },
+        {
+          "cctvid": "64000C700003",
+          "roadsection": "å° 28(å»¶å¹³äºŒè·¯/ç«¹å¯®å··åˆ°ä¸­å­¸è·¯/ä¸­è¯è·¯)",
+          "locationpath": "4911",
+          "startlocationpoint": "9167",
+          "endlocationpoint": "9168",
+          "px": "120.48485",
+          "py": "22.88215"
+        },
+        {
+          "cctvid": "64000C700004",
+          "roadsection": "å° 3(æ¸…èˆˆè¡—/æ——å±äºŒè·¯åˆ°æ——å±äºŒè·¯/å¤§é‡Œè¡—)",
+          "locationpath": "4997",
+          "startlocationpoint": "9255",
+          "endlocationpoint": "9257",
+          "px": "120.50472",
+          "py": "22.85808"
+        },
+        {
+          "cctvid": "64000C700005",
+          "roadsection": "å° 21(å° 21/å° 28åˆ°æ——å—ä¸€è·¯/ä¸­æ´²è·¯)",
+          "locationpath": "4775",
+          "startlocationpoint": "4787",
+          "endlocationpoint": "9124",
+          "px": "120.47414",
+          "py": "22.87276"
+        },
+        {
+          "cctvid": "64000C700006",
+          "roadsection": "å° 3(å° 3/å° 28åˆ°ä¸­è¯è·¯/å¤–ç’°é“è·¯)",
+          "locationpath": "4997",
+          "startlocationpoint": "5098",
+          "endlocationpoint": "9253",
+          "px": "120.48309",
+          "py": "22.87922"
+        },
+        {
+          "cctvid": "64000C700007",
+          "roadsection": "å° 28(ä¸­èˆˆè·¯äºŒæ®µ/é«˜97åˆ°å»¶å¹³äºŒè·¯/ç«¹å¯®å··)",
+          "locationpath": "4911",
+          "startlocationpoint": "9165",
+          "endlocationpoint": "9167",
+          "px": "120.49646",
+          "py": "22.88308"
+        },
+        {
+          "cctvid": "64000C700008",
+          "roadsection": "å° 3(æ°¸å®‰è¡—/å»¶å¹³ä¸€è·¯åˆ°å° 3/å° 28)",
+          "locationpath": "4997",
+          "startlocationpoint": "9250",
+          "endlocationpoint": "5098",
+          "px": "120.48307",
+          "py": "22.88356"
+        },
+        {
+          "cctvid": "64000C700009",
+          "roadsection": "å° 21(é«˜å±103/æ——å—ä¸‰è·¯åˆ°æ“Šå¤©ç¥è·¯/ä¸­æ­£è·¯)",
+          "locationpath": "4775",
+          "startlocationpoint": "9129",
+          "endlocationpoint": "9130",
+          "px": "120.45897",
+          "py": "22.79939"
+        },
+        {
+          "cctvid": "64000C700010",
+          "roadsection": "å° 21(æ——å—ä¸‰è·¯/å’Œå··|åˆ°é«˜å±103/æ——å—ä¸‰è·¯)",
+          "locationpath": "4775",
+          "startlocationpoint": "9128",
+          "endlocationpoint": "9129",
+          "px": "120.44933",
+          "py": "22.77177"
+        },
+        {
+          "cctvid": "64000C700011",
+          "roadsection": "å° 22(ç¸£186/ä¸­æ­£è·¯åˆ°ç‡•å·¢äº¤æµé“)",
+          "locationpath": "4797",
+          "startlocationpoint": "9262",
+          "endlocationpoint": "4802",
+          "px": "120.36780",
+          "py": "22.76075"
+        },
+        {
+          "cctvid": "64000C700012",
+          "roadsection": "ä¸­å±±è·¯/å’Œå¹³ä¸€è·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.36045",
+          "py": "22.73031"
+        },
+        {
+          "cctvid": "64000C700013",
+          "roadsection": "ç¸£ 186(æ–‡åŒ–å··/ä¸­æ­£è·¯åˆ°ä»æ—è·¯/ä»å¿ƒè·¯)",
+          "locationpath": "9330",
+          "startlocationpoint": "9361",
+          "endlocationpoint": "9363",
+          "px": "120.36012",
+          "py": "22.70320"
+        },
+        {
+          "cctvid": "64000C700014",
+          "roadsection": "ç¸£ 186(æ–‡åŒ–å··/ä¸­æ­£è·¯åˆ°ä»æ—è·¯/ä»å¿ƒè·¯)",
+          "locationpath": "9330",
+          "startlocationpoint": "9361",
+          "endlocationpoint": "9363",
+          "px": "120.35957",
+          "py": "22.70367"
+        },
+        {
+          "cctvid": "64000C700015",
+          "roadsection": "é«˜éµè·¯/é‡ä¿¡è·¯",
+          "locationpath": "99",
+          "startlocationpoint": "99",
+          "endlocationpoint": "99",
+          "px": "120.30807",
+          "py": "22.68652"
+        },
+        {
+          "cctvid": "64000C700016",
+          "roadsection": "å° 21(æ“Šå¤©ç¥è·¯/ä¸­æ­£è·¯åˆ°å¤§å‘è·¯/æºªåŸ”è·¯)",
+          "locationpath": "4775",
+          "startlocationpoint": "9130",
+          "endlocationpoint": "9132",
+          "px": "120.44747",
+          "py": "22.74480"
+        },
+        {
+          "cctvid": "64000C700017",
+          "roadsection": "å° 21(å° 21/å° 22åˆ°èˆˆç”°è·¯/æºªåŸ”è·¯)",
+          "locationpath": "4775",
+          "startlocationpoint": "4788",
+          "endlocationpoint": "9131",
+          "px": "120.44818",
+          "py": "22.75462"
+        },
+        {
+          "cctvid": "64000C700018",
+          "roadsection": "å° 28(ä¸­èˆˆè·¯ä¸€æ®µ/é«˜101åˆ°ä¸­èˆˆè·¯äºŒæ®µ/é«˜97)",
+          "locationpath": "4911",
+          "startlocationpoint": "9163",
+          "endlocationpoint": "9165",
+          "px": "120.53431",
+          "py": "22.88604"
         }
       ]
     }
