@@ -5,12 +5,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 	<title>高雄 Easy Drive</title>
 	<link rel="Shortcut Icon" type="image/x-icon" href="images/eye.png" />
-	<link rel="stylesheet" href="css/all.css">
-	
-	
+	<link rel="stylesheet" href="css/all.css">	
 </head>
 <body>
 <div id="wrapper">
+
 	<div id="header">
 		<div id="title" class="animated fadeInDown">
 			<h1>高雄 Easy Drive</h1>
@@ -46,7 +45,6 @@
 			</div>
 		</div>
 		<div id="social_link">
-			<!--社群連結-->
 			<a href="#" onmouseover="socail_g_over()" onmouseout="socail_g_out()">
 				<img id="socail_g" src="images/social_google2.png" alt="">
 			</a>
@@ -59,9 +57,9 @@
 		</div>
 		<div id="clear"></div>
 	</div>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script src="js/all.js"></script>	
-	<div id="main" class="main_z-index">
+
+	<!-- 主要內容 -->
+	<div id="main" class="hide">
 		<div id="sidebar_wrapper">
 			<div id="sidebar_ctrl">
 				<img id="sidebar_ctrl_img" src="images/left_arrow.png" alt="">
@@ -75,31 +73,175 @@
 				</div>
 				<div id="tab_bottom"></div>
 				<div id="control_panel">
-				<!-- 抽換卡片 -->
-					<div id="t_1_1">
-						<div id="t_1_1_show_methed">
+				<!-- 標籤卡片_測速 -->
+					<div id="c_1" class="tab_card">
+						<div class="range_card_method">
 							<span>顯示方式</span>
-							<img id="t_button" src="images/button_left.png" alt="">
+							<img id="tab_card_button_c_1" src="images/button_left.png" alt="">
 						</div>
-						<div id="t_1_1_range_choose">	
-							<span class="t_1_1_range_choose_title">方圓範圍</span>
+						<!-- 範圍卡片_方圓 -->
+						<div id="c_1_1" class="range_card">	
+							<span class="range_card_title">方圓範圍</span>
 							<hr/>
 							<span>選擇方圓</span>
 							<form>
-								<select name="s_range">
-　									<option value="100">100KM</option>
-									<option value="200">200KM</option>
-									<option value="300">300KM</option>
-									<option value="400">400KM</option>
+								<select name="" onchange="form_select(this[selectedIndex].value,'c_1')">
+									<option value="200">200公尺</option>
+									<option value="500">500公尺</option>
+									<option value="1000">1公里</option>
+									<option value="1500">1.5公里</option>
+									<option value="2000">2公里</option>
+									<option value="3000">3公里</option>
+									<option value="5000">5公里</option>
+									<option value="8000">8公里</option>
 								</select>
 							</form>
 							<span>測速相機</span>
 							<span class="highlight">12</span>
 							<span>個</span>
 							<hr/>
-						</div>	
+						</div>
+						<!--=====-->
+						<!-- 範圍卡片_行政區-->
+						<div id="c_1_2" class="range_card">	
+							<span class="range_card_title">行政區範圍</span>
+							<hr/>
+							<span>選擇行政區</span>
+							<form>
+								<select name="" onchange="form_select(this[selectedIndex].value,'c_1')">
+									<option value="高雄全區">高雄全區</option>
+　									<option value="楠梓區" >楠梓區</option>
+									<option value="左營區">左營區</option>
+									<option value="鼓山區">鼓山區</option>
+									<option value="三民區">三民區</option>
+									<option value="鹽埕區">鹽埕區</option>
+									<option value="前金區">前金區</option>
+									<option value="新興區">新興區</option>
+									<option value="苓雅區">苓雅區</option>
+									<option value="前鎮區">前鎮區</option>
+									<option value="旗津區">旗津區</option>
+									<option value="小港區">小港區</option>
+									<option value="鳳山區">鳳山區</option>
+									<option value="大寮區">大寮區</option>
+									<option value="鳥松區">鳥松區</option>
+									<option value="林園區">林園區</option>
+									<option value="仁武區">仁武區</option>
+									<option value="大樹區">大樹區</option>
+									<option value="大社區">大社區</option>
+									<option value="岡山區">岡山區</option>
+									<option value="路竹區">路竹區</option>
+									<option value="橋頭區">橋頭區</option>
+									<option value="梓官區">梓官區</option>
+									<option value="彌陀區">彌陀區</option>
+									<option value="燕巢區">燕巢區</option>
+									<option value="田寮區">田寮區</option>
+									<option value="阿蓮區">阿蓮區</option>
+									<option value="茄萣區">茄萣區</option>
+									<option value="湖內區">湖內區</option>
+									<option value="旗山區">旗山區</option>
+									<option value="美濃區">美濃區</option>
+									<option value="內門區">內門區</option>
+									<option value="杉林區">杉林區</option>
+									<option value="甲仙區">甲仙區</option>
+									<option value="六龜區">六龜區</option>
+									<option value="茂林區">茂林區</option>
+									<option value="桃源區">桃源區</option>
+									<option value="那瑪夏區">那瑪夏區</option>
+								</select>
+							</form>
+							<span>測速相機</span>
+							<span class="highlight">24</span>
+							<span>個</span>
+							<hr/>
+						</div>
+						<!--=====-->
 					</div>
-				<!--===-->
+				<!--=====-->
+				<!-- 標籤卡片_車流量 -->
+					<div id="c_2" class="tab_card">
+						<!-- <div class="range_card_method">
+							<span>顯示方式</span>
+							<img id="tab_card_button_c_2" src="images/button_left.png" alt="">
+						</div> -->
+						<!-- 範圍卡片_方圓 -->
+						<div id="c_2_1" class="range_card">	
+							<span class="range_card_title">方圓範圍</span>
+							<hr/>
+							<span>選擇方圓</span>
+							<form>
+								<select id="c_2_form" onchange="form_select(this[selectedIndex].value,'c_2')">
+　									<option value="200">200公尺</option>
+									<option value="500">500公尺</option>
+									<option value="1000">1公里</option>
+									<option value="1500">1.5公里</option>
+									<option value="2000">2公里</option>
+									<option value="3000">3公里</option>
+									<option value="5000">5公里</option>
+									<option value="8000">8公里</option>
+								</select>
+							</form>
+							<span>即時影像</span>
+							<div class="monitor">
+								<span>請點擊地圖上的地標</span>
+								<iframe class="monitor_i" src="" frameborder="0"></iframe>
+							</div>
+							<hr/>
+						</div>
+						<!--=====-->
+						<!-- 範圍卡片_行政區-->
+						<div id="c_2_2" class="range_card">	
+							<span class="range_card_title">行政區範圍</span>
+							<hr/>
+							<span>選擇行政區</span>
+							<form>
+								<select name="" onchange="form_select(this[selectedIndex].value,'c_2')">
+　									<option value="高雄全區">高雄全區</option>
+　									<option value="楠梓區">楠梓區</option>
+									<option value="左營區">左營區</option>
+									<option value="鼓山區">鼓山區</option>
+									<option value="三民區">三民區</option>
+									<option value="鹽埕區">鹽埕區</option>
+									<option value="前金區">前金區</option>
+									<option value="新興區">新興區</option>
+									<option value="苓雅區">苓雅區</option>
+									<option value="前鎮區">前鎮區</option>
+									<option value="旗津區">旗津區</option>
+									<option value="小港區">小港區</option>
+									<option value="鳳山區">鳳山區</option>
+									<option value="大寮區">大寮區</option>
+									<option value="鳥松區">鳥松區</option>
+									<option value="林園區">林園區</option>
+									<option value="仁武區">仁武區</option>
+									<option value="大樹區">大樹區</option>
+									<option value="大社區">大社區</option>
+									<option value="岡山區">岡山區</option>
+									<option value="路竹區">路竹區</option>
+									<option value="橋頭區">橋頭區</option>
+									<option value="梓官區">梓官區</option>
+									<option value="彌陀區">彌陀區</option>
+									<option value="燕巢區">燕巢區</option>
+									<option value="田寮區">田寮區</option>
+									<option value="阿蓮區">阿蓮區</option>
+									<option value="茄萣區">茄萣區</option>
+									<option value="湖內區">湖內區</option>
+									<option value="旗山區">旗山區</option>
+									<option value="美濃區">美濃區</option>
+									<option value="內門區">內門區</option>
+									<option value="杉林區">杉林區</option>
+									<option value="甲仙區">甲仙區</option>
+									<option value="六龜區">六龜區</option>
+									<option value="茂林區">茂林區</option>
+									<option value="桃源區">桃源區</option>
+									<option value="那瑪夏區">那瑪夏區</option>
+								</select>
+							</form>
+							<span>即時影像</span>
+							<div class="monitor"></div>
+							<hr/>
+						</div>
+						<!--=====-->
+					</div>
+				<!--=====-->
 				</div>
 				<div id="clear"></div>
 			</div>			
@@ -109,6 +251,8 @@
 	<div id="clear"></div>
 </div>
 </body>
-
 </html>
+<!-- 載入外部資源 -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="js/all.js"></script>
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"/>
