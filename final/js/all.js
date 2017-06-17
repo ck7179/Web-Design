@@ -434,8 +434,9 @@ function getData_2(map,v){
 
 function load_imag(i){
 	/*console.log("load1",i);
+	/*http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id="+i+"&w=270&h=220*/
 	$('.monitor_i').empty();
-	$('.monitor_i').attr('src',"http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id="+i+"&w=270&h=220")     
+	$('.monitor_i').attr('src',"https://ck7179.github.io/temp/1.html")     
 	.load(function(){ 
 		console.log("11111");
 	    
