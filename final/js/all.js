@@ -24,7 +24,7 @@ $(document).ready(function(){
 		if(writeGoogleMapsScript()){
 			
 		}	
-	},false); 
+	},false);
 
 	//sidebar_ctrl click event handle
 	sidebar_ctrl.style.cursor = 'pointer';
@@ -433,9 +433,9 @@ function getData_2(map,v){
 }
 
 function load_imag(i){
-	console.log("load1",i);
+	/*console.log("load1",i);
 	$('.monitor_i').empty();
-	$('.monitor_i').attr('src',"https://ck7179.github.io/Web-Design/poya/")     
+	$('.monitor_i').attr('src',"http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id="+i+"&w=270&h=220")     
 	.load(function(){ 
 		console.log("11111");
 	    
@@ -443,7 +443,9 @@ function load_imag(i){
         $(this).height('350px');
 	    //$('.monitor').append( $(this) );
 	});
-	console.log("load2",i);
+	console.log("load2",i);*/
+	$('#call').addClass("display_hide");
+	$('#open').attr('href','http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id='+i+'&w=270&h=220').text("點擊查看即時影像");
 	}		
 
 //經緯度計算距離function
