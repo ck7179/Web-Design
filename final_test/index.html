@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<title>高雄 Easy Drive</title>
+	<link rel="Shortcut Icon" type="image/x-icon" href="images/eye.png" />
+	<link rel="stylesheet" href="css/all.css">	
+</head>
+<body>
+<div id="wrapper">
+
+	<div id="header">
+		<div id="title" class="animated fadeInDown">
+			<h1>高雄 Easy Drive</h1>
+		</div>	
+	</div>
+	<div id="middle">
+		<div id="box" class="animated flipInX">
+			<div id="box_content">
+				<h2>讓你簡單駕駛<br/>不被塞車及罰單影響心情</h2>
+			</div>
+			<div id="box_arrow" class="animated infinite fadeOutRight">
+				<img src="images/right_arrow.png" alt="">
+			</div>
+			<div id="clear"></div>
+		</div>
+	</div>
+	
+	<div id="footer"  class="animated fadeInUp">
+		<div id="about">
+			<div id="about_content">
+				<h5>ABOUT US</h5>
+				<p>在行車前先行規劃路程，避開車流量多的地區以及避開測速照相機的區域，讓您行車時能夠更簡單。</p>
+			</div>
+		</div>
+		<div id="connect">
+			<div id="connect_content">
+				<h5>CONTACT US</h5>
+				<ul>
+					<li>高雄市楠梓區高雄大學路700號</li>
+					<li>07-591 9000</li>
+					<li>poyang@nuk.edu.tw</li>
+				</ul>
+			</div>
+		</div>
+		<div id="social_link">
+			<a href="#" onmouseover="socail_g_over()" onmouseout="socail_g_out()">
+				<img id="socail_g" src="images/social_google2.png" alt="">
+			</a>
+			<a href="#" onmouseover="socail_t_over()" onmouseout="socail_t_out()">
+				<img id="socail_t" src="images/social_twitter2.png" alt="">
+			</a>
+			<a href="#" onmouseover="socail_f_over()" onmouseout="socail_f_out()">
+				<img id="socail_f" src="images/social_facebook2.png" alt="">
+			</a>
+		</div>
+		<div id="clear"></div>
+	</div>
+
+	<!-- 主要內容 -->
+	<div id="main" class="hide">
+		<div id="sidebar_wrapper">
+			<div id="sidebar_ctrl">
+				<img id="sidebar_ctrl_img" src="images/left_arrow.png" alt="">
+			</div>
+			<div id="sidebar" class="sidebar_position">
+				<div id="t_1" class="tab t_select">
+					<span>測速相機</span>
+				</div>
+				<div id="t_2" class="tab">
+					<span>車流量</span>
+				</div>
+				<div id="tab_bottom"></div>
+				<div id="control_panel">
+				<!-- 標籤卡片_測速 -->
+					<div id="c_1" class="tab_card">
+						<div class="range_card_method">
+							<span>顯示方式</span>
+							<img id="tab_card_button_c_1" src="images/button_left.png" alt="">
+						</div>
+						<!-- 範圍卡片_方圓 -->
+						<div id="c_1_1" class="range_card">	
+							<span class="range_card_title">方圓範圍</span>
+							<hr/>
+							<span>選擇方圓</span>
+							<form>
+								<select name="" onchange="form_select(this[selectedIndex].value,'c_1')">
+									<option value="200">200公尺</option>
+									<option value="500">500公尺</option>
+									<option value="1000">1公里</option>
+									<option value="1500">1.5公里</option>
+									<option value="2000">2公里</option>
+									<option value="3000">3公里</option>
+									<option value="5000">5公里</option>
+									<option value="8000">8公里</option>
+								</select>
+							</form>
+							<span>測速相機</span>
+							<span class="highlight">12</span>
+							<span>個</span>
+							<hr/>
+						</div>
+						<!--=====-->
+						<!-- 範圍卡片_行政區-->
+						<div id="c_1_2" class="range_card">	
+							<span class="range_card_title">行政區範圍</span>
+							<hr/>
+							<span>選擇行政區</span>
+							<form>
+								<select name="" onchange="form_select(this[selectedIndex].value,'c_1')">
+									<option value="高雄全區">高雄全區</option>
+　									<option value="楠梓區" >楠梓區</option>
+									<option value="左營區">左營區</option>
+									<option value="鼓山區">鼓山區</option>
+									<option value="三民區">三民區</option>
+									<option value="鹽埕區">鹽埕區</option>
+									<option value="前金區">前金區</option>
+									<option value="新興區">新興區</option>
+									<option value="苓雅區">苓雅區</option>
+									<option value="前鎮區">前鎮區</option>
+									<option value="旗津區">旗津區</option>
+									<option value="小港區">小港區</option>
+									<option value="鳳山區">鳳山區</option>
+									<option value="大寮區">大寮區</option>
+									<option value="鳥松區">鳥松區</option>
+									<option value="林園區">林園區</option>
+									<option value="仁武區">仁武區</option>
+									<option value="大樹區">大樹區</option>
+									<option value="大社區">大社區</option>
+									<option value="岡山區">岡山區</option>
+									<option value="路竹區">路竹區</option>
+									<option value="橋頭區">橋頭區</option>
+									<option value="梓官區">梓官區</option>
+									<option value="彌陀區">彌陀區</option>
+									<option value="燕巢區">燕巢區</option>
+									<option value="田寮區">田寮區</option>
+									<option value="阿蓮區">阿蓮區</option>
+									<option value="茄萣區">茄萣區</option>
+									<option value="湖內區">湖內區</option>
+									<option value="旗山區">旗山區</option>
+									<option value="美濃區">美濃區</option>
+									<option value="內門區">內門區</option>
+									<option value="杉林區">杉林區</option>
+									<option value="甲仙區">甲仙區</option>
+									<option value="六龜區">六龜區</option>
+									<option value="茂林區">茂林區</option>
+									<option value="桃源區">桃源區</option>
+									<option value="那瑪夏區">那瑪夏區</option>
+								</select>
+							</form>
+							<span>測速相機</span>
+							<span class="highlight">24</span>
+							<span>個</span>
+							<hr/>
+						</div>
+						<!--=====-->
+					</div>
+				<!--=====-->
+				<!-- 標籤卡片_車流量 -->
+					<div id="c_2" class="tab_card">
+						<!-- <div class="range_card_method">
+							<span>顯示方式</span>
+							<img id="tab_card_button_c_2" src="images/button_left.png" alt="">
+						</div> -->
+						<!-- 範圍卡片_方圓 -->
+						<div id="c_2_1" class="range_card">	
+							<span class="range_card_title">方圓範圍</span>
+							<hr/>
+							<span>選擇方圓</span>
+							<form>
+								<select id="c_2_form" onchange="form_select(this[selectedIndex].value,'c_2')">
+　									<option value="200">200公尺</option>
+									<option value="500">500公尺</option>
+									<option value="1000">1公里</option>
+									<option value="1500">1.5公里</option>
+									<option value="2000">2公里</option>
+									<option value="3000">3公里</option>
+									<option value="5000">5公里</option>
+									<option value="8000">8公里</option>
+								</select>
+							</form>
+							<span>即時影像</span>
+							<div class="monitor">
+								<span id="call">請點擊地圖上的地標</span>
+								<a id="open" href="" target="view_window"></a>
+								<!-- <iframe class="monitor_i" src="" frameborder="0"></iframe> -->
+							</div>
+							<hr/>
+						</div>
+						<!--=====-->
+						<!-- 範圍卡片_行政區-->
+						<div id="c_2_2" class="range_card">	
+							<span class="range_card_title">行政區範圍</span>
+							<hr/>
+							<span>選擇行政區</span>
+							<form>
+								<select name="" onchange="form_select(this[selectedIndex].value,'c_2')">
+　									<option value="高雄全區">高雄全區</option>
+　									<option value="楠梓區">楠梓區</option>
+									<option value="左營區">左營區</option>
+									<option value="鼓山區">鼓山區</option>
+									<option value="三民區">三民區</option>
+									<option value="鹽埕區">鹽埕區</option>
+									<option value="前金區">前金區</option>
+									<option value="新興區">新興區</option>
+									<option value="苓雅區">苓雅區</option>
+									<option value="前鎮區">前鎮區</option>
+									<option value="旗津區">旗津區</option>
+									<option value="小港區">小港區</option>
+									<option value="鳳山區">鳳山區</option>
+									<option value="大寮區">大寮區</option>
+									<option value="鳥松區">鳥松區</option>
+									<option value="林園區">林園區</option>
+									<option value="仁武區">仁武區</option>
+									<option value="大樹區">大樹區</option>
+									<option value="大社區">大社區</option>
+									<option value="岡山區">岡山區</option>
+									<option value="路竹區">路竹區</option>
+									<option value="橋頭區">橋頭區</option>
+									<option value="梓官區">梓官區</option>
+									<option value="彌陀區">彌陀區</option>
+									<option value="燕巢區">燕巢區</option>
+									<option value="田寮區">田寮區</option>
+									<option value="阿蓮區">阿蓮區</option>
+									<option value="茄萣區">茄萣區</option>
+									<option value="湖內區">湖內區</option>
+									<option value="旗山區">旗山區</option>
+									<option value="美濃區">美濃區</option>
+									<option value="內門區">內門區</option>
+									<option value="杉林區">杉林區</option>
+									<option value="甲仙區">甲仙區</option>
+									<option value="六龜區">六龜區</option>
+									<option value="茂林區">茂林區</option>
+									<option value="桃源區">桃源區</option>
+									<option value="那瑪夏區">那瑪夏區</option>
+								</select>
+							</form>
+							<span>即時影像</span>
+							<div class="monitor"></div>
+							<hr/>
+						</div>
+						<!--=====-->
+					</div>
+				<!--=====-->
+				</div>
+				<div id="clear"></div>
+			</div>			
+		</div>	
+		<div id="map"></div>
+	</div>
+	<div id="clear"></div>
+</div>
+</body>
+</html>
+<!-- 載入外部資源 -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="js/all.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"/>
