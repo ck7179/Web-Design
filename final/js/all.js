@@ -24,7 +24,7 @@ $(document).ready(function(){
 		if(writeGoogleMapsScript()){
 			
 		}	
-	},false);
+	},false); 
 
 	//sidebar_ctrl click event handle
 	sidebar_ctrl.style.cursor = 'pointer';
