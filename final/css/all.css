@@ -185,10 +185,10 @@ body{
 	left: 0px;
 	background: white;
 }
-.main_z-index{
+.hide{
 	/**/visibility:hidden;
 }
-.hide{ /*js*/
+.show{ /*js*/
 	visibility: visible;
 }
 #sidebar_wrapper{
@@ -235,7 +235,7 @@ body{
 	padding: 10px;
 	float: left;
 	text-align: center;
-	box-shadow: inset 3px -3px 10px rgb(70,70,70);
+	box-shadow: inset 0px -3px 10px rgb(70,70,70);
 	background: rgb(97,97,97);
 	transition: all 0.5s;
 }
@@ -254,6 +254,7 @@ body{
 .t_select{
 	box-shadow:none;
 	background: rgb(130,116,104);
+	box-shadow: -5px 0px 15px rgb(80,80,80);
 }
 #tab_bottom{
 	width: 100%;
@@ -273,38 +274,47 @@ body{
 	border:none;
 	border-top:3px double rgb(130,116,104);
 }
-#t_1_1{
+#c_2,#c_1_2,#c_2_2{
+	display: none;
+}
+.display_hide{
+	display: none !important;
+}
+.display_show{
+	display: block !important;
+}
+.tab_card{
 	width: 260px;
 }
-#t_1_1_show_methed{
+.range_card_method{
 	height: 30px;
 	padding-bottom: 30px;
 	font-size: 120%;
 }
-#t_1_1_show_methed>img{
+.range_card_method>img{
 	width: 20%;
 	padding-left: 120px;
 	cursor: pointer;
 }
-#t_1_1_range_choose{
-	height: 150px;
+.range_card{
+
 	padding-bottom: 30px;
 }
-.t_1_1_range_choose_title{
+.range_card_title{
 	font-size: 120%;
 }
-#t_1_1_range_choose span:not(.t_1_1_range_choose_title){
+.range_card span:not(.range_card_title){
 	padding-left: 20px;
 	line-height: 70px;
 	font-size: 120%;
 }
-#t_1_1_range_choose>form{
+.range_card>form{
 	width: 100px;
-	padding-left: 50px;
+	padding-left: 35px;
 	margin-top: -30px;	
 	display: inline-block;	
 }
-select{
+.range_card>form>select{
 	height: 22px;
 	letter-spacing:5px;
     box-sizing: border-box;
@@ -319,18 +329,44 @@ select{
     -moz-transition: all 0.30s ease-in-out;
     -ms-transition: all 0.30s ease-in-out;
     -o-transition: all 0.30s ease-in-out;
-    outline: none;  
+    outline: none; 
+    cursor: pointer; 
 }
-select:focus{
+.range_card>form>select:focus{
     -moz-box-shadow: 0 0 8px rgb(197,90,17);
     -webkit-box-shadow: 0 0 8px rgb(197,90,17);
     box-shadow: 0 0 8px rgb(197,90,17);
     border: 1px solid rgb(197,90,17);
 }
-.highlight{
+.range_card>.highlight{
 	color: rgb(197,90,17);
 	font-size: 250% !important;
 	margin-left: 25px; 
+}
+.monitor{
+	width: 100%;
+	height: 200px;
+	margin-bottom: 20px;
+	display: inline-block;
+	background: white;
+	position: relative;
+	overflow: hidden;
+}
+.monitor>span{
+	padding-left: 0 !important; 
+	display: block;
+	margin:0 auto;
+	margin-top: 50px;
+    text-align: center;
+    color: rgb(70,70,70);
+	font-family: Microsoft JhengHei;
+
+}
+.monitor_i{
+	position: absolute;
+	top:-49px;
+	left: 0px;
+	overflow: hidden;
 }
 #map{
 	width: 100%;
