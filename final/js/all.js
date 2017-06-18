@@ -29,13 +29,13 @@ $(document).ready(function(){
 	//sidebar_ctrl click event handle
 	sidebar_ctrl.style.cursor = 'pointer';
 	sidebar_ctrl.addEventListener('click', function() {		
-		if($(sidebar).hasClass("slide_left")){
-			$(sidebar_wrapper).width(320);
-			$(sidebar).removeClass("slide_left");
+		if($('#sidebar').hasClass("slide_left")){
+			$('#sidebar_wrapper').width(320);
+			$('#sidebar').removeClass("slide_left");
 			document.getElementById('sidebar_ctrl_img').src="images/left_arrow.png";
 		}else{
-			$(sidebar_wrapper).width(30);
-			$(sidebar).addClass("slide_left");
+			$('#sidebar_wrapper').width(30);
+			$('#sidebar').addClass("slide_left");
 			document.getElementById('sidebar_ctrl_img').src="images/right_arrow.png";
 		}	
 	},false);
