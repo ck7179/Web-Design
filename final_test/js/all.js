@@ -435,7 +435,7 @@ function getData_2(map,v){
 function load_imag(i){
 	console.log("load1",i);
 	$('.monitor_i').empty();
-	$('.monitor_i').attr('src',"https://ck7179.github.io/temp/1.html")     
+	$('.monitor_i').attr('src',"https://ck7179.github.io/temp/"+i+".html")     
 	.load(function(){ 
 		console.log("11111");
 	    
