@@ -460,6 +460,9 @@ body{
 	}
 }
 @media only screen and (max-width: 414px){
+	#mask>img{
+		margin-top:150px;
+	}	
 	#title>h1{
 		font-size: 200%;
 		letter-spacing: 5px;
