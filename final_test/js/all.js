@@ -8,6 +8,7 @@ function socail_f_out(){document.getElementById('socail_f').src ="images/social_
 
 /*=====wrapper_js=====*/
 $(document).ready(function(){
+	$('#mask').fadeToggle();
 	var box = document.getElementById('box');
 	var sidebar_ctrl = document.getElementById('sidebar_ctrl');
 	var t_1 = document.getElementById('t_1');
