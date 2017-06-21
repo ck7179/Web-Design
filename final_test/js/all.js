@@ -339,29 +339,28 @@ function getData_2(map,v){
 		var infoWindows = [];
 		if(typeof(v)=='string'){ //行政區範圍
 			if(v=="高雄全區"){
-				for(var i=0;data.length>i;i++){	
-					var marker_loc =  new google.maps.LatLng(parseFloat(data[i].py),parseFloat(data[i].px));
+				var trafficLayer = new google.maps.TrafficLayer();
+        			trafficLayer.setMap(map);
+				for(var i=0;data.length>i;i++){
+					marker_loc = {lat: parseFloat(data[i].py), lng: parseFloat(data[i].px)};
+			   		var marker=[];
+			   		marker[i] = new google.maps.Marker({
+						position: marker_loc,
+						map: map,
+						zIndex:1,
+						id:data[i].cctvid,
+						num:i
+					});
+					markers.push(marker);
 					marker_locs.push(marker_loc);
-					heat_locs.push({location:marker_loc,weight:1});	
+					var message = '<span class="marker_title">動態即時影像</span><p class="marker_p">位置:'+data[i].roadsection+'</p><p class="marker_p">cctv編號:'+data[i].cctvid+'</p>';
+					addInfoWindow(marker[i],message);
+					marker[i].addListener('click',function(){
+						console.log(this.id);
+						load_imag(this.id);
+					});
 				}
-				addHeatMap(heat_locs,map);
 				map.setZoom(12);
-			}else{		
-				for(var i=1;data.length>i;i++){				
-					if(data[i].CityName=="高雄市" && data[i].RegionName==v){
-						marker_loc = {lat: parseFloat(data[i].Latitude), lng: parseFloat(data[i].Longitude)};
-			   			var marker = new google.maps.Marker({
-							position: marker_loc,
-							map: map,
-							zIndex:1,
-							label: data[i].limit
-						});
-						markers.push(marker);
-						marker_locs.push(marker_loc);
-						var message = '<span class="marker_title">測速照相機</span><p class="marker_p">位置:'+data[i].Address+'</p><p class="marker_p">方向:'+data[i].direct+'</p>';
-						addInfoWindow(marker,message);
-					}		
-				}			
 			}
 			if(marker_locs[0]){
 				map.setCenter(marker_locs[0]);
@@ -405,9 +404,6 @@ function getData_2(map,v){
 							load_imag(this.id);
 							//load_imag(marker.id);
 						});	
-						function go(a){
-							alert(a);
-						}
 					}
 									
 			}
