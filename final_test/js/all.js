@@ -55,7 +55,7 @@ $(document).ready(function(){
 				$('#c_1_1_form').val("200");
 			}else{
 				settingMap(14,'高雄全區','c_1');
-				$('#c_1_2_form').val("200");
+				$('#c_1_2_form').val("高雄全區");
 			}
 		}
 	},false);
@@ -94,6 +94,7 @@ $(document).ready(function(){
 				$(c_1_2).removeClass("display_hide");
 				$(c_1_2).addClass("display_show");
 				settingMap(15,"高雄全區",'c_1');
+				$('#c_1_2_form').val("高雄全區");
 			}else{
 				$(c_2_1).removeClass("display_show");
 				$(c_2_1).addClass("display_hide");
