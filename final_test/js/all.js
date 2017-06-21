@@ -50,7 +50,13 @@ $(document).ready(function(){
 			$(c_2).addClass("display_hide");
 			$(c_1).removeClass("display_hide");
 			$(c_1).addClass("display_show");
-			settingMap(16,200,'c_1');
+			if($('#tab_card_button_c_1').attr('src')=="images/button_left.png"){
+				settingMap(16,200,'c_1');
+				$('#c_1_1_form').val("200");
+			}else{
+				settingMap(14,'高雄全區','c_1');
+				$('#c_1_2_form').val("200");
+			}
 		}
 	},false);
 	t_2.addEventListener('click', function(){
