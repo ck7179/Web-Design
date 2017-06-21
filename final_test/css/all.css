@@ -286,7 +286,7 @@ body{
 #control_panel hr{
 	height:3px;
 	border:none;
-	border-top:3px double rgb(130,116,104);
+	border-top:3px solid rgba(179,159,147,0.8);
 }
 #c_2,#c_1_2,#c_2_2{
 	display: none;
@@ -321,12 +321,13 @@ body{
 	padding-left: 20px;
 	line-height: 70px;
 	font-size: 120%;
+	float: left;
 }
 .range_card>form{
-	width: 100px;
-	padding-left: 35px;
-	margin-top: -30px;	
-	display: inline-block;	
+	width: 144px;
+	height: 70px;
+	display: block;	
+	float: left;	
 }
 .range_card>form>select{
 	height: 22px;
@@ -335,7 +336,6 @@ body{
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     border:1px solid #BEBEBE;
-    padding: 3px;
     padding-left: 6px;
     padding-right: 6px;
    	border-radius:6px;
@@ -344,7 +344,11 @@ body{
     -ms-transition: all 0.30s ease-in-out;
     -o-transition: all 0.30s ease-in-out;
     outline: none; 
-    cursor: pointer; 
+    cursor: pointer;
+    margin-top: 24px;
+    margin-right: 4px;
+    position: absolute;
+    right: 20px; 
 }
 .range_card>form>select:focus{
     -moz-box-shadow: 0 0 8px rgb(197,90,17);
@@ -355,7 +359,8 @@ body{
 .range_card>.highlight{
 	color: rgb(197,90,17);
 	font-size: 250% !important;
-	margin-left: 25px; 
+	margin-left: 30px;
+        line-height: 55px !important; 
 }
 .monitor{
 	width: 100%;
@@ -369,7 +374,7 @@ body{
 .monitor>span{
 	padding-left: 0 !important; 
 	display: block;
-	margin:0 auto;
+	margin-left:40px;
 	margin-top: 50px;
     text-align: center;
     color: rgb(70,70,70);
